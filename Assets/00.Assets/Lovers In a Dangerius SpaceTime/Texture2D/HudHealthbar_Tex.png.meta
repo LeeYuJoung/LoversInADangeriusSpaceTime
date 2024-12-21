@@ -1,0 +1,7605 @@
+fileFormatVersion: 2
+guid: 1eac688c5ddaf094dbc43eed3e89d3d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6666361573177425808
+    second: HudHealthbar_Tex_0
+  - first:
+      213: -5156751043138938089
+    second: HudHealthbar_Tex_1
+  - first:
+      213: -8569721106363439633
+    second: HudHealthbar_Tex_2
+  - first:
+      213: -2013502604681138927
+    second: HudHealthbar_Tex_3
+  - first:
+      213: -7037139384978552801
+    second: HudHealthbar_Tex_4
+  - first:
+      213: 8720578058321412824
+    second: HudHealthbar_Tex_5
+  - first:
+      213: 8737008604726203588
+    second: HudHealthbar_Tex_6
+  - first:
+      213: 7920354367225140999
+    second: HudHealthbar_Tex_7
+  - first:
+      213: 6901001115536154178
+    second: HudHealthbar_Tex_8
+  - first:
+      213: -7607290213130685950
+    second: HudHealthbar_Tex_9
+  - first:
+      213: 7991771772053895459
+    second: HudHealthbar_Tex_10
+  - first:
+      213: -363018305254530574
+    second: HudHealthbar_Tex_11
+  - first:
+      213: -4924250711260948577
+    second: HudHealthbar_Tex_12
+  - first:
+      213: -4372614903765410619
+    second: HudHealthbar_Tex_13
+  - first:
+      213: 5665699620748288898
+    second: HudHealthbar_Tex_14
+  - first:
+      213: 5804397466590320417
+    second: HudHealthbar_Tex_15
+  - first:
+      213: -8906183370147701930
+    second: HudHealthbar_Tex_16
+  - first:
+      213: 6067156810154562250
+    second: HudHealthbar_Tex_17
+  - first:
+      213: -8314846721810476052
+    second: HudHealthbar_Tex_18
+  - first:
+      213: -4042274259151973199
+    second: HudHealthbar_Tex_19
+  - first:
+      213: -1956556662872371396
+    second: HudHealthbar_Tex_20
+  - first:
+      213: 5566491852214339511
+    second: HudHealthbar_Tex_21
+  - first:
+      213: 2207811379491041798
+    second: HudHealthbar_Tex_22
+  - first:
+      213: -5144723971094325680
+    second: HudHealthbar_Tex_23
+  - first:
+      213: 5120494805141433260
+    second: HudHealthbar_Tex_24
+  - first:
+      213: -7069107717202605505
+    second: HudHealthbar_Tex_25
+  - first:
+      213: 6584332244021663800
+    second: HudHealthbar_Tex_26
+  - first:
+      213: -8472263900462018228
+    second: HudHealthbar_Tex_27
+  - first:
+      213: -4592974910110886494
+    second: HudHealthbar_Tex_28
+  - first:
+      213: -9191979853686540417
+    second: HudHealthbar_Tex_29
+  - first:
+      213: -7721122085926302055
+    second: HudHealthbar_Tex_30
+  - first:
+      213: 1960643531999732788
+    second: HudHealthbar_Tex_31
+  - first:
+      213: -7316397235817782369
+    second: HudHealthbar_Tex_32
+  - first:
+      213: -1571790115448738066
+    second: HudHealthbar_Tex_33
+  - first:
+      213: 9218202188859667162
+    second: HudHealthbar_Tex_34
+  - first:
+      213: 8389666643247346598
+    second: HudHealthbar_Tex_35
+  - first:
+      213: -5371501643288180604
+    second: HudHealthbar_Tex_36
+  - first:
+      213: 5565888966673044162
+    second: HudHealthbar_Tex_37
+  - first:
+      213: -1474850683838248839
+    second: HudHealthbar_Tex_38
+  - first:
+      213: -7779488781745008051
+    second: HudHealthbar_Tex_39
+  - first:
+      213: -2997086468983876486
+    second: HudHealthbar_Tex_40
+  - first:
+      213: -1755621918697513772
+    second: HudHealthbar_Tex_41
+  - first:
+      213: 2677669709254689190
+    second: HudHealthbar_Tex_42
+  - first:
+      213: -5372008254884763451
+    second: HudHealthbar_Tex_43
+  - first:
+      213: -4216738106338186121
+    second: HudHealthbar_Tex_44
+  - first:
+      213: 1935488071650164297
+    second: HudHealthbar_Tex_45
+  - first:
+      213: 1860177882959662447
+    second: HudHealthbar_Tex_46
+  - first:
+      213: -8278023115333572974
+    second: HudHealthbar_Tex_47
+  - first:
+      213: -560225497247223019
+    second: HudHealthbar_Tex_48
+  - first:
+      213: 2164507359648699621
+    second: HudHealthbar_Tex_49
+  - first:
+      213: 9137120190221534622
+    second: HudHealthbar_Tex_50
+  - first:
+      213: -2587951189139507589
+    second: HudHealthbar_Tex_51
+  - first:
+      213: -550205361827435223
+    second: HudHealthbar_Tex_52
+  - first:
+      213: 1578029067360822890
+    second: HudHealthbar_Tex_53
+  - first:
+      213: 4105668451680816266
+    second: HudHealthbar_Tex_54
+  - first:
+      213: -5532131190834053537
+    second: HudHealthbar_Tex_55
+  - first:
+      213: -4678789100511369987
+    second: HudHealthbar_Tex_56
+  - first:
+      213: -6437245339684391452
+    second: HudHealthbar_Tex_57
+  - first:
+      213: 5344453459064538691
+    second: HudHealthbar_Tex_58
+  - first:
+      213: 6297983288829632605
+    second: HudHealthbar_Tex_59
+  - first:
+      213: 5019938591848634513
+    second: HudHealthbar_Tex_60
+  - first:
+      213: 842300111926599489
+    second: HudHealthbar_Tex_61
+  - first:
+      213: -1816225251675669031
+    second: HudHealthbar_Tex_62
+  - first:
+      213: 9181945847910590158
+    second: HudHealthbar_Tex_63
+  - first:
+      213: -853987933239378650
+    second: HudHealthbar_Tex_64
+  - first:
+      213: -4075373854901362085
+    second: HudHealthbar_Tex_65
+  - first:
+      213: -5604707205986647108
+    second: HudHealthbar_Tex_66
+  - first:
+      213: -6368059931120116659
+    second: HudHealthbar_Tex_67
+  - first:
+      213: 2988681616484134153
+    second: HudHealthbar_Tex_68
+  - first:
+      213: 2408011198800107868
+    second: HudHealthbar_Tex_69
+  - first:
+      213: -7150279840154992668
+    second: HudHealthbar_Tex_70
+  - first:
+      213: -5972520688640759691
+    second: HudHealthbar_Tex_71
+  - first:
+      213: 7055858461009860497
+    second: HudHealthbar_Tex_72
+  - first:
+      213: -42858317692850172
+    second: HudHealthbar_Tex_73
+  - first:
+      213: 8052075451991367346
+    second: HudHealthbar_Tex_74
+  - first:
+      213: -3929666198580301166
+    second: HudHealthbar_Tex_75
+  - first:
+      213: 4162083034089780242
+    second: HudHealthbar_Tex_76
+  - first:
+      213: 2403629443213233694
+    second: HudHealthbar_Tex_77
+  - first:
+      213: -4790038264626556957
+    second: HudHealthbar_Tex_78
+  - first:
+      213: 3655588912376634881
+    second: HudHealthbar_Tex_79
+  - first:
+      213: -2292429808752146338
+    second: HudHealthbar_Tex_80
+  - first:
+      213: 8274688081221698031
+    second: HudHealthbar_Tex_81
+  - first:
+      213: 3348288897850924285
+    second: HudHealthbar_Tex_82
+  - first:
+      213: -7131435911673856980
+    second: HudHealthbar_Tex_83
+  - first:
+      213: -3466832310693645168
+    second: HudHealthbar_Tex_84
+  - first:
+      213: 4462719797991223579
+    second: HudHealthbar_Tex_85
+  - first:
+      213: -3757831325952111318
+    second: HudHealthbar_Tex_86
+  - first:
+      213: 8504592439420479229
+    second: HudHealthbar_Tex_87
+  - first:
+      213: 1758542532702396778
+    second: HudHealthbar_Tex_88
+  - first:
+      213: 7580524989838491779
+    second: HudHealthbar_Tex_89
+  - first:
+      213: -5813145989568696781
+    second: HudHealthbar_Tex_90
+  - first:
+      213: -1458837967364059604
+    second: HudHealthbar_Tex_91
+  - first:
+      213: 8669513292150679536
+    second: HudHealthbar_Tex_92
+  - first:
+      213: -8880181202514823984
+    second: HudHealthbar_Tex_93
+  - first:
+      213: -6121710046623864385
+    second: HudHealthbar_Tex_94
+  - first:
+      213: -3361679118797078125
+    second: HudHealthbar_Tex_95
+  - first:
+      213: 4635023368506202169
+    second: HudHealthbar_Tex_96
+  - first:
+      213: -1879752957962402539
+    second: HudHealthbar_Tex_97
+  - first:
+      213: -3833557895819462337
+    second: HudHealthbar_Tex_98
+  - first:
+      213: -8858745462264550148
+    second: HudHealthbar_Tex_99
+  - first:
+      213: 7945191151478700411
+    second: HudHealthbar_Tex_100
+  - first:
+      213: -5156526837665355197
+    second: HudHealthbar_Tex_101
+  - first:
+      213: -4060908169317966184
+    second: HudHealthbar_Tex_102
+  - first:
+      213: 2893976547204465282
+    second: HudHealthbar_Tex_103
+  - first:
+      213: 4810586283385236687
+    second: HudHealthbar_Tex_104
+  - first:
+      213: -4057473382540160382
+    second: HudHealthbar_Tex_105
+  - first:
+      213: -3899858637470166862
+    second: HudHealthbar_Tex_106
+  - first:
+      213: 5266130890209987406
+    second: HudHealthbar_Tex_107
+  - first:
+      213: 4541650313002977465
+    second: HudHealthbar_Tex_108
+  - first:
+      213: 3154775071495853041
+    second: HudHealthbar_Tex_109
+  - first:
+      213: -5932653988533483182
+    second: HudHealthbar_Tex_110
+  - first:
+      213: 4482743223269582279
+    second: HudHealthbar_Tex_111
+  - first:
+      213: -7366402051244568673
+    second: HudHealthbar_Tex_112
+  - first:
+      213: -3085037322988514345
+    second: HudHealthbar_Tex_113
+  - first:
+      213: 2548135040583328960
+    second: HudHealthbar_Tex_114
+  - first:
+      213: -6211303236140965075
+    second: HudHealthbar_Tex_115
+  - first:
+      213: 4401530109909180176
+    second: HudHealthbar_Tex_116
+  - first:
+      213: -3523744280092737426
+    second: HudHealthbar_Tex_117
+  - first:
+      213: -7958575974293971079
+    second: HudHealthbar_Tex_118
+  - first:
+      213: -1908703661370830323
+    second: HudHealthbar_Tex_119
+  - first:
+      213: -2590465403852510568
+    second: HudHealthbar_Tex_120
+  - first:
+      213: 38902360316952628
+    second: HudHealthbar_Tex_121
+  - first:
+      213: 5344909327643693071
+    second: HudHealthbar_Tex_122
+  - first:
+      213: 4616966184751994262
+    second: HudHealthbar_Tex_123
+  - first:
+      213: 5640867651843867220
+    second: HudHealthbar_Tex_124
+  - first:
+      213: 6412051626307162484
+    second: HudHealthbar_Tex_125
+  - first:
+      213: -7180323372316466589
+    second: HudHealthbar_Tex_126
+  - first:
+      213: -2401476796900954299
+    second: HudHealthbar_Tex_127
+  - first:
+      213: -417723746570369017
+    second: HudHealthbar_Tex_128
+  - first:
+      213: 2959112495765470071
+    second: HudHealthbar_Tex_129
+  - first:
+      213: -9181295499070338428
+    second: HudHealthbar_Tex_130
+  - first:
+      213: -2931053104884754479
+    second: HudHealthbar_Tex_131
+  - first:
+      213: -755118002111145239
+    second: HudHealthbar_Tex_132
+  - first:
+      213: 1142394499065905774
+    second: HudHealthbar_Tex_133
+  - first:
+      213: -3083321874216177184
+    second: HudHealthbar_Tex_134
+  - first:
+      213: -4564223151450606270
+    second: HudHealthbar_Tex_135
+  - first:
+      213: -6812396564533387817
+    second: HudHealthbar_Tex_136
+  - first:
+      213: -8897922301337630646
+    second: HudHealthbar_Tex_137
+  - first:
+      213: -3522300105728054469
+    second: HudHealthbar_Tex_138
+  - first:
+      213: -5186734908928114058
+    second: HudHealthbar_Tex_139
+  - first:
+      213: -555804452881440596
+    second: HudHealthbar_Tex_140
+  - first:
+      213: 9010039397258096216
+    second: HudHealthbar_Tex_141
+  - first:
+      213: 3404696230989141255
+    second: HudHealthbar_Tex_142
+  - first:
+      213: -1216059929008634714
+    second: HudHealthbar_Tex_143
+  - first:
+      213: 6316080880262786591
+    second: HudHealthbar_Tex_144
+  - first:
+      213: -3407181714678049603
+    second: HudHealthbar_Tex_145
+  - first:
+      213: 6944849388051028418
+    second: HudHealthbar_Tex_146
+  - first:
+      213: -2609335831723190385
+    second: HudHealthbar_Tex_147
+  - first:
+      213: -4435358956867657673
+    second: HudHealthbar_Tex_148
+  - first:
+      213: -5521658271200527915
+    second: HudHealthbar_Tex_149
+  - first:
+      213: -1654978981251544816
+    second: HudHealthbar_Tex_150
+  - first:
+      213: 3812396268141455022
+    second: HudHealthbar_Tex_151
+  - first:
+      213: 331453798333086167
+    second: HudHealthbar_Tex_152
+  - first:
+      213: -8737089545765652044
+    second: HudHealthbar_Tex_153
+  - first:
+      213: -6950465130093666410
+    second: HudHealthbar_Tex_154
+  - first:
+      213: -6228232617032814250
+    second: HudHealthbar_Tex_155
+  - first:
+      213: -3656356433284660513
+    second: HudHealthbar_Tex_156
+  - first:
+      213: 2394410345741957394
+    second: HudHealthbar_Tex_157
+  - first:
+      213: -1927147222480812088
+    second: HudHealthbar_Tex_158
+  - first:
+      213: 2135999820253597030
+    second: HudHealthbar_Tex_159
+  - first:
+      213: 1253399182190415467
+    second: HudHealthbar_Tex_160
+  - first:
+      213: 5402842584736280924
+    second: HudHealthbar_Tex_161
+  - first:
+      213: -4518668371827953075
+    second: HudHealthbar_Tex_162
+  - first:
+      213: 881872463829947338
+    second: HudHealthbar_Tex_163
+  - first:
+      213: 8023347662022104526
+    second: HudHealthbar_Tex_164
+  - first:
+      213: -4993562541665986082
+    second: HudHealthbar_Tex_165
+  - first:
+      213: -6970603036041368581
+    second: HudHealthbar_Tex_166
+  - first:
+      213: -2761392107223648344
+    second: HudHealthbar_Tex_167
+  - first:
+      213: -4815677906281234166
+    second: HudHealthbar_Tex_168
+  - first:
+      213: -8578799324337711776
+    second: HudHealthbar_Tex_169
+  - first:
+      213: -2671489102578542743
+    second: HudHealthbar_Tex_170
+  - first:
+      213: -2280863987413010429
+    second: HudHealthbar_Tex_171
+  - first:
+      213: 701917063409288174
+    second: HudHealthbar_Tex_172
+  - first:
+      213: 5946183063444538313
+    second: HudHealthbar_Tex_173
+  - first:
+      213: -381710158786271801
+    second: HudHealthbar_Tex_174
+  - first:
+      213: -1374998349670782250
+    second: HudHealthbar_Tex_175
+  - first:
+      213: -2881825778840416233
+    second: HudHealthbar_Tex_176
+  - first:
+      213: 907109443758628442
+    second: HudHealthbar_Tex_177
+  - first:
+      213: -7928985289736334131
+    second: HudHealthbar_Tex_178
+  - first:
+      213: 5993152566219239316
+    second: HudHealthbar_Tex_179
+  - first:
+      213: -7512638057417717593
+    second: HudHealthbar_Tex_180
+  - first:
+      213: -2879225703509434862
+    second: HudHealthbar_Tex_181
+  - first:
+      213: -1829282359380349445
+    second: HudHealthbar_Tex_182
+  - first:
+      213: -3330570665428826126
+    second: HudHealthbar_Tex_183
+  - first:
+      213: 8326958548428672785
+    second: HudHealthbar_Tex_184
+  - first:
+      213: 2140889956074578107
+    second: HudHealthbar_Tex_185
+  - first:
+      213: 9004628569643415080
+    second: HudHealthbar_Tex_186
+  - first:
+      213: -2615722668106377484
+    second: HudHealthbar_Tex_187
+  - first:
+      213: -5842130069250843890
+    second: HudHealthbar_Tex_188
+  - first:
+      213: 9165468542269348137
+    second: HudHealthbar_Tex_189
+  - first:
+      213: 3726365384511950149
+    second: HudHealthbar_Tex_190
+  - first:
+      213: 404977735363514703
+    second: HudHealthbar_Tex_191
+  - first:
+      213: -7154771224138264277
+    second: HudHealthbar_Tex_192
+  - first:
+      213: -1150785886328798578
+    second: HudHealthbar_Tex_193
+  - first:
+      213: -947412048462788733
+    second: HudHealthbar_Tex_194
+  - first:
+      213: 5280049715380966301
+    second: HudHealthbar_Tex_195
+  - first:
+      213: 8234988936300816076
+    second: HudHealthbar_Tex_196
+  - first:
+      213: 6653269542492085567
+    second: HudHealthbar_Tex_197
+  - first:
+      213: 3797472777916136417
+    second: HudHealthbar_Tex_198
+  - first:
+      213: -8850873079820390381
+    second: HudHealthbar_Tex_199
+  - first:
+      213: -7554864079638775216
+    second: HudHealthbar_Tex_200
+  - first:
+      213: -5449828485146049762
+    second: HudHealthbar_Tex_201
+  - first:
+      213: -2428724862851585857
+    second: HudHealthbar_Tex_202
+  - first:
+      213: -8547622818384671668
+    second: HudHealthbar_Tex_203
+  - first:
+      213: 7616711440414654467
+    second: HudHealthbar_Tex_204
+  - first:
+      213: 5873815305276044267
+    second: HudHealthbar_Tex_205
+  - first:
+      213: 245518096845609233
+    second: HudHealthbar_Tex_206
+  - first:
+      213: 8339847286842557099
+    second: HudHealthbar_Tex_207
+  - first:
+      213: 3627846692232618675
+    second: HudHealthbar_Tex_208
+  - first:
+      213: 4083063852469637140
+    second: HudHealthbar_Tex_209
+  - first:
+      213: -4927726276442243326
+    second: HudHealthbar_Tex_210
+  - first:
+      213: 2907936842678382784
+    second: HudHealthbar_Tex_211
+  - first:
+      213: -8362309318625999729
+    second: HudHealthbar_Tex_212
+  - first:
+      213: 7588208227334104598
+    second: HudHealthbar_Tex_213
+  - first:
+      213: 2602966588080402380
+    second: HudHealthbar_Tex_214
+  - first:
+      213: -6146363594938180111
+    second: HudHealthbar_Tex_215
+  - first:
+      213: 7501830674031650161
+    second: HudHealthbar_Tex_216
+  - first:
+      213: -5345200786392661365
+    second: HudHealthbar_Tex_217
+  - first:
+      213: -1102806756638316518
+    second: HudHealthbar_Tex_218
+  - first:
+      213: 3770866913768501549
+    second: HudHealthbar_Tex_219
+  - first:
+      213: -8382863816256746868
+    second: HudHealthbar_Tex_220
+  - first:
+      213: 7444253184942013075
+    second: HudHealthbar_Tex_221
+  - first:
+      213: 984891372677583002
+    second: HudHealthbar_Tex_222
+  - first:
+      213: 8527076383047272879
+    second: HudHealthbar_Tex_223
+  - first:
+      213: -4855873976222136235
+    second: HudHealthbar_Tex_224
+  - first:
+      213: 1205056990230413466
+    second: HudHealthbar_Tex_225
+  - first:
+      213: 5318290659149337649
+    second: HudHealthbar_Tex_226
+  - first:
+      213: 1086078887622750048
+    second: HudHealthbar_Tex_227
+  - first:
+      213: 4415730074079525764
+    second: HudHealthbar_Tex_228
+  - first:
+      213: 941856388113154463
+    second: HudHealthbar_Tex_229
+  - first:
+      213: -1782551947271430244
+    second: HudHealthbar_Tex_230
+  - first:
+      213: 8408862346419605174
+    second: HudHealthbar_Tex_231
+  - first:
+      213: 3021917779287306607
+    second: HudHealthbar_Tex_232
+  - first:
+      213: 8466115864915979401
+    second: HudHealthbar_Tex_233
+  - first:
+      213: 7382130141520783812
+    second: HudHealthbar_Tex_234
+  - first:
+      213: -7090588547698883050
+    second: HudHealthbar_Tex_235
+  - first:
+      213: -695695158283953854
+    second: HudHealthbar_Tex_236
+  - first:
+      213: 5156674561937941039
+    second: HudHealthbar_Tex_237
+  - first:
+      213: 7497932870107909726
+    second: HudHealthbar_Tex_238
+  - first:
+      213: -987615537616767444
+    second: HudHealthbar_Tex_239
+  - first:
+      213: 5841992311277447230
+    second: HudHealthbar_Tex_240
+  - first:
+      213: 6919953039722007027
+    second: HudHealthbar_Tex_241
+  - first:
+      213: 7456408691924304196
+    second: HudHealthbar_Tex_242
+  - first:
+      213: -1554830192760256722
+    second: HudHealthbar_Tex_243
+  - first:
+      213: -2209900893512284730
+    second: HudHealthbar_Tex_244
+  - first:
+      213: -7148934636758992165
+    second: HudHealthbar_Tex_245
+  - first:
+      213: -7761937969609699213
+    second: HudHealthbar_Tex_246
+  - first:
+      213: -8815795027952102303
+    second: HudHealthbar_Tex_247
+  - first:
+      213: -3414601695832201444
+    second: HudHealthbar_Tex_248
+  - first:
+      213: 4936657213979731115
+    second: HudHealthbar_Tex_249
+  - first:
+      213: -3275410521071697279
+    second: HudHealthbar_Tex_250
+  - first:
+      213: 6442325179520274653
+    second: HudHealthbar_Tex_251
+  - first:
+      213: 5843533069384486456
+    second: HudHealthbar_Tex_252
+  - first:
+      213: 154147022910713959
+    second: HudHealthbar_Tex_253
+  - first:
+      213: -4769678818921916004
+    second: HudHealthbar_Tex_254
+  - first:
+      213: -3290398481120044399
+    second: HudHealthbar_Tex_255
+  - first:
+      213: 8127580771545804361
+    second: HudHealthbar_Tex_256
+  - first:
+      213: -465582526640827156
+    second: HudHealthbar_Tex_257
+  - first:
+      213: 4210450136480622089
+    second: HudHealthbar_Tex_258
+  - first:
+      213: -7207546595559238092
+    second: HudHealthbar_Tex_259
+  - first:
+      213: -2999957011350427834
+    second: HudHealthbar_Tex_260
+  - first:
+      213: 2158077616302814539
+    second: HudHealthbar_Tex_261
+  - first:
+      213: -2914494548828657272
+    second: HudHealthbar_Tex_262
+  - first:
+      213: -2333067734335525779
+    second: HudHealthbar_Tex_263
+  - first:
+      213: 1254086873697507419
+    second: HudHealthbar_Tex_264
+  - first:
+      213: -5357078463488235339
+    second: HudHealthbar_Tex_265
+  - first:
+      213: 1632649581716835116
+    second: HudHealthbar_Tex_266
+  - first:
+      213: -526625613436610086
+    second: HudHealthbar_Tex_267
+  - first:
+      213: -2355440613992961573
+    second: HudHealthbar_Tex_268
+  - first:
+      213: -2521133500535273834
+    second: HudHealthbar_Tex_269
+  - first:
+      213: 5497745350467641283
+    second: HudHealthbar_Tex_270
+  - first:
+      213: 7472261230636664648
+    second: HudHealthbar_Tex_271
+  - first:
+      213: -4768769277269341204
+    second: HudHealthbar_Tex_272
+  - first:
+      213: 550797511873911091
+    second: HudHealthbar_Tex_273
+  - first:
+      213: -817706940069733001
+    second: HudHealthbar_Tex_274
+  - first:
+      213: -2472249370699386686
+    second: HudHealthbar_Tex_275
+  - first:
+      213: 7244722715943401133
+    second: HudHealthbar_Tex_276
+  - first:
+      213: 2480792312419635039
+    second: HudHealthbar_Tex_277
+  - first:
+      213: -1482492277599485716
+    second: HudHealthbar_Tex_278
+  - first:
+      213: -8888773185099002374
+    second: HudHealthbar_Tex_279
+  - first:
+      213: 6348228145165749007
+    second: HudHealthbar_Tex_280
+  - first:
+      213: 7151406435441818790
+    second: HudHealthbar_Tex_281
+  - first:
+      213: 8617318782608724040
+    second: HudHealthbar_Tex_282
+  - first:
+      213: 7856926198614307141
+    second: HudHealthbar_Tex_283
+  - first:
+      213: -1006269271035442169
+    second: HudHealthbar_Tex_284
+  - first:
+      213: 8643752588412466257
+    second: HudHealthbar_Tex_285
+  - first:
+      213: -3789433287869706911
+    second: HudHealthbar_Tex_286
+  - first:
+      213: -9069724655325666305
+    second: HudHealthbar_Tex_287
+  - first:
+      213: 4019687579941943041
+    second: HudHealthbar_Tex_288
+  - first:
+      213: -4667699877454506289
+    second: HudHealthbar_Tex_289
+  - first:
+      213: 977767471002080579
+    second: HudHealthbar_Tex_290
+  - first:
+      213: 5400346621171241972
+    second: HudHealthbar_Tex_291
+  - first:
+      213: -871976820121210123
+    second: HudHealthbar_Tex_292
+  - first:
+      213: 8074866694555594934
+    second: HudHealthbar_Tex_293
+  - first:
+      213: 200210504631329399
+    second: HudHealthbar_Tex_294
+  - first:
+      213: -7133943299019942170
+    second: HudHealthbar_Tex_295
+  - first:
+      213: 5518768600514626871
+    second: HudHealthbar_Tex_296
+  - first:
+      213: 4882243780640286518
+    second: HudHealthbar_Tex_297
+  - first:
+      213: 4426048279567208330
+    second: HudHealthbar_Tex_298
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 1024
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ffd89e78ca38c50800000000000000
+      internalID: 6666361573177425808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 491
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b14967f3a8f68b0800000000000000
+      internalID: -5156751043138938089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 917
+        width: 129
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52a0fde0c321980800000000000000
+      internalID: -8569721106363439633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 917
+        width: 129
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d28ad8c0a9e04e0800000000000000
+      internalID: -2013502604681138927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 917
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f184173830f075e90800000000000000
+      internalID: -7037139384978552801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 917
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2405a5a87b50970800000000000000
+      internalID: 8720578058321412824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 917
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c49c3c0907104970800000000000000
+      internalID: 8737008604726203588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 917
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071ba94550caed60800000000000000
+      internalID: 7920354367225140999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 299
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5b1693f745cf50800000000000000
+      internalID: 6901001115536154178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023a073bd97d6690800000000000000
+      internalID: -7607290213130685950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329344f951a78ee60800000000000000
+      internalID: 7991771772053895459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 854
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e65456cc46faf0800000000000000
+      internalID: -363018305254530574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 853
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f979352611c89abb0800000000000000
+      internalID: -4924250711260948577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccdb7189e95153c0800000000000000
+      internalID: -4372614903765410619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28364c279cb90ae40800000000000000
+      internalID: 5665699620748288898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1271b4b2ebc5d8050800000000000000
+      internalID: 5804397466590320417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdadd6961e66480800000000000000
+      internalID: -8906183370147701930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 853
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2dad149fed23450800000000000000
+      internalID: 6067156810154562250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 853
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce35aa0e5fabb9c80800000000000000
+      internalID: -8314846721810476052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 854
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49a8a6af4f6e7c0800000000000000
+      internalID: -4042274259151973199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 853
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f8196d41ae8d4e0800000000000000
+      internalID: -1956556662872371396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 854
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b78758d8d6204d40800000000000000
+      internalID: 5566491852214339511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 853
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f0ad80c8b3ae10800000000000000
+      internalID: 2207811379491041798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 854
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565c736ec44a98b0800000000000000
+      internalID: -5144723971094325680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab20be45e6af0740800000000000000
+      internalID: 5120494805141433260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 790
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8a252cfb75ed90800000000000000
+      internalID: -7069107717202605505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838df086a4f306b50800000000000000
+      internalID: 6584332244021663800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 790
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419899ded87c6a80800000000000000
+      internalID: -8472263900462018228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51f8467a97240c0800000000000000
+      internalID: -4592974910110886494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 790
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77777636078f6080800000000000000
+      internalID: -9191979853686540417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e80f00f5019d490800000000000000
+      internalID: -7721122085926302055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 790
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e20887ea953b10800000000000000
+      internalID: 1960643531999732788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936e6b5a7fe67a90800000000000000
+      internalID: -7316397235817782369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 790
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee253bb731ef2ae0800000000000000
+      internalID: -1571790115448738066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad275b6fc02adef70800000000000000
+      internalID: 9218202188859667162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 790
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b3b69c551e6470800000000000000
+      internalID: 8389666643247346598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488816107b79475b0800000000000000
+      internalID: -5371501643288180604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 790
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c210dd96820e3d40800000000000000
+      internalID: 5565888966673044162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978441dfd17488be0800000000000000
+      internalID: -1474850683838248839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 790
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d3f5ab24b90490800000000000000
+      internalID: -7779488781745008051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7416175cb53866d0800000000000000
+      internalID: -2997086468983876486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 790
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc1528aa27c2a7e0800000000000000
+      internalID: -1755621918697513772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a103f5e96ef82520800000000000000
+      internalID: 2677669709254689190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 790
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a02d44fac275b0800000000000000
+      internalID: -5372008254884763451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cebd498032b75c0800000000000000
+      internalID: -4216738106338186121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 790
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb6b1852c3cda10800000000000000
+      internalID: 1935488071650164297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d49dccdeda0d910800000000000000
+      internalID: 1860177882959662447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 790
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e110e5dd8e1d80800000000000000
+      internalID: -8278023115333572974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137672e0eda938f0800000000000000
+      internalID: -560225497247223019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 790
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4549db9ffd90e10800000000000000
+      internalID: 2164507359648699621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95443807629dce70800000000000000
+      internalID: 9137120190221534622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 790
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b763a43ea10c51cd0800000000000000
+      internalID: -2587951189139507589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da2c673274d58f0800000000000000
+      internalID: -550205361827435223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 790
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666845731946e510800000000000000
+      internalID: 1578029067360822890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 789
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c86fb34b34af830800000000000000
+      internalID: 4105668451680816266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 790
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e3a7f0efbe933b0800000000000000
+      internalID: -5532131190834053537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ec053a1a911fb0800000000000000
+      internalID: -4678789100511369987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 726
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b214387f4aa6a0800000000000000
+      internalID: -6437245339684391452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346462ada105b2a40800000000000000
+      internalID: 5344453459064538691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 726
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50690cde6ee66750800000000000000
+      internalID: 6297983288829632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19899617d876aa540800000000000000
+      internalID: 5019938591848634513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 726
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f18a53d7370bb00800000000000000
+      internalID: 842300111926599489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddf6c1a1c87bc6e0800000000000000
+      internalID: -1816225251675669031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 726
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec66593c913dc6f70800000000000000
+      internalID: 9181945847910590158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dfbc4df760624f0800000000000000
+      internalID: -853987933239378650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 726
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a0bb321d5177c0800000000000000
+      internalID: -4075373854901362085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3081dbd741832b0800000000000000
+      internalID: -5604707205986647108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 726
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdf296b3b10a7a0800000000000000
+      internalID: -6368059931120116659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de641781ee97920800000000000000
+      internalID: 2988681616484134153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 726
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5994a75d69fa6120800000000000000
+      internalID: 2408011198800107868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_70
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efbce28e5a15cc90800000000000000
+      internalID: -7150279840154992668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_71
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 726
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57865e3d3185d1da0800000000000000
+      internalID: -5972520688640759691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_72
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1975de103e17be160800000000000000
+      internalID: 7055858461009860497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_73
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 726
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003f3e469cb76ff0800000000000000
+      internalID: -42858317692850172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_74
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be969c36f7bebf60800000000000000
+      internalID: 8052075451991367346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_75
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 726
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f2c3a9650779c0800000000000000
+      internalID: -3929666198580301166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f994c770b2c930800000000000000
+      internalID: 4162083034089780242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_77
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 726
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e056e5e386b5120800000000000000
+      internalID: 2403629443213233694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_78
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 725
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc768b39d568db0800000000000000
+      internalID: -4790038264626556957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_79
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 725
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed0176fb24bb230800000000000000
+      internalID: 3655588912376634881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_80
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 725
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58cfc81c37af20e0800000000000000
+      internalID: -2292429808752146338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_81
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 725
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c06cf7f895d270800000000000000
+      internalID: 8274688081221698031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_82
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 725
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcd9c93303877e20800000000000000
+      internalID: 3348288897850924285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c373282dc080d90800000000000000
+      internalID: -7131435911673856980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 661
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0943249a16653efc0800000000000000
+      internalID: -3466832310693645168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 662
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11be530304ceed30800000000000000
+      internalID: 4462719797991223579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 661
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d0ac2a15089dbc0800000000000000
+      internalID: -3757831325952111318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 661
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6612fa3c1660670800000000000000
+      internalID: 8504592439420479229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_88
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 661
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a616428cd19976810800000000000000
+      internalID: 1758542532702396778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 661
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808b4e905f633960800000000000000
+      internalID: 7580524989838491779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 661
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6548958e835fa0800000000000000
+      internalID: -5813145989568696781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_91
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 661
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8962199a21cbe0800000000000000
+      internalID: -1458837967364059604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 661
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f72b2af76c405870800000000000000
+      internalID: 8669513292150679536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_93
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b00bde3243c480800000000000000
+      internalID: -8880181202514823984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_94
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96b0595215b0ba0800000000000000
+      internalID: -6121710046623864385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_95
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391804307aae851d0800000000000000
+      internalID: -3361679118797078125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_96
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938527d3239e25040800000000000000
+      internalID: 4635023368506202169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_97
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154923e4a6c9e5e0800000000000000
+      internalID: -1879752957962402539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_98
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 661
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3979c1a7677ccac0800000000000000
+      internalID: -3833557895819462337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_99
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 661
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2e1e00f96f0580800000000000000
+      internalID: -8858745462264550148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f670c14df24e60800000000000000
+      internalID: 7945191151478700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_101
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a203e59265078b0800000000000000
+      internalID: -5156526837665355197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_102
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e125e1981c4a7c0800000000000000
+      internalID: -4060908169317966184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_103
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2820f643658792820800000000000000
+      internalID: 2893976547204465282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_104
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc2b86bcb2a2c240800000000000000
+      internalID: 4810586283385236687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282571cb475f0b7c0800000000000000
+      internalID: -4057473382540160382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_106
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b01a574b3be0e9c0800000000000000
+      internalID: -3899858637470166862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_107
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b8dabb42e051940800000000000000
+      internalID: 5266130890209987406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_108
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88590a5ee270f30800000000000000
+      internalID: 4541650313002977465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_109
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f394ca763308cb20800000000000000
+      internalID: 3154775071495853041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_110
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259482641aafaada0800000000000000
+      internalID: -5932653988533483182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_111
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e5420637e53e30800000000000000
+      internalID: 4482743223269582279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_112
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fcbdefc5845c990800000000000000
+      internalID: -7366402051244568673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_113
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3927466eebf25d0800000000000000
+      internalID: -3085037322988514345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_114
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e1bd915bcc5320800000000000000
+      internalID: 2548135040583328960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_115
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 597
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2365999d940dc9a0800000000000000
+      internalID: -6211303236140965075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f925d8050651d30800000000000000
+      internalID: 4401530109909180176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_117
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6002c13f35291fc0800000000000000
+      internalID: -3523744280092737426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_118
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 534
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdf3651557d8190800000000000000
+      internalID: -7958575974293971079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_119
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 533
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02118af12ce285e0800000000000000
+      internalID: -1908703661370830323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_120
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aae68a071dc0cd0800000000000000
+      internalID: -2590465403852510568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_121
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 534
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cd979d753a8000800000000000000
+      internalID: 38902360316952628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_122
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00dfd607beec2a40800000000000000
+      internalID: 5344909327643693071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_123
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 534
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69512268842c21040800000000000000
+      internalID: 4616966184751994262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_124
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45245252e33684e40800000000000000
+      internalID: 5640867651843867220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 534
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471118b4bfe2cf850800000000000000
+      internalID: 6412051626307162484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_126
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36264a49fed5a5c90800000000000000
+      internalID: -7180323372316466589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_127
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 534
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f2068a39d3caed0800000000000000
+      internalID: -2401476796900954299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_128
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088d673772f33af0800000000000000
+      internalID: -417723746570369017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_129
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 534
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b35880321e01920800000000000000
+      internalID: 2959112495765470071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_130
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a0500636c759080800000000000000
+      internalID: -9181295499070338428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_131
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 534
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d9810bbec257d0800000000000000
+      internalID: -2931053104884754479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_132
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea99a88d284585f0800000000000000
+      internalID: -755118002111145239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_133
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 534
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620f268eb99adf00800000000000000
+      internalID: 1142394499065905774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_134
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1372f6717d535d0800000000000000
+      internalID: -3083321874216177184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_135
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 534
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453c2ed93f98a0c0800000000000000
+      internalID: -4564223151450606270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_136
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd55ed0b618571a0800000000000000
+      internalID: -6812396564533387817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_137
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 534
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a488eb56fca348480800000000000000
+      internalID: -8897922301337630646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_138
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b22cd37b64e1fc0800000000000000
+      internalID: -3522300105728054469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_139
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 534
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c831b4140508b0800000000000000
+      internalID: -5186734908928114058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_140
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0eb6d7bc26948f0800000000000000
+      internalID: -555804452881440596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_141
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 534
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee7d538171a0d70800000000000000
+      internalID: 9010039397258096216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_142
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7051838ee29ef3f20800000000000000
+      internalID: 3404696230989141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_143
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 534
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48ad100ffaf1fe0800000000000000
+      internalID: -1216059929008634714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_144
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 533
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e23b8b81a37a750800000000000000
+      internalID: 6316080880262786591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_145
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 534
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49863584247b0d0800000000000000
+      internalID: -3407181714678049603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9de5919bf016060800000000000000
+      internalID: 6944849388051028418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_147
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 470
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87d07ac2e6c9cbd0800000000000000
+      internalID: -2609335831723190385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_148
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306e8c37807272c0800000000000000
+      internalID: -4435358956867657673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 470
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9befdae012f53b0800000000000000
+      internalID: -5521658271200527915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_150
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01983cf82655809e0800000000000000
+      internalID: -1654978981251544816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_151
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a899f43a58e430800000000000000
+      internalID: 3812396268141455022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f815397f899400800000000000000
+      internalID: 331453798333086167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_153
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fbd5695f9fb680800000000000000
+      internalID: -8737089545765652044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_154
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f17011accfa8f90800000000000000
+      internalID: -6950465130093666410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_155
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f143fe6fd099a0800000000000000
+      internalID: -6228232617032814250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_156
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28ad53233024dc0800000000000000
+      internalID: -3656356433284660513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_157
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193878f587aa3120800000000000000
+      internalID: 2394410345741957394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_158
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c78626cfc56145e0800000000000000
+      internalID: -1927147222480812088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_159
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 470
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d838ef48894ad10800000000000000
+      internalID: 2135999820253597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_160
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e89385ae7f46110800000000000000
+      internalID: 1253399182190415467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_161
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 470
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c513f8094b0cafa40800000000000000
+      internalID: 5402842584736280924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_162
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42f6678e077a41c0800000000000000
+      internalID: -4518668371827953075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_163
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 470
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac358cf555a0d3c00800000000000000
+      internalID: 881872463829947338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_164
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d9486038a85f60800000000000000
+      internalID: 8023347662022104526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_165
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 470
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95d4c435d43bab0800000000000000
+      internalID: -4993562541665986082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_166
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbae767871734f90800000000000000
+      internalID: -6970603036041368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_167
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 470
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fd5b42809da9d0800000000000000
+      internalID: -2761392107223648344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_168
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01096375764b2db0800000000000000
+      internalID: -4815677906281234166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_169
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 470
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0655d79877bf1f880800000000000000
+      internalID: -8578799324337711776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_170
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679a7bb0d6fcead0800000000000000
+      internalID: -2671489102578542743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_171
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 470
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083449b94eb850e0800000000000000
+      internalID: -2280863987413010429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_172
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3cb4aa9d5bdb900800000000000000
+      internalID: 701917063409288174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_173
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 470
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c34e02fdf5158250800000000000000
+      internalID: 5946183063444538313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_174
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e26a02a4e3baf0800000000000000
+      internalID: -381710158786271801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_175
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 470
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daef1939460bece0800000000000000
+      internalID: -1374998349670782250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_176
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71057a309b2b108d0800000000000000
+      internalID: -2881825778840416233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_177
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 470
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e92a7ab33b69c00800000000000000
+      internalID: 907109443758628442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d7f773e596f190800000000000000
+      internalID: -7928985289736334131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_179
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe7328184fb2350800000000000000
+      internalID: 5993152566219239316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_180
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8498d8d7fbdb790800000000000000
+      internalID: -7512638057417717593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_181
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 406
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e552a3a7fea08d0800000000000000
+      internalID: -2879225703509434862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_182
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdee37d2651d96e0800000000000000
+      internalID: -1829282359380349445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_183
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 406
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f747cb30af67c1d0800000000000000
+      internalID: -3330570665428826126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_184
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4e728eac4f8370800000000000000
+      internalID: 8326958548428672785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_185
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 406
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e6077218f5bd10800000000000000
+      internalID: 2140889956074578107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_186
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826fdebb9fdd6fc70800000000000000
+      internalID: 9004628569643415080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_187
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 406
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f61590971613bbd0800000000000000
+      internalID: -2615722668106377484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_188
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bdcaaa7a59ceea0800000000000000
+      internalID: -5842130069250843890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_189
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 406
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9295bf51419423f70800000000000000
+      internalID: 9165468542269348137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_190
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8527f295b6b330800000000000000
+      internalID: 3726365384511950149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_191
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d84aca15ce9500800000000000000
+      internalID: 404977735363514703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_192
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215d00ba7525bc90800000000000000
+      internalID: -7154771224138264277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_193
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c6d065569700f0800000000000000
+      internalID: -1150785886328798578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_194
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3874373f2cd1ad2f0800000000000000
+      internalID: -947412048462788733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_195
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 406
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935fa1cd31864940800000000000000
+      internalID: 5280049715380966301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_196
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66b758ece884270800000000000000
+      internalID: 8234988936300816076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_197
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 406
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d9a2bf569255c50800000000000000
+      internalID: 6653269542492085567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_198
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb38e32f5553b430800000000000000
+      internalID: 3797472777916136417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_199
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 406
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310fc3de3d16b2580800000000000000
+      internalID: -8850873079820390381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_200
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ab5ce952bb72790800000000000000
+      internalID: -7554864079638775216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_201
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 406
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1380100ed15e54b0800000000000000
+      internalID: -5449828485146049762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_202
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8629cea9f6b4ed0800000000000000
+      internalID: -2428724862851585857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_203
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 406
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c882c755eb06980800000000000000
+      internalID: -8547622818384671668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_204
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c19233bef3b960800000000000000
+      internalID: 7616711440414654467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_205
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 406
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33b3b36ebf38150800000000000000
+      internalID: 5873815305276044267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_206
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11999648861486300800000000000000
+      internalID: 245518096845609233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_207
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 406
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28145cbe61db370800000000000000
+      internalID: 8339847286842557099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_208
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 405
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e91e6853b85230800000000000000
+      internalID: 3627846692232618675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_209
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 406
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d0b9d0f4f9a830800000000000000
+      internalID: 4083063852469637140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3d4e4f033d9bb0800000000000000
+      internalID: -4927726276442243326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_211
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 341
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0bd19c6211b5820800000000000000
+      internalID: 2907936842678382784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_212
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 341
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cb59eafb13fb80800000000000000
+      internalID: -8362309318625999729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_213
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61622ffbd2bbe4960800000000000000
+      internalID: 7588208227334104598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_214
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 342
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf2ebc12589f1420800000000000000
+      internalID: 2602966588080402380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_215
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 341
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd115f00eab3baa0800000000000000
+      internalID: -6146363594938180111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_216
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 341
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17529ca604bdb1860800000000000000
+      internalID: 7501830674031650161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_217
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 341
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b824de1743802d5b0800000000000000
+      internalID: -5345200786392661365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_218
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 341
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182ca6091b02b0f0800000000000000
+      internalID: -1102806756638316518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_219
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 341
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f17aaa7fc45430800000000000000
+      internalID: 3770866913768501549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_220
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 341
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8a8ff5c51aab80800000000000000
+      internalID: -8382863816256746868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_221
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 341
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af98294dc4f4760800000000000000
+      internalID: 7444253184942013075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_222
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a905bca3c790bad00800000000000000
+      internalID: 984891372677583002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_223
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c720cac2465670800000000000000
+      internalID: 8527076383047272879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_224
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558473d98587c9cb0800000000000000
+      internalID: -4855873976222136235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_225
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9009cca2f839b010800000000000000
+      internalID: 1205056990230413466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_226
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 341
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134dfde4d2d5ec940800000000000000
+      internalID: 5318290659149337649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f2ec67ef6821f00800000000000000
+      internalID: 1086078887622750048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_228
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bf4895b13d74d30800000000000000
+      internalID: 4415730074079525764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_229
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91cae21565221d00800000000000000
+      internalID: 941856388113154463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_230
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9435c27a1347e0800000000000000
+      internalID: -1782551947271430244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_231
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8f7380c742b470800000000000000
+      internalID: 8408862346419605174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_232
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 277
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f617bde953200f920800000000000000
+      internalID: 3021917779287306607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_233
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cad93168fad7570800000000000000
+      internalID: 8466115864915979401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_234
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ec036048927660800000000000000
+      internalID: 7382130141520783812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_235
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61684fd884b299d90800000000000000
+      internalID: -7090588547698883050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_236
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 277
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249968280f46856f0800000000000000
+      internalID: -695695158283953854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_237
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 277
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22aa9e5130309740800000000000000
+      internalID: 5156674561937941039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_238
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 277
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec18838320e0860800000000000000
+      internalID: 7497932870107909726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_239
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 277
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2632b1b6e84b42f0800000000000000
+      internalID: -987615537616767444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_240
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 277
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38614e0e0de21150800000000000000
+      internalID: 5841992311277447230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_241
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 277
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c30b40ac980060800000000000000
+      internalID: 6919953039722007027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_242
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 277
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418846133c7a7760800000000000000
+      internalID: 7456408691924304196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2709727d222c6ae0800000000000000
+      internalID: -1554830192760256722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_244
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5c16d88dad451e0800000000000000
+      internalID: -2209900893512284730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_245
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda7e7513d1e9cc90800000000000000
+      internalID: -7148934636758992165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_246
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701cc88a8e084490800000000000000
+      internalID: -7761937969609699213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_247
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649242512108a580800000000000000
+      internalID: -8815795027952102303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_248
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17a97659d5ec90d0800000000000000
+      internalID: -3414601695832201444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_249
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 213
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4a121a497828440800000000000000
+      internalID: 4936657213979731115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_250
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 213
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c1f52c776b82d0800000000000000
+      internalID: -3275410521071697279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_251
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 213
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd05cdc2e9cb76950800000000000000
+      internalID: 6442325179520274653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_252
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 213
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e09e1cd56681150800000000000000
+      internalID: 5843533069384486456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_253
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 213
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f6cf86e3a32200800000000000000
+      internalID: 154147022910713959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_254
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 213
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9954719262becdb0800000000000000
+      internalID: -4769678818921916004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_255
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 213
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ada53c3082652d0800000000000000
+      internalID: -3290398481120044399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_256
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 213
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e684366a7fac070800000000000000
+      internalID: 8127580771545804361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_257
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 213
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d1f5a82be989f0800000000000000
+      internalID: -465582526640827156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_258
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 213
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062c6957168e6a30800000000000000
+      internalID: 4210450136480622089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4369d9dfe86a9fb90800000000000000
+      internalID: -7207546595559238092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_260
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 149
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e30d1ef20e56d0800000000000000
+      internalID: -2999957011350427834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 149
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457375782803fd10800000000000000
+      internalID: 2158077616302814539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_262
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 149
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889614546a2ad87d0800000000000000
+      internalID: -2914494548828657272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_263
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c610ab1474f9fd0800000000000000
+      internalID: -2333067734335525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_264
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 149
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5858300e59676110800000000000000
+      internalID: 1254086873697507419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_265
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 149
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b863ed3585d7a5b0800000000000000
+      internalID: -5357078463488235339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_266
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 149
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b0ce8f42658a610800000000000000
+      internalID: 1632649581716835116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_267
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 149
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91d757bcc01b8f0800000000000000
+      internalID: -526625613436610086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_268
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 149
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9eb61cd3bcf4fd0800000000000000
+      internalID: -2355440613992961573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_269
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 149
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69602455072230dd0800000000000000
+      internalID: -2521133500535273834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_270
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 149
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfdd28944aeb4c40800000000000000
+      internalID: 5497745350467641283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_271
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 149
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8478501effdc2b760800000000000000
+      internalID: 7472261230636664648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_272
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 149
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb809cbb9de1ddb0800000000000000
+      internalID: -4768769277269341204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_273
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 149
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d9663b63d4a700800000000000000
+      internalID: 550797511873911091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_274
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 149
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d95c2dedbe6a4f0800000000000000
+      internalID: -817706940069733001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b74fbb4ec0bdd0800000000000000
+      internalID: -2472249370699386686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_276
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6720c0dec6a8460800000000000000
+      internalID: 7244722715943401133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_277
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 85
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fca4fd67b8d6220800000000000000
+      internalID: 2480792312419635039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_278
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04c6bc0212d6be0800000000000000
+      internalID: -1482492277599485716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_279
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 85
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd082502ebb4a480800000000000000
+      internalID: -8888773185099002374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_280
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bcdb91ddf691850800000000000000
+      internalID: 6348228145165749007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_281
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 85
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb3f46346ee3360800000000000000
+      internalID: 7151406435441818790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_282
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d1b9b6cdd69770800000000000000
+      internalID: 8617318782608724040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_283
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 85
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541bdd6ffb8690d60800000000000000
+      internalID: 7856926198614307141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_284
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c8a8fed630902f0800000000000000
+      internalID: -1006269271035442169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_285
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 85
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15430bebe27c4f770800000000000000
+      internalID: 8643752588412466257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_286
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4c70808a396bc0800000000000000
+      internalID: -3789433287869706911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_287
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 85
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff326bcba7dd12280800000000000000
+      internalID: -9069724655325666305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_288
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1073d768e8cc8c730800000000000000
+      internalID: 4019687579941943041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_289
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 85
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6903621bff83fb0800000000000000
+      internalID: -4667699877454506289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_290
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 21
+        width: 72
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d20e955ab19d00800000000000000
+      internalID: 977767471002080579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_291
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 85
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f394e2c3a2e1fa40800000000000000
+      internalID: 5400346621171241972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_292
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 85
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2fc48b3bd16e3f0800000000000000
+      internalID: -871976820121210123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_293
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 21
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b07e99e970bf0070800000000000000
+      internalID: 8074866694555594934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_294
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 85
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722ad8a46a47c200800000000000000
+      internalID: 200210504631329399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_295
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 85
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e65326ed542ffc90800000000000000
+      internalID: -7133943299019942170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_296
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 21
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735014f6dca969c40800000000000000
+      internalID: 5518768600514626871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_297
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 85
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637acebe9d631c340800000000000000
+      internalID: 4882243780640286518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HudHealthbar_Tex_298
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 21
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0556c57b7c6d30800000000000000
+      internalID: 4426048279567208330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

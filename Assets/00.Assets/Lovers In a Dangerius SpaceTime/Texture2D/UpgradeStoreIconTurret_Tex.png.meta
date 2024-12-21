@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 0513e84d377093c4887230138acecc04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6239811622755994451
+    second: UpgradeStoreIconTurret_Tex_0
+  - first:
+      213: 6851420693150902155
+    second: UpgradeStoreIconTurret_Tex_1
+  - first:
+      213: 1700789312509261885
+    second: UpgradeStoreIconTurret_Tex_2
+  - first:
+      213: 8402797119422315344
+    second: UpgradeStoreIconTurret_Tex_3
+  - first:
+      213: -4136788942634367447
+    second: UpgradeStoreIconTurret_Tex_4
+  - first:
+      213: -1764680706942573450
+    second: UpgradeStoreIconTurret_Tex_5
+  - first:
+      213: -5681690831364113368
+    second: UpgradeStoreIconTurret_Tex_6
+  - first:
+      213: -740153670233704100
+    second: UpgradeStoreIconTurret_Tex_7
+  - first:
+      213: -3557756063790558877
+    second: UpgradeStoreIconTurret_Tex_8
+  - first:
+      213: -5206518704385914118
+    second: UpgradeStoreIconTurret_Tex_9
+  - first:
+      213: 272568827602385178
+    second: UpgradeStoreIconTurret_Tex_10
+  - first:
+      213: 5954236613251389715
+    second: UpgradeStoreIconTurret_Tex_11
+  - first:
+      213: 6636935227338323569
+    second: UpgradeStoreIconTurret_Tex_12
+  - first:
+      213: 1039374246147475068
+    second: UpgradeStoreIconTurret_Tex_13
+  - first:
+      213: 2715395734557386246
+    second: UpgradeStoreIconTurret_Tex_14
+  - first:
+      213: -6465297451129635082
+    second: UpgradeStoreIconTurret_Tex_15
+  - first:
+      213: 2982204063149608654
+    second: UpgradeStoreIconTurret_Tex_16
+  - first:
+      213: 7407248567365891992
+    second: UpgradeStoreIconTurret_Tex_17
+  - first:
+      213: 8137306710983593588
+    second: UpgradeStoreIconTurret_Tex_18
+  - first:
+      213: 8328215881878002809
+    second: UpgradeStoreIconTurret_Tex_19
+  - first:
+      213: -684111066530977261
+    second: UpgradeStoreIconTurret_Tex_20
+  - first:
+      213: 234251666568462480
+    second: UpgradeStoreIconTurret_Tex_21
+  - first:
+      213: 2224595886874696440
+    second: UpgradeStoreIconTurret_Tex_22
+  - first:
+      213: -8788589655748458251
+    second: UpgradeStoreIconTurret_Tex_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da47648936cb769a0800000000000000
+      internalID: -6239811622755994451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87250ee1d2251f50800000000000000
+      internalID: 6851420693150902155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3835e95eda6a9710800000000000000
+      internalID: 1700789312509261885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb7dec57bbc9470800000000000000
+      internalID: 8402797119422315344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c383df5c2796c0800000000000000
+      internalID: -4136788942634367447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e3b82f389287e0800000000000000
+      internalID: -1764680706942573450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb2f0ba449621b0800000000000000
+      internalID: -5681690831364113368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59b48e88227ab5f0800000000000000
+      internalID: -740153670233704100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619544b5bf40aec0800000000000000
+      internalID: -3557756063790558877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa86acd2dabeb7b0800000000000000
+      internalID: -5206518704385914118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b51297eb58c300800000000000000
+      internalID: 272568827602385178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319597127a2b1a250800000000000000
+      internalID: 5954236613251389715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f6cedc612b1c50800000000000000
+      internalID: 6636935227338323569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c764f4abe599c6e00800000000000000
+      internalID: 1039374246147475068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60667e6a8060fa520800000000000000
+      internalID: 2715395734557386246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 188
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fefd2a0936a646a0800000000000000
+      internalID: -6465297451129635082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece42c78bcae26920800000000000000
+      internalID: 2982204063149608654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 160
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977dd4a355dbc660800000000000000
+      internalID: 7407248567365891992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e449027558de070800000000000000
+      internalID: 8137306710983593588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cda144834c39370800000000000000
+      internalID: 8328215881878002809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae18c0c9c8186f0800000000000000
+      internalID: -684111066530977261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0904bdd46aa304300800000000000000
+      internalID: 234251666568462480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 43
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa16f53c2a5fde10800000000000000
+      internalID: 2224595886874696440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconTurret_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 43
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c074a548a80680800000000000000
+      internalID: -8788589655748458251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

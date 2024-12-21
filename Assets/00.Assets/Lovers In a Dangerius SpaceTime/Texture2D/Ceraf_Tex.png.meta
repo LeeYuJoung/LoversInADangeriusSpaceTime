@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: db725057267bdf544b39806edd6dd231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7652576437257147804
+    second: Ceraf_Tex_0
+  - first:
+      213: 3710343603096214754
+    second: Ceraf_Tex_1
+  - first:
+      213: 5400834032810734463
+    second: Ceraf_Tex_2
+  - first:
+      213: 6283973809448840756
+    second: Ceraf_Tex_3
+  - first:
+      213: -5591683161917453348
+    second: Ceraf_Tex_4
+  - first:
+      213: -4552622412147658634
+    second: Ceraf_Tex_5
+  - first:
+      213: 8170953629719696310
+    second: Ceraf_Tex_6
+  - first:
+      213: -6512506888569160258
+    second: Ceraf_Tex_7
+  - first:
+      213: 1164746577099455030
+    second: Ceraf_Tex_8
+  - first:
+      213: 8853822506182200814
+    second: Ceraf_Tex_9
+  - first:
+      213: -6978178841761507696
+    second: Ceraf_Tex_10
+  - first:
+      213: -6750557951542999806
+    second: Ceraf_Tex_11
+  - first:
+      213: -9085291115543218644
+    second: Ceraf_Tex_12
+  - first:
+      213: -7424345321241511560
+    second: Ceraf_Tex_13
+  - first:
+      213: 7692711476555034351
+    second: Ceraf_Tex_14
+  - first:
+      213: 5134340917661587349
+    second: Ceraf_Tex_15
+  - first:
+      213: -5003976308571666855
+    second: Ceraf_Tex_16
+  - first:
+      213: 8839042387896192691
+    second: Ceraf_Tex_17
+  - first:
+      213: 7969679202720550749
+    second: Ceraf_Tex_18
+  - first:
+      213: -56764304855015531
+    second: Ceraf_Tex_19
+  - first:
+      213: 7048505401985010686
+    second: Ceraf_Tex_20
+  - first:
+      213: -2088611181109525604
+    second: Ceraf_Tex_21
+  - first:
+      213: -7395368953614795220
+    second: Ceraf_Tex_22
+  - first:
+      213: 9076724813969739581
+    second: Ceraf_Tex_23
+  - first:
+      213: 8760609664903765892
+    second: Ceraf_Tex_24
+  - first:
+      213: -5008868952005758517
+    second: Ceraf_Tex_25
+  - first:
+      213: -3666404033485989553
+    second: Ceraf_Tex_26
+  - first:
+      213: 1555296439128971533
+    second: Ceraf_Tex_27
+  - first:
+      213: -6278013021643427077
+    second: Ceraf_Tex_28
+  - first:
+      213: 5063335013679979210
+    second: Ceraf_Tex_29
+  - first:
+      213: -8690255881113439765
+    second: Ceraf_Tex_30
+  - first:
+      213: 5169928611598350381
+    second: Ceraf_Tex_31
+  - first:
+      213: 4116192388817590018
+    second: Ceraf_Tex_32
+  - first:
+      213: -1556905958616047813
+    second: Ceraf_Tex_33
+  - first:
+      213: 3361673478261301975
+    second: Ceraf_Tex_34
+  - first:
+      213: 7397372690806034061
+    second: Ceraf_Tex_35
+  - first:
+      213: -5081184676732072728
+    second: Ceraf_Tex_36
+  - first:
+      213: -8595687354603958091
+    second: Ceraf_Tex_37
+  - first:
+      213: 361535879766925315
+    second: Ceraf_Tex_38
+  - first:
+      213: 7095601969029325470
+    second: Ceraf_Tex_39
+  - first:
+      213: 5906302263639741900
+    second: Ceraf_Tex_40
+  - first:
+      213: 1781470305075426262
+    second: Ceraf_Tex_41
+  - first:
+      213: -3041482681383085084
+    second: Ceraf_Tex_42
+  - first:
+      213: 8093978660870868970
+    second: Ceraf_Tex_43
+  - first:
+      213: -2594859450315923341
+    second: Ceraf_Tex_44
+  - first:
+      213: 1756473595530184061
+    second: Ceraf_Tex_45
+  - first:
+      213: 4281799917235556295
+    second: Ceraf_Tex_46
+  - first:
+      213: 7861647037850800708
+    second: Ceraf_Tex_47
+  - first:
+      213: 5884832286567901733
+    second: Ceraf_Tex_48
+  - first:
+      213: 2669048811406140841
+    second: Ceraf_Tex_49
+  - first:
+      213: -8238206129113417284
+    second: Ceraf_Tex_50
+  - first:
+      213: -9120421540378066800
+    second: Ceraf_Tex_51
+  - first:
+      213: 3426323405756953391
+    second: Ceraf_Tex_52
+  - first:
+      213: 6923094331741554567
+    second: Ceraf_Tex_53
+  - first:
+      213: 7873473865221406343
+    second: Ceraf_Tex_54
+  - first:
+      213: -6644850932422601619
+    second: Ceraf_Tex_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ceraf_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 762
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959c3f79b9633a60800000000000000
+      internalID: 7652576437257147804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 986
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec513949d9cd7330800000000000000
+      internalID: 3710343603096214754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 524
+        width: 100
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73368020fd93fa40800000000000000
+      internalID: 5400834032810734463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 978
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6e02c2e8253750800000000000000
+      internalID: 6283973809448840756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 978
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb806d4ac95662b0800000000000000
+      internalID: -5591683161917453348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 966
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f4777906d1d0c0800000000000000
+      internalID: -4552622412147658634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 989
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b391afd80f056170800000000000000
+      internalID: 8170953629719696310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 762
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdfc855d7dee95a0800000000000000
+      internalID: -6512506888569160258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 986
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a7d5d37d20a2010800000000000000
+      internalID: 1164746577099455030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 524
+        width: 100
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4959e8a81fda70800000000000000
+      internalID: 8853822506182200814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 978
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09698adb057882f90800000000000000
+      internalID: -6978178841761507696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 978
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205479e1f433152a0800000000000000
+      internalID: -6750557951542999806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b809cddf8ae180800000000000000
+      internalID: -9085291115543218644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 746
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f095244d67f890800000000000000
+      internalID: -7424345321241511560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 650
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee22a7845002ca60800000000000000
+      internalID: 7692711476555034351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 613
+        width: 198
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d8f89cd7d04740800000000000000
+      internalID: 5134340917661587349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 650
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568d1f3f0e4e8ab0800000000000000
+      internalID: -5003976308571666855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 613
+        width: 119
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be4c2578369aaa70800000000000000
+      internalID: 8839042387896192691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 670
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0afb720df99e60800000000000000
+      internalID: 7969679202720550749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 660
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd13d5a25563ff0800000000000000
+      internalID: -56764304855015531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 670
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb0dba815251d160800000000000000
+      internalID: 7048505401985010686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 660
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ce0c5233c303e0800000000000000
+      internalID: -2088611181109525604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 542
+        width: 218
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e76d87e1f5e5990800000000000000
+      internalID: -7395368953614795220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fc3a4b02107fd70800000000000000
+      internalID: 9076724813969739581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f51741310f39970800000000000000
+      internalID: 8760609664903765892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 542
+        width: 218
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b63de93cec7ab0800000000000000
+      internalID: -5008868952005758517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49120df4f05e1dc0800000000000000
+      internalID: -3666404033485989553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 538
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0956befed5859510800000000000000
+      internalID: 1555296439128971533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 12
+        width: 100
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2baad4b6400e8a0800000000000000
+      internalID: -6278013021643427077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca51354e54944640800000000000000
+      internalID: 5063335013679979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1fbfea152066780800000000000000
+      internalID: -8690255881113439765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 12
+        width: 100
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28b2784ea64fb740800000000000000
+      internalID: 5169928611598350381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20793aa4b27af1930800000000000000
+      internalID: 4116192388817590018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f500c8742c46ae0800000000000000
+      internalID: -1556905958616047813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ed92b73017ae20800000000000000
+      internalID: 3361673478261301975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 250
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e4ba2f44fb8a660800000000000000
+      internalID: 7397372690806034061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 474
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec0a3135710c79b0800000000000000
+      internalID: -5081184676732072728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0938494ebf5b880800000000000000
+      internalID: -8595687354603958091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 474
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300e01797fe640500800000000000000
+      internalID: 361535879766925315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922e8f8564a87260800000000000000
+      internalID: 7095601969029325470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc51558ad9667f150800000000000000
+      internalID: 5906302263639741900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 234
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37de7cdcd09b810800000000000000
+      internalID: 1781470305075426262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 138
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb98a1ad9b7ac5d0800000000000000
+      internalID: -3041482681383085084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 101
+        width: 198
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefccc455b6935070800000000000000
+      internalID: 8093978660870868970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 138
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370aaddf3153dfbd0800000000000000
+      internalID: -2594859450315923341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 101
+        width: 119
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750eeecd6f306810800000000000000
+      internalID: 1756473595530184061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 158
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf4f1ab6520c6b30800000000000000
+      internalID: 4281799917235556295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 148
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4425990045e2a1d60800000000000000
+      internalID: 7861647037850800708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 158
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a21a319cf1ba150800000000000000
+      internalID: 5884832286567901733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 148
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5aa04b0cd5a0520800000000000000
+      internalID: 2669048811406140841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 218
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9bfb76c230cad80800000000000000
+      internalID: -8238206129113417284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c1fb5ee0cd6180800000000000000
+      internalID: -9120421540378066800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23ffbdebfebc8f20800000000000000
+      internalID: 3426323405756953391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 30
+        width: 218
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787c9f55d95c31060800000000000000
+      internalID: 6923094331741554567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef7d4d3c2344d60800000000000000
+      internalID: 7873473865221406343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ceraf_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64178b684fb8c3a0800000000000000
+      internalID: -6644850932422601619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

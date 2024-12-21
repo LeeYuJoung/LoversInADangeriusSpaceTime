@@ -1,0 +1,2255 @@
+fileFormatVersion: 2
+guid: cfb3f272cb3a3b0448b03010f93932ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5715324613129274721
+    second: OmdcLogo_Tex_0
+  - first:
+      213: 7080925523905757066
+    second: OmdcLogo_Tex_1
+  - first:
+      213: 4653002264837038981
+    second: OmdcLogo_Tex_2
+  - first:
+      213: -5737827207095801914
+    second: OmdcLogo_Tex_3
+  - first:
+      213: 1478548836539196962
+    second: OmdcLogo_Tex_4
+  - first:
+      213: 1862907692810242894
+    second: OmdcLogo_Tex_5
+  - first:
+      213: 6743004474590046958
+    second: OmdcLogo_Tex_6
+  - first:
+      213: 1452512494333995249
+    second: OmdcLogo_Tex_7
+  - first:
+      213: -3644682242881375380
+    second: OmdcLogo_Tex_8
+  - first:
+      213: 4506841651470047012
+    second: OmdcLogo_Tex_9
+  - first:
+      213: 4903974255207005671
+    second: OmdcLogo_Tex_10
+  - first:
+      213: 2460721038585902386
+    second: OmdcLogo_Tex_11
+  - first:
+      213: 8590590588741161355
+    second: OmdcLogo_Tex_12
+  - first:
+      213: 257973626345472458
+    second: OmdcLogo_Tex_13
+  - first:
+      213: 7214051937144194115
+    second: OmdcLogo_Tex_14
+  - first:
+      213: -5171156688266083663
+    second: OmdcLogo_Tex_15
+  - first:
+      213: 5630547068581137979
+    second: OmdcLogo_Tex_16
+  - first:
+      213: -2473869705564447011
+    second: OmdcLogo_Tex_17
+  - first:
+      213: -3692005353530273364
+    second: OmdcLogo_Tex_18
+  - first:
+      213: -1355346409080821007
+    second: OmdcLogo_Tex_19
+  - first:
+      213: 325387547354595972
+    second: OmdcLogo_Tex_20
+  - first:
+      213: 8249776019095504890
+    second: OmdcLogo_Tex_21
+  - first:
+      213: -8013880599098666119
+    second: OmdcLogo_Tex_22
+  - first:
+      213: -7349497654214487649
+    second: OmdcLogo_Tex_23
+  - first:
+      213: 6773736939822092374
+    second: OmdcLogo_Tex_24
+  - first:
+      213: 2102270989256942140
+    second: OmdcLogo_Tex_25
+  - first:
+      213: -4408032717236855940
+    second: OmdcLogo_Tex_26
+  - first:
+      213: 4722862555702958474
+    second: OmdcLogo_Tex_27
+  - first:
+      213: -7464239951658033342
+    second: OmdcLogo_Tex_28
+  - first:
+      213: 3552445840769566322
+    second: OmdcLogo_Tex_29
+  - first:
+      213: -3297616722314211613
+    second: OmdcLogo_Tex_30
+  - first:
+      213: 3048524156111912299
+    second: OmdcLogo_Tex_31
+  - first:
+      213: 7388906474224537488
+    second: OmdcLogo_Tex_32
+  - first:
+      213: 1984678236224007259
+    second: OmdcLogo_Tex_33
+  - first:
+      213: -839684559189790060
+    second: OmdcLogo_Tex_34
+  - first:
+      213: 4124672557687133715
+    second: OmdcLogo_Tex_35
+  - first:
+      213: -434558273290296792
+    second: OmdcLogo_Tex_36
+  - first:
+      213: 3077138593074711910
+    second: OmdcLogo_Tex_37
+  - first:
+      213: -2517032407247943149
+    second: OmdcLogo_Tex_38
+  - first:
+      213: 3294922217268377542
+    second: OmdcLogo_Tex_39
+  - first:
+      213: -2069878518793618331
+    second: OmdcLogo_Tex_40
+  - first:
+      213: -6973601095308387050
+    second: OmdcLogo_Tex_41
+  - first:
+      213: -5412880260940864280
+    second: OmdcLogo_Tex_42
+  - first:
+      213: 3109805720202751673
+    second: OmdcLogo_Tex_43
+  - first:
+      213: -6893067174809776169
+    second: OmdcLogo_Tex_44
+  - first:
+      213: 850891593939891017
+    second: OmdcLogo_Tex_45
+  - first:
+      213: -4603079098560901628
+    second: OmdcLogo_Tex_46
+  - first:
+      213: -7422888425980496513
+    second: OmdcLogo_Tex_47
+  - first:
+      213: 7227580408001185550
+    second: OmdcLogo_Tex_48
+  - first:
+      213: 5240056764859786975
+    second: OmdcLogo_Tex_49
+  - first:
+      213: 1702271056140841001
+    second: OmdcLogo_Tex_50
+  - first:
+      213: 2175271220083873882
+    second: OmdcLogo_Tex_51
+  - first:
+      213: -4203530973148923327
+    second: OmdcLogo_Tex_52
+  - first:
+      213: 103658337636089588
+    second: OmdcLogo_Tex_53
+  - first:
+      213: -6270078153999363988
+    second: OmdcLogo_Tex_54
+  - first:
+      213: -6900457756218313970
+    second: OmdcLogo_Tex_55
+  - first:
+      213: 6416367170561988029
+    second: OmdcLogo_Tex_56
+  - first:
+      213: 2077828119575025816
+    second: OmdcLogo_Tex_57
+  - first:
+      213: 8049968665287268933
+    second: OmdcLogo_Tex_58
+  - first:
+      213: -8021796804106815226
+    second: OmdcLogo_Tex_59
+  - first:
+      213: -8043158582684803558
+    second: OmdcLogo_Tex_60
+  - first:
+      213: 7183217855517368130
+    second: OmdcLogo_Tex_61
+  - first:
+      213: -4695386240549930558
+    second: OmdcLogo_Tex_62
+  - first:
+      213: 2498792591333708223
+    second: OmdcLogo_Tex_63
+  - first:
+      213: 8190647621135551555
+    second: OmdcLogo_Tex_64
+  - first:
+      213: 6431126725352241102
+    second: OmdcLogo_Tex_65
+  - first:
+      213: 503698922681747991
+    second: OmdcLogo_Tex_66
+  - first:
+      213: -8499040352394586099
+    second: OmdcLogo_Tex_67
+  - first:
+      213: 5554247313816755200
+    second: OmdcLogo_Tex_68
+  - first:
+      213: -6719828189051137254
+    second: OmdcLogo_Tex_69
+  - first:
+      213: -7462136869473640168
+    second: OmdcLogo_Tex_70
+  - first:
+      213: 3046848557540440425
+    second: OmdcLogo_Tex_71
+  - first:
+      213: 2093639027638242940
+    second: OmdcLogo_Tex_72
+  - first:
+      213: 971563025052882224
+    second: OmdcLogo_Tex_73
+  - first:
+      213: -6584085284148429678
+    second: OmdcLogo_Tex_74
+  - first:
+      213: -4765214474621991898
+    second: OmdcLogo_Tex_75
+  - first:
+      213: -3831522774187047546
+    second: OmdcLogo_Tex_76
+  - first:
+      213: 1684862499409265512
+    second: OmdcLogo_Tex_77
+  - first:
+      213: 546115629903669324
+    second: OmdcLogo_Tex_78
+  - first:
+      213: 1524503315717754057
+    second: OmdcLogo_Tex_79
+  - first:
+      213: -5874043438814840360
+    second: OmdcLogo_Tex_80
+  - first:
+      213: 1597121807381695613
+    second: OmdcLogo_Tex_81
+  - first:
+      213: 8314291358502592152
+    second: OmdcLogo_Tex_82
+  - first:
+      213: 5763699592400355052
+    second: OmdcLogo_Tex_83
+  - first:
+      213: 3929739784333870651
+    second: OmdcLogo_Tex_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9af162ab861fa0b0800000000000000
+      internalID: -5715324613129274721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f36656f30844260800000000000000
+      internalID: 7080925523905757066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58323be38e8c29040800000000000000
+      internalID: 4653002264837038981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 163
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ab723e842f50b0800000000000000
+      internalID: -5737827207095801914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2266cf8455cd48410800000000000000
+      internalID: 1478548836539196962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 164
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b0c4f2da06ad910800000000000000
+      internalID: 1862907692810242894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 163
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2fcaf7d6f39d50800000000000000
+      internalID: 6743004474590046958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 164
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82898fa6c582410800000000000000
+      internalID: 1452512494333995249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 164
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b1e97fcc7b6dc0800000000000000
+      internalID: -3644682242881375380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 163
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4279ece8a948b8e30800000000000000
+      internalID: 4506841651470047012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 148
+        width: 317
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed364d4a9a6e0440800000000000000
+      internalID: 4903974255207005671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 121
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353e344fbc362220800000000000000
+      internalID: 2460721038585902386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b811bb420a8e73770800000000000000
+      internalID: 8590590588741161355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 119
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1cdb775a1849300800000000000000
+      internalID: 257973626345472458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 121
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c2b0e3067d1460800000000000000
+      internalID: 7214051937144194115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c306d36c5c38b0800000000000000
+      internalID: -5171156688266083663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 121
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e45e91ab8b32e40800000000000000
+      internalID: 5630547068581137979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 121
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1b332c9c0badd0800000000000000
+      internalID: -2473869705564447011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 121
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1dcf921bc53ccc0800000000000000
+      internalID: -3692005353530273364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 121
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae2233f97d03de0800000000000000
+      internalID: -1355346409080821007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48208661042048400800000000000000
+      internalID: 325387547354595972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af749b684971d7270800000000000000
+      internalID: 8249776019095504890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 119
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9735452fd0af8c090800000000000000
+      internalID: -8013880599098666119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 121
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f919af2a2d6510a90800000000000000
+      internalID: -7349497654214487649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 121
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509904abd5210e50800000000000000
+      internalID: 6773736939822092374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e4409354cc2d10800000000000000
+      internalID: 2102270989256942140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 121
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b1cc2399583d2c0800000000000000
+      internalID: -4408032717236855940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 116
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a891babb87afa8140800000000000000
+      internalID: 4722862555702958474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 121
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd42baf41b96890800000000000000
+      internalID: -7464239951658033342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 121
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27642e6aba2dc4130800000000000000
+      internalID: 3552445840769566322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec21500138c32d0800000000000000
+      internalID: -3297616722314211613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 94
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7f3671988e4a20800000000000000
+      internalID: 3048524156111912299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 89
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fccba4a4baa8660800000000000000
+      internalID: 7388906474224537488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca49f275efa8b10800000000000000
+      internalID: 1984678236224007259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 94
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492bc1e9757d854f0800000000000000
+      internalID: -839684559189790060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3165eb776d7cd3930800000000000000
+      internalID: 4124672557687133715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 108
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82223568d8328f9f0800000000000000
+      internalID: -434558273290296792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d0ddc3f3134ba20800000000000000
+      internalID: 3077138593074711910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 317
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a07d58c54b11dd0800000000000000
+      internalID: -2517032407247943149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 59
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7f2d2ac4ae9bd20800000000000000
+      internalID: 3294922217268377542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c381f24705643e0800000000000000
+      internalID: -2069878518793618331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 59
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5ed460cac83f90800000000000000
+      internalID: -6973601095308387050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e465e2d41691e4b0800000000000000
+      internalID: -5412880260940864280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 60
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bea92973df382b20800000000000000
+      internalID: 3109805720202751673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfce80fce7e650a0800000000000000
+      internalID: -6893067174809776169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 59
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943372f7569fecb00800000000000000
+      internalID: 850891593939891017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 59
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8041b2f39e10c0800000000000000
+      internalID: -4603079098560901628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75f2120e4a9cf890800000000000000
+      internalID: -7422888425980496513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cb7476168d4460800000000000000
+      internalID: 7227580408001185550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 55
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6a9585ddb68b840800000000000000
+      internalID: 5240056764859786975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 59
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92034bca18eaf9710800000000000000
+      internalID: 1702271056140841001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58da3b46ad103e10800000000000000
+      internalID: 2175271220083873882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 59
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3b17e9de0aa5c0800000000000000
+      internalID: -4203530973148923327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 60
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7ec875b4407100800000000000000
+      internalID: 103658337636089588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 59
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c605ee4a3253cf8a0800000000000000
+      internalID: -6270078153999363988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03b40d1b36ac30a0800000000000000
+      internalID: -6900457756218313970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db553dd32f38b0950800000000000000
+      internalID: 6416367170561988029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898569b7aade5dc10800000000000000
+      internalID: 2077828119575025816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a197bb9db37bf60800000000000000
+      internalID: 8049968665287268933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60979d6de4adca090800000000000000
+      internalID: -8021796804106815226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e10fe22e5f06090800000000000000
+      internalID: -8043158582684803558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f1b5ec49aefa360800000000000000
+      internalID: 7183217855517368130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b3c86713a6deb0800000000000000
+      internalID: -4695386240549930558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d2d56f9e7da220800000000000000
+      internalID: 2498792591333708223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 33
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cce229d960ba170800000000000000
+      internalID: 8190647621135551555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73422eea3ff3950800000000000000
+      internalID: 6431126725352241102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a4130608f7df600800000000000000
+      internalID: 503698922681747991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 31
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d085fcf44d75d0a80800000000000000
+      internalID: -8499040352394586099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c17b61186a41d40800000000000000
+      internalID: 5554247313816755200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1353ff7ddf5eb2a0800000000000000
+      internalID: -6719828189051137254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_70
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ada5ad0a217890800000000000000
+      internalID: -7462136869473640168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fb94ce94984a20800000000000000
+      internalID: 3046848557540440425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_72
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 32
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e85426a991e0d10800000000000000
+      internalID: 2093639027638242940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_73
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0355e297c6fab7d00800000000000000
+      internalID: 971563025052882224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_74
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 31
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb47b6151a0a4a0800000000000000
+      internalID: -6584085284148429678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6244b99beae8eddb0800000000000000
+      internalID: -4765214474621991898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68503cf4652b3dac0800000000000000
+      internalID: -3831522774187047546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_77
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638aa43485d16710800000000000000
+      internalID: 1684862499409265512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4862be9541349700800000000000000
+      internalID: 546115629903669324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_79
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc034040bf182510800000000000000
+      internalID: 1524503315717754057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93a3a4d943b7ea0800000000000000
+      internalID: -5874043438814840360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c040862dd1a2610800000000000000
+      internalID: 1597121807381695613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e95a680fb426370800000000000000
+      internalID: 8314291358502592152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee361ded36ccff40800000000000000
+      internalID: 5763699592400355052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OmdcLogo_Tex_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c0f0638d398630800000000000000
+      internalID: 3929739784333870651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

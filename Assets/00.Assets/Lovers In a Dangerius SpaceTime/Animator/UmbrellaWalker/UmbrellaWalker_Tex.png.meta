@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: da1d744f9249a364e82d1b6e50e935f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4397164573383484548
+    second: UmbrellaWalker_Tex_0
+  - first:
+      213: -3998802941489720347
+    second: UmbrellaWalker_Tex_1
+  - first:
+      213: -6617283675644120080
+    second: UmbrellaWalker_Tex_2
+  - first:
+      213: -9193354260973546654
+    second: UmbrellaWalker_Tex_3
+  - first:
+      213: 204940304467561509
+    second: UmbrellaWalker_Tex_4
+  - first:
+      213: -2632817542647193385
+    second: UmbrellaWalker_Tex_5
+  - first:
+      213: 8778273361550921604
+    second: UmbrellaWalker_Tex_6
+  - first:
+      213: -5482785797675799843
+    second: UmbrellaWalker_Tex_7
+  - first:
+      213: -4257169192105937474
+    second: UmbrellaWalker_Tex_8
+  - first:
+      213: -5405515838442019750
+    second: UmbrellaWalker_Tex_9
+  - first:
+      213: 9197849885595858905
+    second: UmbrellaWalker_Tex_10
+  - first:
+      213: -6992860734097870549
+    second: UmbrellaWalker_Tex_11
+  - first:
+      213: -5987478944129722792
+    second: UmbrellaWalker_Tex_12
+  - first:
+      213: -6322928878087825783
+    second: UmbrellaWalker_Tex_13
+  - first:
+      213: 3231592767944701716
+    second: UmbrellaWalker_Tex_14
+  - first:
+      213: 4595841568548976969
+    second: UmbrellaWalker_Tex_15
+  - first:
+      213: 226981551378079431
+    second: UmbrellaWalker_Tex_16
+  - first:
+      213: 8159997537241395792
+    second: UmbrellaWalker_Tex_17
+  - first:
+      213: 3600958339700964053
+    second: UmbrellaWalker_Tex_18
+  - first:
+      213: -8806147514716861563
+    second: UmbrellaWalker_Tex_19
+  - first:
+      213: -3585874276550179637
+    second: UmbrellaWalker_Tex_20
+  - first:
+      213: -8909911813193382606
+    second: UmbrellaWalker_Tex_21
+  - first:
+      213: 2413918065267707298
+    second: UmbrellaWalker_Tex_22
+  - first:
+      213: 1616700668735604655
+    second: UmbrellaWalker_Tex_23
+  - first:
+      213: 4412573218910500742
+    second: UmbrellaWalker_Tex_24
+  - first:
+      213: -3485120059643198771
+    second: UmbrellaWalker_Tex_25
+  - first:
+      213: -2243444090225061811
+    second: UmbrellaWalker_Tex_26
+  - first:
+      213: 3877036050131134834
+    second: UmbrellaWalker_Tex_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 714
+        width: 295
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b9b802e122af2c0800000000000000
+      internalID: -4397164573383484548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 739
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3d7b949e56188c0800000000000000
+      internalID: -3998802941489720347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 735
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3bd3f8e8faa24a0800000000000000
+      internalID: -6617283675644120080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 714
+        width: 295
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26319541205aa6080800000000000000
+      internalID: -9193354260973546654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 739
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c03fffe1818d200800000000000000
+      internalID: 204940304467561509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 735
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e81ce46a567bd0800000000000000
+      internalID: -2632817542647193385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4480fc11b2d970800000000000000
+      internalID: 8778273361550921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2af5bd5b39e3b0800000000000000
+      internalID: -5482785797675799843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f9cbdc2f7be4c0800000000000000
+      internalID: -4257169192105937474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 535
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546aed0cffbbf4b0800000000000000
+      internalID: -5405515838442019750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fe481db355af70800000000000000
+      internalID: 9197849885595858905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b15c463e54fe90800000000000000
+      internalID: -6992860734097870549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85654039f9338eca0800000000000000
+      internalID: -5987478944129722792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 535
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98614898fa17048a0800000000000000
+      internalID: -6322928878087825783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 202
+        width: 295
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b010308ce8dc20800000000000000
+      internalID: 3231592767944701716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 227
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949f5598e85b7cf30800000000000000
+      internalID: 4595841568548976969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 223
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1574b486662300800000000000000
+      internalID: 226981551378079431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 202
+        width: 295
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f55fc6822e3170800000000000000
+      internalID: 8159997537241395792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 227
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3bd0088c29f130800000000000000
+      internalID: 3600958339700964053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 223
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcc990e774ac580800000000000000
+      internalID: -8806147514716861563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc40401285a6c3ec0800000000000000
+      internalID: -3585874276550179637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2354d82a962a95480800000000000000
+      internalID: -8909911813193382606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0e2dd0b5ff7120800000000000000
+      internalID: 2413918065267707298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 23
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74f1c41bcaf6610800000000000000
+      internalID: 1616700668735604655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ff8ab6fb9c3d30800000000000000
+      internalID: 4412573218910500742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2016d45cd52afc0800000000000000
+      internalID: -3485120059643198771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409fa87c7fadd0e0800000000000000
+      internalID: -2243444090225061811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmbrellaWalker_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 23
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27923750fbffdc530800000000000000
+      internalID: 3877036050131134834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

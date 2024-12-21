@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: a6dc41872713a914fa176fd985ec4344
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 275328887423089769
+    second: AsteroidBarrager_Tex_0
+  - first:
+      213: 6998397870165113703
+    second: AsteroidBarrager_Tex_1
+  - first:
+      213: 7678535199534136230
+    second: AsteroidBarrager_Tex_2
+  - first:
+      213: 4738058609554979124
+    second: AsteroidBarrager_Tex_3
+  - first:
+      213: -4332643837093762502
+    second: AsteroidBarrager_Tex_4
+  - first:
+      213: 8414891615274885450
+    second: AsteroidBarrager_Tex_5
+  - first:
+      213: 8314380843549851751
+    second: AsteroidBarrager_Tex_6
+  - first:
+      213: -7738015008140755946
+    second: AsteroidBarrager_Tex_7
+  - first:
+      213: 1799045284254359034
+    second: AsteroidBarrager_Tex_8
+  - first:
+      213: -1166879026943976579
+    second: AsteroidBarrager_Tex_9
+  - first:
+      213: 789518391874416018
+    second: AsteroidBarrager_Tex_10
+  - first:
+      213: 1357785676600963979
+    second: AsteroidBarrager_Tex_11
+  - first:
+      213: 1269903181899141137
+    second: AsteroidBarrager_Tex_12
+  - first:
+      213: 3373896460152831766
+    second: AsteroidBarrager_Tex_13
+  - first:
+      213: 1708449638727848062
+    second: AsteroidBarrager_Tex_14
+  - first:
+      213: -2878526632459349814
+    second: AsteroidBarrager_Tex_15
+  - first:
+      213: 2435390120815264253
+    second: AsteroidBarrager_Tex_16
+  - first:
+      213: 2717436196353632639
+    second: AsteroidBarrager_Tex_17
+  - first:
+      213: -520430391635622004
+    second: AsteroidBarrager_Tex_18
+  - first:
+      213: 7048691245250112317
+    second: AsteroidBarrager_Tex_19
+  - first:
+      213: 302848776025031778
+    second: AsteroidBarrager_Tex_20
+  - first:
+      213: 3123175238732634441
+    second: AsteroidBarrager_Tex_21
+  - first:
+      213: -7053868910535685038
+    second: AsteroidBarrager_Tex_22
+  - first:
+      213: -8490481690382580704
+    second: AsteroidBarrager_Tex_23
+  - first:
+      213: -5929497004807338397
+    second: AsteroidBarrager_Tex_24
+  - first:
+      213: 4517628267645706449
+    second: AsteroidBarrager_Tex_25
+  - first:
+      213: 4536246525601112822
+    second: AsteroidBarrager_Tex_26
+  - first:
+      213: -8488088750963378965
+    second: AsteroidBarrager_Tex_27
+  - first:
+      213: 7260723197417540583
+    second: AsteroidBarrager_Tex_28
+  - first:
+      213: -9119349618838284794
+    second: AsteroidBarrager_Tex_29
+  - first:
+      213: -2689518053756936727
+    second: AsteroidBarrager_Tex_30
+  - first:
+      213: -5458359050336345931
+    second: AsteroidBarrager_Tex_31
+  - first:
+      213: -2627693596903016702
+    second: AsteroidBarrager_Tex_32
+  - first:
+      213: -1970408203634606324
+    second: AsteroidBarrager_Tex_33
+  - first:
+      213: -5083892730203473329
+    second: AsteroidBarrager_Tex_34
+  - first:
+      213: 3055175810184392502
+    second: AsteroidBarrager_Tex_35
+  - first:
+      213: 5198434886076182389
+    second: AsteroidBarrager_Tex_36
+  - first:
+      213: 2050403524023553973
+    second: AsteroidBarrager_Tex_37
+  - first:
+      213: 6236990974931811166
+    second: AsteroidBarrager_Tex_38
+  - first:
+      213: -1723935312683791099
+    second: AsteroidBarrager_Tex_39
+  - first:
+      213: -8298795993841718396
+    second: AsteroidBarrager_Tex_40
+  - first:
+      213: -789774622423150795
+    second: AsteroidBarrager_Tex_41
+  - first:
+      213: 8230739987497546567
+    second: AsteroidBarrager_Tex_42
+  - first:
+      213: -6462983452571834804
+    second: AsteroidBarrager_Tex_43
+  - first:
+      213: -5140943992752689712
+    second: AsteroidBarrager_Tex_44
+  - first:
+      213: 3557988763008111439
+    second: AsteroidBarrager_Tex_45
+  - first:
+      213: -5948115716692671911
+    second: AsteroidBarrager_Tex_46
+  - first:
+      213: -8479290840036115992
+    second: AsteroidBarrager_Tex_47
+  - first:
+      213: -435879903556489210
+    second: AsteroidBarrager_Tex_48
+  - first:
+      213: 3455865999124821988
+    second: AsteroidBarrager_Tex_49
+  - first:
+      213: 6844128335316711366
+    second: AsteroidBarrager_Tex_50
+  - first:
+      213: 6761990224499050342
+    second: AsteroidBarrager_Tex_51
+  - first:
+      213: 3572290845792298814
+    second: AsteroidBarrager_Tex_52
+  - first:
+      213: 6456489202287140744
+    second: AsteroidBarrager_Tex_53
+  - first:
+      213: -869929064112380631
+    second: AsteroidBarrager_Tex_54
+  - first:
+      213: 7469990498363330991
+    second: AsteroidBarrager_Tex_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1691
+        width: 149
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb1431a2a22d300800000000000000
+      internalID: 275328887423089769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1663
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bba08a8cd4f1160800000000000000
+      internalID: 6998397870165113703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1691
+        width: 149
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb093d413af8a60800000000000000
+      internalID: 7678535199534136230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1663
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439718bb337f0c140800000000000000
+      internalID: 4738058609554979124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aadbfa26b5fd3c0800000000000000
+      internalID: -4332643837093762502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a416fdf0753b7c470800000000000000
+      internalID: 8414891615274885450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1511
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600a13635d926370800000000000000
+      internalID: 8314380843549851751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf02d095c0d9490800000000000000
+      internalID: -7738015008140755946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1566
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd92de772e77f810800000000000000
+      internalID: 1799045284254359034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b962715b96ecfe0800000000000000
+      internalID: -1166879026943976579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29def4b5bcee4fa00800000000000000
+      internalID: 789518391874416018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1511
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f9e601e2d7d210800000000000000
+      internalID: 1357785676600963979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1109c38373a9f9110800000000000000
+      internalID: 1269903181899141137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1566
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7b5074fc72de20800000000000000
+      internalID: 3373896460152831766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1451
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70940905e1a5b710800000000000000
+      internalID: 1708449638727848062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1451
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac052c3674b6d08d0800000000000000
+      internalID: -2878526632459349814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df180b0696e3cc120800000000000000
+      internalID: 2435390120815264253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79627fa2d546b520800000000000000
+      internalID: 2717436196353632639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1191
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87cd30f05f07c8f0800000000000000
+      internalID: -520430391635622004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be98c875bf1d160800000000000000
+      internalID: 7048691245250112317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1322
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26442a37b5fe33400800000000000000
+      internalID: 302848776025031778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94954f3155fb75b20800000000000000
+      internalID: 3123175238732634441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c495f499f9b1e90800000000000000
+      internalID: -7053868910535685038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1191
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c9c813efbb2a80800000000000000
+      internalID: -8490481690382580704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36647b3d3e136bda0800000000000000
+      internalID: -5929497004807338397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1322
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0294859f6d1be30800000000000000
+      internalID: 4517628267645706449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1036
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ed045e2cf3fe30800000000000000
+      internalID: 4536246525601112822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1036
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b6d8b040443a80800000000000000
+      internalID: -8488088750963378965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 667
+        width: 149
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc282774543c460800000000000000
+      internalID: 7260723197417540583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 639
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606dc8a86df817180800000000000000
+      internalID: -9119349618838284794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 667
+        width: 149
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed51dc6499ecaad0800000000000000
+      internalID: -2689518053756936727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 639
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e9240d530044b0800000000000000
+      internalID: -5458359050336345931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f602889e888bd0800000000000000
+      internalID: -2627693596903016702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ff7dfad24b7a4e0800000000000000
+      internalID: -1970408203634606324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 487
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af70c5f726279b0800000000000000
+      internalID: -5083892730203473329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f286c563a266a20800000000000000
+      internalID: 3055175810184392502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 542
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa1948cfc842840800000000000000
+      internalID: 5198434886076182389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf02af342f747c10800000000000000
+      internalID: 2050403524023553973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb0282f3e3e8650800000000000000
+      internalID: 6236990974931811166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 487
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0bb787f95318e0800000000000000
+      internalID: -1723935312683791099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b21a33301c4dc80800000000000000
+      internalID: -8298795993841718396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 542
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f89d15a282a05f0800000000000000
+      internalID: -789774622423150795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 427
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f4690966793270800000000000000
+      internalID: 8230739987497546567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 427
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466a30dacede46a0800000000000000
+      internalID: -6462983452571834804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2ccd2da2b7a8b0800000000000000
+      internalID: -5140943992752689712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f431eedcde3806130800000000000000
+      internalID: 3557988763008111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 167
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528d97254c047da0800000000000000
+      internalID: -5948115716692671911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e97c6cf7e1835a80800000000000000
+      internalID: -8479290840036115992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 298
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b8cf798173f9f0800000000000000
+      internalID: -435879903556489210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e77f25f0d3b5ff20800000000000000
+      internalID: 3455865999124821988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fcbf857a3bfe50800000000000000
+      internalID: 6844128335316711366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 167
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6670ee9584a67dd50800000000000000
+      internalID: 6761990224499050342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3764d1f893539130800000000000000
+      internalID: 3572290845792298814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 298
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f5876b8be0a9950800000000000000
+      internalID: 6456489202287140744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252bc110246de3f0800000000000000
+      internalID: -869929064112380631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AsteroidBarrager_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 12
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15d72d7ccbaa760800000000000000
+      internalID: 7469990498363330991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

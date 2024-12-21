@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 98ab59dc6ae7d5849b9ca9c38ed53805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1928091555388690369
+    second: UpgradeStoreIconShield_Tex_0
+  - first:
+      213: -5503438479121989350
+    second: UpgradeStoreIconShield_Tex_1
+  - first:
+      213: 1041938459512381773
+    second: UpgradeStoreIconShield_Tex_2
+  - first:
+      213: 1676765497208443948
+    second: UpgradeStoreIconShield_Tex_3
+  - first:
+      213: -1631656826854759332
+    second: UpgradeStoreIconShield_Tex_4
+  - first:
+      213: -8923976492678698890
+    second: UpgradeStoreIconShield_Tex_5
+  - first:
+      213: 4089390203452663490
+    second: UpgradeStoreIconShield_Tex_6
+  - first:
+      213: -5574707151108827448
+    second: UpgradeStoreIconShield_Tex_7
+  - first:
+      213: -250569554259671207
+    second: UpgradeStoreIconShield_Tex_8
+  - first:
+      213: 8726948533526095678
+    second: UpgradeStoreIconShield_Tex_9
+  - first:
+      213: 8433856072137661991
+    second: UpgradeStoreIconShield_Tex_10
+  - first:
+      213: -719352928374307143
+    second: UpgradeStoreIconShield_Tex_11
+  - first:
+      213: 142723661922776539
+    second: UpgradeStoreIconShield_Tex_12
+  - first:
+      213: 2129878566611014205
+    second: UpgradeStoreIconShield_Tex_13
+  - first:
+      213: 7990938463033111439
+    second: UpgradeStoreIconShield_Tex_14
+  - first:
+      213: 8913465741806902802
+    second: UpgradeStoreIconShield_Tex_15
+  - first:
+      213: -8338222040114654478
+    second: UpgradeStoreIconShield_Tex_16
+  - first:
+      213: -3443559540211476841
+    second: UpgradeStoreIconShield_Tex_17
+  - first:
+      213: 7535302480769508972
+    second: UpgradeStoreIconShield_Tex_18
+  - first:
+      213: 3598984591108836050
+    second: UpgradeStoreIconShield_Tex_19
+  - first:
+      213: 7442230352002081175
+    second: UpgradeStoreIconShield_Tex_20
+  - first:
+      213: -7807460571644807725
+    second: UpgradeStoreIconShield_Tex_21
+  - first:
+      213: -4926712031548861943
+    second: UpgradeStoreIconShield_Tex_22
+  - first:
+      213: 8562479950189704603
+    second: UpgradeStoreIconShield_Tex_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3070a222fa0e35e0800000000000000
+      internalID: -1928091555388690369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11c7b89cdbdf93b0800000000000000
+      internalID: -5503438479121989350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ad0d2285b57e00800000000000000
+      internalID: 1041938459512381773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249db8f551154710800000000000000
+      internalID: 1676765497208443948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542bf7c2c03b59e0800000000000000
+      internalID: -1631656826854759332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67823f149aaa72480800000000000000
+      internalID: -8923976492678698890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c622c839be60c830800000000000000
+      internalID: 4089390203452663490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61453d169a2a2b0800000000000000
+      internalID: -5574707151108827448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95703d6615cc58cf0800000000000000
+      internalID: -250569554259671207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3760f134795c1970800000000000000
+      internalID: 8726948533526095678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5982c9631b0570800000000000000
+      internalID: 8433856072137661991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6cc1ca2585406f0800000000000000
+      internalID: -719352928374307143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd533f11a6e0bf100800000000000000
+      internalID: 142723661922776539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3251919549de8d10800000000000000
+      internalID: 2129878566611014205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83381fb13485ee60800000000000000
+      internalID: 7990938463033111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 188
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e930addddf2bb70800000000000000
+      internalID: 8913465741806902802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f212a87b3fa84c80800000000000000
+      internalID: -8338222040114654478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 160
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79699cac7d40630d0800000000000000
+      internalID: -3443559540211476841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e269bea5c29860800000000000000
+      internalID: 7535302480769508972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8529da6922f130800000000000000
+      internalID: 3598984591108836050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e6b3131d184760800000000000000
+      internalID: 7442230352002081175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d53e3dc9f356a390800000000000000
+      internalID: -7807460571644807725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 43
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90213e8928dc0abb0800000000000000
+      internalID: -4926712031548861943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconShield_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 43
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953673162a04d670800000000000000
+      internalID: 8562479950189704603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

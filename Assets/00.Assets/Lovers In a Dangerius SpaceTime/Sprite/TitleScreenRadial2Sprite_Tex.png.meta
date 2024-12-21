@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: fd00bd845c535df4497f2b7228c23438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3696297675775185846
+    second: TitleScreenRadial2Sprite_Tex_0
+  - first:
+      213: -8311720788809216498
+    second: TitleScreenRadial2Sprite_Tex_1
+  - first:
+      213: -1430178032411504140
+    second: TitleScreenRadial2Sprite_Tex_2
+  - first:
+      213: 2763909974813815046
+    second: TitleScreenRadial2Sprite_Tex_3
+  - first:
+      213: 5651212904614208894
+    second: TitleScreenRadial2Sprite_Tex_4
+  - first:
+      213: 8781976682166694025
+    second: TitleScreenRadial2Sprite_Tex_5
+  - first:
+      213: -4338037686777939225
+    second: TitleScreenRadial2Sprite_Tex_6
+  - first:
+      213: -6432066991739405892
+    second: TitleScreenRadial2Sprite_Tex_7
+  - first:
+      213: 4419977873144159198
+    second: TitleScreenRadial2Sprite_Tex_8
+  - first:
+      213: 1363372235696151783
+    second: TitleScreenRadial2Sprite_Tex_9
+  - first:
+      213: -1516039266791330866
+    second: TitleScreenRadial2Sprite_Tex_10
+  - first:
+      213: -1763657006029007760
+    second: TitleScreenRadial2Sprite_Tex_11
+  - first:
+      213: -6785407466706139393
+    second: TitleScreenRadial2Sprite_Tex_12
+  - first:
+      213: -2844553391771355009
+    second: TitleScreenRadial2Sprite_Tex_13
+  - first:
+      213: 1499517476785345718
+    second: TitleScreenRadial2Sprite_Tex_14
+  - first:
+      213: -4348041701855910711
+    second: TitleScreenRadial2Sprite_Tex_15
+  - first:
+      213: -5228655144990054426
+    second: TitleScreenRadial2Sprite_Tex_16
+  - first:
+      213: -7697278718474713824
+    second: TitleScreenRadial2Sprite_Tex_17
+  - first:
+      213: -1351966819151110456
+    second: TitleScreenRadial2Sprite_Tex_18
+  - first:
+      213: 7879612058458973407
+    second: TitleScreenRadial2Sprite_Tex_19
+  - first:
+      213: -5708841277843306826
+    second: TitleScreenRadial2Sprite_Tex_20
+  - first:
+      213: -5873192586130730270
+    second: TitleScreenRadial2Sprite_Tex_21
+  - first:
+      213: 1394800988856374556
+    second: TitleScreenRadial2Sprite_Tex_22
+  - first:
+      213: -4665223448990789477
+    second: TitleScreenRadial2Sprite_Tex_23
+  - first:
+      213: -1361485366990443526
+    second: TitleScreenRadial2Sprite_Tex_24
+  - first:
+      213: -5611811680927107616
+    second: TitleScreenRadial2Sprite_Tex_25
+  - first:
+      213: 1155736870648861095
+    second: TitleScreenRadial2Sprite_Tex_26
+  - first:
+      213: -3398652981581648891
+    second: TitleScreenRadial2Sprite_Tex_27
+  - first:
+      213: 5557585450461600925
+    second: TitleScreenRadial2Sprite_Tex_28
+  - first:
+      213: 192090935751761646
+    second: TitleScreenRadial2Sprite_Tex_29
+  - first:
+      213: 3432381600619228708
+    second: TitleScreenRadial2Sprite_Tex_30
+  - first:
+      213: -756697078736583834
+    second: TitleScreenRadial2Sprite_Tex_31
+  - first:
+      213: 2840359240729256351
+    second: TitleScreenRadial2Sprite_Tex_32
+  - first:
+      213: 6433266960503372412
+    second: TitleScreenRadial2Sprite_Tex_33
+  - first:
+      213: 2381026330950653625
+    second: TitleScreenRadial2Sprite_Tex_34
+  - first:
+      213: -3532628827131448776
+    second: TitleScreenRadial2Sprite_Tex_35
+  - first:
+      213: 2261973072777593607
+    second: TitleScreenRadial2Sprite_Tex_36
+  - first:
+      213: 2251338324405425422
+    second: TitleScreenRadial2Sprite_Tex_37
+  - first:
+      213: -8505596925549176891
+    second: TitleScreenRadial2Sprite_Tex_38
+  - first:
+      213: -2368639575998946892
+    second: TitleScreenRadial2Sprite_Tex_39
+  - first:
+      213: -4029761795056304876
+    second: TitleScreenRadial2Sprite_Tex_40
+  - first:
+      213: 4934207116484117856
+    second: TitleScreenRadial2Sprite_Tex_41
+  - first:
+      213: -40537333906058351
+    second: TitleScreenRadial2Sprite_Tex_42
+  - first:
+      213: 601592151545271200
+    second: TitleScreenRadial2Sprite_Tex_43
+  - first:
+      213: -5541867432007832562
+    second: TitleScreenRadial2Sprite_Tex_44
+  - first:
+      213: 3705277360208604807
+    second: TitleScreenRadial2Sprite_Tex_45
+  - first:
+      213: -4971229188313510373
+    second: TitleScreenRadial2Sprite_Tex_46
+  - first:
+      213: 3551647485110277623
+    second: TitleScreenRadial2Sprite_Tex_47
+  - first:
+      213: -1792952571452563840
+    second: TitleScreenRadial2Sprite_Tex_48
+  - first:
+      213: -5013457023511459993
+    second: TitleScreenRadial2Sprite_Tex_49
+  - first:
+      213: -3977411832615542168
+    second: TitleScreenRadial2Sprite_Tex_50
+  - first:
+      213: 7211270854932232464
+    second: TitleScreenRadial2Sprite_Tex_51
+  - first:
+      213: -1247048978952883273
+    second: TitleScreenRadial2Sprite_Tex_52
+  - first:
+      213: 4340011335302705865
+    second: TitleScreenRadial2Sprite_Tex_53
+  - first:
+      213: 7980064969148490441
+    second: TitleScreenRadial2Sprite_Tex_54
+  - first:
+      213: 8024424721601191126
+    second: TitleScreenRadial2Sprite_Tex_55
+  - first:
+      213: 2389928429935212065
+    second: TitleScreenRadial2Sprite_Tex_56
+  - first:
+      213: 1185574428539142601
+    second: TitleScreenRadial2Sprite_Tex_57
+  - first:
+      213: -9052925482779869904
+    second: TitleScreenRadial2Sprite_Tex_58
+  - first:
+      213: -6709438940519380136
+    second: TitleScreenRadial2Sprite_Tex_59
+  - first:
+      213: 5897833078443152390
+    second: TitleScreenRadial2Sprite_Tex_60
+  - first:
+      213: 5928871958357364894
+    second: TitleScreenRadial2Sprite_Tex_61
+  - first:
+      213: 1209385753283001545
+    second: TitleScreenRadial2Sprite_Tex_62
+  - first:
+      213: -383630389496925097
+    second: TitleScreenRadial2Sprite_Tex_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 666
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c615309dc14bcc0800000000000000
+      internalID: -3696297675775185846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 687
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e0ccedaf5d6ac80800000000000000
+      internalID: -8311720788809216498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 707
+        width: 164
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19b8c28acf62ce0800000000000000
+      internalID: -1430178032411504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 724
+        width: 148
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601bfef6a716b5620800000000000000
+      internalID: 2763909974813815046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 740
+        width: 131
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7522a102342d6e40800000000000000
+      internalID: 5651212904614208894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 753
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9803f467349dfd970800000000000000
+      internalID: 8781976682166694025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 763
+        width: 92
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaf75135b13cc3c0800000000000000
+      internalID: -4338037686777939225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 771
+        width: 72
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97bd94625bcb6a0800000000000000
+      internalID: -6432066991739405892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 776
+        width: 51
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb18d3257ae65d30800000000000000
+      internalID: 4419977873144159198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 779
+        width: 30
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec9c4d23dbabe210800000000000000
+      internalID: 1363372235696151783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 779
+        width: 30
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbeb55b152f5fae0800000000000000
+      internalID: -1516039266791330866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 776
+        width: 52
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074130a1c4b3687e0800000000000000
+      internalID: -1763657006029007760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 771
+        width: 72
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff682b21cd365d1a0800000000000000
+      internalID: -6785407466706139393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 763
+        width: 92
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f5d2e2cd1688d0800000000000000
+      internalID: -2844553391771355009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 752
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d74a433b5fc410800000000000000
+      internalID: 1499517476785345718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 739
+        width: 131
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c42b4ceb17a8a3c0800000000000000
+      internalID: -4348041701855910711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 724
+        width: 148
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e769d529d51077b0800000000000000
+      internalID: -5228655144990054426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 706
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025042899c5cd2590800000000000000
+      internalID: -7697278718474713824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 687
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce126c4759dc3de0800000000000000
+      internalID: -1351966819151110456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 665
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e4505b610a5d60800000000000000
+      internalID: 7879612058458973407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 593
+        width: 223
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b60013ca1f16c0b0800000000000000
+      internalID: -5708841277843306826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 619
+        width: 215
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2583ed57a3e7ea0800000000000000
+      internalID: -5873192586130730270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 643
+        width: 205
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15d5210c145b5310800000000000000
+      internalID: 1394800988856374556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 642
+        width: 205
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d4159dfbc14fb0800000000000000
+      internalID: -4665223448990789477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 618
+        width: 215
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb64ada5480b1de0800000000000000
+      internalID: -1361485366990443526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 593
+        width: 223
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b3f34207de12b0800000000000000
+      internalID: -5611811680927107616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 539
+        width: 234
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d8dc7f800a0010800000000000000
+      internalID: 1155736870648861095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 567
+        width: 229
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ce00ebe1f85d0d0800000000000000
+      internalID: -3398652981581648891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 567
+        width: 229
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c94a79582802d40800000000000000
+      internalID: 5557585450461600925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 539
+        width: 234
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5e0630b17aa200800000000000000
+      internalID: 192090935751761646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 512
+        width: 235
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eee7651e442af20800000000000000
+      internalID: 3432381600619228708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 511
+        width: 235
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663845b140caf75f0800000000000000
+      internalID: -756697078736583834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 235
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916a2a3eabfa6720800000000000000
+      internalID: 2840359240729256351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 424
+        width: 234
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a7f06373e874950800000000000000
+      internalID: 6433266960503372412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 425
+        width: 234
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b65a2135da1b0120800000000000000
+      internalID: 2381026330950653625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 474
+        width: 235
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83276836cc499fec0800000000000000
+      internalID: -3532628827131448776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 377
+        width: 230
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70348667684246f10800000000000000
+      internalID: 2261973072777593607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 331
+        width: 223
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059867274c5e3f10800000000000000
+      internalID: 2251338324405425422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 215
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79cf929ac06f980800000000000000
+      internalID: -8505596925549176891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 215
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1a6afead6e02fd0800000000000000
+      internalID: -2368639575998946892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 331
+        width: 223
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7a3c7ff86318c0800000000000000
+      internalID: -4029761795056304876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 377
+        width: 229
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0658d3ada33d97440800000000000000
+      internalID: 4934207116484117856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 241
+        width: 205
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1935364728bff6ff0800000000000000
+      internalID: -40537333906058351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 201
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d48cdfd8495800800000000000000
+      internalID: 601592151545271200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 163
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cedd2cee45713b0800000000000000
+      internalID: -5541867432007832562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 129
+        width: 164
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee781b02acb6330800000000000000
+      internalID: 3705277360208604807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 98
+        width: 148
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e05855465a20bb0800000000000000
+      internalID: -4971229188313510373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 131
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5586df19cf94130800000000000000
+      internalID: 3551647485110277623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 47
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e527fb2272e17e0800000000000000
+      internalID: -1792952571452563840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 29
+        width: 92
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76789e8466f9c6ab0800000000000000
+      internalID: -5013457023511459993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 15
+        width: 72
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e38fe2056dc8c0800000000000000
+      internalID: -3977411832615542168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 72
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019fc57b2a4931460800000000000000
+      internalID: 7211270854932232464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 29
+        width: 92
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ffff8f8791bee0800000000000000
+      internalID: -1247048978952883273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 48
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2f2e9a051da3c30800000000000000
+      internalID: 4340011335302705865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 71
+        width: 131
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c262aa2fc2eebe60800000000000000
+      internalID: 7980064969148490441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 98
+        width: 148
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd6e1e4cb7c5f60800000000000000
+      internalID: 8024424721601191126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 129
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12635e0ae3bba2120800000000000000
+      internalID: 2389928429935212065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 164
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ccdb49a1047010800000000000000
+      internalID: 1185574428539142601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 202
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df2d4ec3c8d5280800000000000000
+      internalID: -9052925482779869904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 242
+        width: 205
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4b2ce4d843e2a0800000000000000
+      internalID: -6709438940519380136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 5
+        width: 51
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041721dfef49d150800000000000000
+      internalID: 5897833078443152390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 30
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905aa432a5974250800000000000000
+      internalID: 5928871958357364894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 30
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccf9dc5fe998c010800000000000000
+      internalID: 1209385753283001545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreenRadial2Sprite_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 5
+        width: 52
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754bdfc71321daaf0800000000000000
+      internalID: -383630389496925097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

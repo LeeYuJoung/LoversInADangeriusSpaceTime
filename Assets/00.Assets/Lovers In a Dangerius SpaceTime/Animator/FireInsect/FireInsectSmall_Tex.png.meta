@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: e7c73540f052ac44db05996d44513a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7637594446769672224
+    second: FireInsectSmall_Tex_0
+  - first:
+      213: -5337738501400250600
+    second: FireInsectSmall_Tex_1
+  - first:
+      213: -7027324963488409172
+    second: FireInsectSmall_Tex_2
+  - first:
+      213: 8335950179744948364
+    second: FireInsectSmall_Tex_3
+  - first:
+      213: -2880863447950418365
+    second: FireInsectSmall_Tex_4
+  - first:
+      213: 853198058045523597
+    second: FireInsectSmall_Tex_5
+  - first:
+      213: 7911146832141361534
+    second: FireInsectSmall_Tex_6
+  - first:
+      213: -4996257368753503751
+    second: FireInsectSmall_Tex_7
+  - first:
+      213: 4278317020783281675
+    second: FireInsectSmall_Tex_8
+  - first:
+      213: 6586303257942185814
+    second: FireInsectSmall_Tex_9
+  - first:
+      213: -2699220995890207540
+    second: FireInsectSmall_Tex_10
+  - first:
+      213: -3930085361001021104
+    second: FireInsectSmall_Tex_11
+  - first:
+      213: -5465469683994421647
+    second: FireInsectSmall_Tex_12
+  - first:
+      213: 5342602446881216488
+    second: FireInsectSmall_Tex_13
+  - first:
+      213: 1471289242602478209
+    second: FireInsectSmall_Tex_14
+  - first:
+      213: 5528723214584357420
+    second: FireInsectSmall_Tex_15
+  - first:
+      213: -3541238111580402425
+    second: FireInsectSmall_Tex_16
+  - first:
+      213: -368774637374937922
+    second: FireInsectSmall_Tex_17
+  - first:
+      213: -8662136345003739425
+    second: FireInsectSmall_Tex_18
+  - first:
+      213: 6154425248267052045
+    second: FireInsectSmall_Tex_19
+  - first:
+      213: -6082658861227910544
+    second: FireInsectSmall_Tex_20
+  - first:
+      213: 5885800469922472260
+    second: FireInsectSmall_Tex_21
+  - first:
+      213: 6033321824965975378
+    second: FireInsectSmall_Tex_22
+  - first:
+      213: 7128880463226043445
+    second: FireInsectSmall_Tex_23
+  - first:
+      213: 5324434892806585329
+    second: FireInsectSmall_Tex_24
+  - first:
+      213: -335188527195620746
+    second: FireInsectSmall_Tex_25
+  - first:
+      213: -6602629331468251600
+    second: FireInsectSmall_Tex_26
+  - first:
+      213: -831283277588070663
+    second: FireInsectSmall_Tex_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 829
+        width: 276
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef2ccdf050d10690800000000000000
+      internalID: -7637594446769672224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 829
+        width: 276
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817bc101d1b8ce5b0800000000000000
+      internalID: -5337738501400250600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d9069d2de97e90800000000000000
+      internalID: -7027324963488409172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c802d01d58e3fa370800000000000000
+      internalID: 8335950179744948364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e128225fd1508d0800000000000000
+      internalID: -2880863447950418365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864bd40d1b27db00800000000000000
+      internalID: 853198058045523597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712eb7f02a0acd60800000000000000
+      internalID: 7911146832141361534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 755
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10509f46ab9aab0800000000000000
+      internalID: -4996257368753503751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068b44b9a2af5b30800000000000000
+      internalID: 4278317020783281675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65754a8daef376b50800000000000000
+      internalID: 6586303257942185814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc420b92ec07a8ad0800000000000000
+      internalID: -2699220995890207540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514298cf288579c0800000000000000
+      internalID: -3930085361001021104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17698da9740c624b0800000000000000
+      internalID: -5465469683994421647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 594
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7dc7e7e9cb42a40800000000000000
+      internalID: 5342602446881216488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 317
+        width: 276
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a9c2b55c11b6410800000000000000
+      internalID: 1471289242602478209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 317
+        width: 276
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a1c2a878f9bc40800000000000000
+      internalID: 5528723214584357420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcc2623befadec0800000000000000
+      internalID: -3541238111580402425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e711db69d1eaf0800000000000000
+      internalID: -368774637374937922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd63d0063e8e9c780800000000000000
+      internalID: -8662136345003739425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0427afd729e86550800000000000000
+      internalID: 6154425248267052045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ad0a63efd069ba0800000000000000
+      internalID: -6082658861227910544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 243
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416e84d7509ea150800000000000000
+      internalID: 5885800469922472260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d55b0eb3aaab350800000000000000
+      internalID: 6033321824965975378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c7fc8c20fdee260800000000000000
+      internalID: 7128880463226043445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb7e6f235134e940800000000000000
+      internalID: 5324434892806585329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af7b77fcb295bf0800000000000000
+      internalID: -335188527195620746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e8242fa9fbe54a0800000000000000
+      internalID: -6602629331468251600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireInsectSmall_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 82
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef3ab6340b674f0800000000000000
+      internalID: -831283277588070663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

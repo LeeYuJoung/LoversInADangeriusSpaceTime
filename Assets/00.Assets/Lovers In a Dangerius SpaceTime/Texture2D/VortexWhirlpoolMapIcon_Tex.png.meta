@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: bca79eb1e66ee9144b584db0b3d8c15a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8384419866825832938
+    second: VortexWhirlpoolMapIcon_Tex_0
+  - first:
+      213: -2185009228504050109
+    second: VortexWhirlpoolMapIcon_Tex_1
+  - first:
+      213: -4855721154962114112
+    second: VortexWhirlpoolMapIcon_Tex_2
+  - first:
+      213: -4864005687112929356
+    second: VortexWhirlpoolMapIcon_Tex_3
+  - first:
+      213: -5798506795942843527
+    second: VortexWhirlpoolMapIcon_Tex_4
+  - first:
+      213: 8397589482180377671
+    second: VortexWhirlpoolMapIcon_Tex_5
+  - first:
+      213: -4659392178098350282
+    second: VortexWhirlpoolMapIcon_Tex_6
+  - first:
+      213: -4009232967112017114
+    second: VortexWhirlpoolMapIcon_Tex_7
+  - first:
+      213: -4589416931567142050
+    second: VortexWhirlpoolMapIcon_Tex_8
+  - first:
+      213: 7555881378271847526
+    second: VortexWhirlpoolMapIcon_Tex_9
+  - first:
+      213: 4377216640848858970
+    second: VortexWhirlpoolMapIcon_Tex_10
+  - first:
+      213: -2534449474133676298
+    second: VortexWhirlpoolMapIcon_Tex_11
+  - first:
+      213: 87802421076935340
+    second: VortexWhirlpoolMapIcon_Tex_12
+  - first:
+      213: 8310125698608097619
+    second: VortexWhirlpoolMapIcon_Tex_13
+  - first:
+      213: 6038248490482682554
+    second: VortexWhirlpoolMapIcon_Tex_14
+  - first:
+      213: -7808235198795820678
+    second: VortexWhirlpoolMapIcon_Tex_15
+  - first:
+      213: 3764200759558975498
+    second: VortexWhirlpoolMapIcon_Tex_16
+  - first:
+      213: -6000306131068793618
+    second: VortexWhirlpoolMapIcon_Tex_17
+  - first:
+      213: -3524333439429447824
+    second: VortexWhirlpoolMapIcon_Tex_18
+  - first:
+      213: 5617825114866596675
+    second: VortexWhirlpoolMapIcon_Tex_19
+  - first:
+      213: 884614254862559726
+    second: VortexWhirlpoolMapIcon_Tex_20
+  - first:
+      213: -6079702816898854521
+    second: VortexWhirlpoolMapIcon_Tex_21
+  - first:
+      213: -4528079221267009251
+    second: VortexWhirlpoolMapIcon_Tex_22
+  - first:
+      213: -1592058919182367489
+    second: VortexWhirlpoolMapIcon_Tex_23
+  - first:
+      213: -7053067986809753878
+    second: VortexWhirlpoolMapIcon_Tex_24
+  - first:
+      213: 5453675428455358234
+    second: VortexWhirlpoolMapIcon_Tex_25
+  - first:
+      213: -4454745025854701249
+    second: VortexWhirlpoolMapIcon_Tex_26
+  - first:
+      213: 339850271483959644
+    second: VortexWhirlpoolMapIcon_Tex_27
+  - first:
+      213: 2133924413729901504
+    second: VortexWhirlpoolMapIcon_Tex_28
+  - first:
+      213: -7488571201921799449
+    second: VortexWhirlpoolMapIcon_Tex_29
+  - first:
+      213: -8234056165906647793
+    second: VortexWhirlpoolMapIcon_Tex_30
+  - first:
+      213: 406809909055169351
+    second: VortexWhirlpoolMapIcon_Tex_31
+  - first:
+      213: 2764486550098657655
+    second: VortexWhirlpoolMapIcon_Tex_32
+  - first:
+      213: 5374875519644299679
+    second: VortexWhirlpoolMapIcon_Tex_33
+  - first:
+      213: -6911680765912118377
+    second: VortexWhirlpoolMapIcon_Tex_34
+  - first:
+      213: 5967824298496931216
+    second: VortexWhirlpoolMapIcon_Tex_35
+  - first:
+      213: -7248036321234051478
+    second: VortexWhirlpoolMapIcon_Tex_36
+  - first:
+      213: -6657796791882475568
+    second: VortexWhirlpoolMapIcon_Tex_37
+  - first:
+      213: 2555691876011832702
+    second: VortexWhirlpoolMapIcon_Tex_38
+  - first:
+      213: -4480491000972963299
+    second: VortexWhirlpoolMapIcon_Tex_39
+  - first:
+      213: 3329417145489982241
+    second: VortexWhirlpoolMapIcon_Tex_40
+  - first:
+      213: 2036457332201135649
+    second: VortexWhirlpoolMapIcon_Tex_41
+  - first:
+      213: -6927775689754054289
+    second: VortexWhirlpoolMapIcon_Tex_42
+  - first:
+      213: -7724040095523069894
+    second: VortexWhirlpoolMapIcon_Tex_43
+  - first:
+      213: -3816421003274591220
+    second: VortexWhirlpoolMapIcon_Tex_44
+  - first:
+      213: -318500671799044554
+    second: VortexWhirlpoolMapIcon_Tex_45
+  - first:
+      213: -6784218225882584117
+    second: VortexWhirlpoolMapIcon_Tex_46
+  - first:
+      213: -794066029474628291
+    second: VortexWhirlpoolMapIcon_Tex_47
+  - first:
+      213: 4775439885529415809
+    second: VortexWhirlpoolMapIcon_Tex_48
+  - first:
+      213: -8729974377643635114
+    second: VortexWhirlpoolMapIcon_Tex_49
+  - first:
+      213: -4119844682154267572
+    second: VortexWhirlpoolMapIcon_Tex_50
+  - first:
+      213: -784444005379232363
+    second: VortexWhirlpoolMapIcon_Tex_51
+  - first:
+      213: 332808652529925342
+    second: VortexWhirlpoolMapIcon_Tex_52
+  - first:
+      213: -6014093963278331000
+    second: VortexWhirlpoolMapIcon_Tex_53
+  - first:
+      213: -5051473804901454988
+    second: VortexWhirlpoolMapIcon_Tex_54
+  - first:
+      213: -8862360048895953221
+    second: VortexWhirlpoolMapIcon_Tex_55
+  - first:
+      213: 4221313284675444845
+    second: VortexWhirlpoolMapIcon_Tex_56
+  - first:
+      213: 3834557044903117098
+    second: VortexWhirlpoolMapIcon_Tex_57
+  - first:
+      213: 4944926371046690774
+    second: VortexWhirlpoolMapIcon_Tex_58
+  - first:
+      213: -1969788640618213281
+    second: VortexWhirlpoolMapIcon_Tex_59
+  - first:
+      213: -5655989331451266137
+    second: VortexWhirlpoolMapIcon_Tex_60
+  - first:
+      213: 2474102687408310389
+    second: VortexWhirlpoolMapIcon_Tex_61
+  - first:
+      213: 8426028106235757286
+    second: VortexWhirlpoolMapIcon_Tex_62
+  - first:
+      213: 6298644033218434519
+    second: VortexWhirlpoolMapIcon_Tex_63
+  - first:
+      213: -3908508288609804774
+    second: VortexWhirlpoolMapIcon_Tex_64
+  - first:
+      213: 6174533061772035264
+    second: VortexWhirlpoolMapIcon_Tex_65
+  - first:
+      213: -7339636997305222333
+    second: VortexWhirlpoolMapIcon_Tex_66
+  - first:
+      213: -8031599128095280344
+    second: VortexWhirlpoolMapIcon_Tex_67
+  - first:
+      213: -6420642070006186023
+    second: VortexWhirlpoolMapIcon_Tex_68
+  - first:
+      213: -5815914051117370467
+    second: VortexWhirlpoolMapIcon_Tex_69
+  - first:
+      213: 3240396384512384153
+    second: VortexWhirlpoolMapIcon_Tex_70
+  - first:
+      213: 335657064471453020
+    second: VortexWhirlpoolMapIcon_Tex_71
+  - first:
+      213: -8926473217108297329
+    second: VortexWhirlpoolMapIcon_Tex_72
+  - first:
+      213: 4837075920089122477
+    second: VortexWhirlpoolMapIcon_Tex_73
+  - first:
+      213: -9136666447795767516
+    second: VortexWhirlpoolMapIcon_Tex_74
+  - first:
+      213: 5925781107967285056
+    second: VortexWhirlpoolMapIcon_Tex_75
+  - first:
+      213: 1873324807311363260
+    second: VortexWhirlpoolMapIcon_Tex_76
+  - first:
+      213: 5711889804342337324
+    second: VortexWhirlpoolMapIcon_Tex_77
+  - first:
+      213: 662809742106606630
+    second: VortexWhirlpoolMapIcon_Tex_78
+  - first:
+      213: 620979051764400145
+    second: VortexWhirlpoolMapIcon_Tex_79
+  - first:
+      213: 1868248883648804797
+    second: VortexWhirlpoolMapIcon_Tex_80
+  - first:
+      213: 296056447781662597
+    second: VortexWhirlpoolMapIcon_Tex_81
+  - first:
+      213: -3669205521958665848
+    second: VortexWhirlpoolMapIcon_Tex_82
+  - first:
+      213: -7164149978697229484
+    second: VortexWhirlpoolMapIcon_Tex_83
+  - first:
+      213: -6847408883976694368
+    second: VortexWhirlpoolMapIcon_Tex_84
+  - first:
+      213: 7111363378646664770
+    second: VortexWhirlpoolMapIcon_Tex_85
+  - first:
+      213: 9056729855649330886
+    second: VortexWhirlpoolMapIcon_Tex_86
+  - first:
+      213: 349685137897046851
+    second: VortexWhirlpoolMapIcon_Tex_87
+  - first:
+      213: 8057880181339702238
+    second: VortexWhirlpoolMapIcon_Tex_88
+  - first:
+      213: 600019869001250613
+    second: VortexWhirlpoolMapIcon_Tex_89
+  - first:
+      213: 1641503399714026741
+    second: VortexWhirlpoolMapIcon_Tex_90
+  - first:
+      213: 1033046375786326495
+    second: VortexWhirlpoolMapIcon_Tex_91
+  - first:
+      213: -1082021053388661940
+    second: VortexWhirlpoolMapIcon_Tex_92
+  - first:
+      213: -6643412265208060082
+    second: VortexWhirlpoolMapIcon_Tex_93
+  - first:
+      213: -5145338731512924816
+    second: VortexWhirlpoolMapIcon_Tex_94
+  - first:
+      213: -8108736579972553147
+    second: VortexWhirlpoolMapIcon_Tex_95
+  - first:
+      213: 1307031458486791701
+    second: VortexWhirlpoolMapIcon_Tex_96
+  - first:
+      213: -850616743355682093
+    second: VortexWhirlpoolMapIcon_Tex_97
+  - first:
+      213: -2798916966269697110
+    second: VortexWhirlpoolMapIcon_Tex_98
+  - first:
+      213: -3850976335519211996
+    second: VortexWhirlpoolMapIcon_Tex_99
+  - first:
+      213: 5508423265086517278
+    second: VortexWhirlpoolMapIcon_Tex_100
+  - first:
+      213: 567834335428656976
+    second: VortexWhirlpoolMapIcon_Tex_101
+  - first:
+      213: -9205155181980834574
+    second: VortexWhirlpoolMapIcon_Tex_102
+  - first:
+      213: 4929480615144129887
+    second: VortexWhirlpoolMapIcon_Tex_103
+  - first:
+      213: -1150716894428051567
+    second: VortexWhirlpoolMapIcon_Tex_104
+  - first:
+      213: -1122451241294833228
+    second: VortexWhirlpoolMapIcon_Tex_105
+  - first:
+      213: -730796066883923146
+    second: VortexWhirlpoolMapIcon_Tex_106
+  - first:
+      213: 2860804884179975162
+    second: VortexWhirlpoolMapIcon_Tex_107
+  - first:
+      213: -941805112633485960
+    second: VortexWhirlpoolMapIcon_Tex_108
+  - first:
+      213: -7578092283234110340
+    second: VortexWhirlpoolMapIcon_Tex_109
+  - first:
+      213: 7082426855850752954
+    second: VortexWhirlpoolMapIcon_Tex_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 978
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b1e142717b5470800000000000000
+      internalID: 8384419866825832938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 898
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346d010fea94da1e0800000000000000
+      internalID: -2185009228504050109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 879
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9322616530d9cb0800000000000000
+      internalID: -4855721154962114112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 880
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf672229949f7cb0800000000000000
+      internalID: -4864005687112929356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b63287ac0978fa0800000000000000
+      internalID: -5798506795942843527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 881
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cfae6442b3a8470800000000000000
+      internalID: 8397589482180377671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 880
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d6332083865fb0800000000000000
+      internalID: -4659392178098350282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb085bbd75c58c0800000000000000
+      internalID: -4009232967112017114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 873
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf6c3dd9d1f40c0800000000000000
+      internalID: -4589416931567142050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 885
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664e1eca412ebd860800000000000000
+      internalID: 7555881378271847526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 883
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f89b6e75ffebc30800000000000000
+      internalID: 4377216640848858970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 876
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2611a1a3d3dcd0800000000000000
+      internalID: -2534449474133676298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 878
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2c5b636dfe73100800000000000000
+      internalID: 87802421076935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 871
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35961604b4f735370800000000000000
+      internalID: 8310125698608097619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 871
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba42c4920b2cc350800000000000000
+      internalID: 6038248490482682554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 874
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d21dd47393a390800000000000000
+      internalID: -7808235198795820678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00b4c0b5a02d3430800000000000000
+      internalID: 3764200759558975498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeccb026d51aabca0800000000000000
+      internalID: -6000306131068793618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 871
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe6c8d86d071fc0800000000000000
+      internalID: -3524333439429447824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 877
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b34ed6d2686fd40800000000000000
+      internalID: 5617825114866596675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 865
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee964585af7c64c00800000000000000
+      internalID: 884614254862559726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815dcaef7e80aba0800000000000000
+      internalID: -6079702816898854521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 853
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117d8560f70921c0800000000000000
+      internalID: -4528079221267009251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 872
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff484ac19ded7e9e0800000000000000
+      internalID: -1592058919182367489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 868
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee6685e8087e1e90800000000000000
+      internalID: -7053067986809753878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 873
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9b5948e85fab40800000000000000
+      internalID: 5453675428455358234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 870
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310ef050019d22c0800000000000000
+      internalID: -4454745025854701249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 870
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591f94750467b400800000000000000
+      internalID: 339850271483959644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 867
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb87e1c2f83d9d10800000000000000
+      internalID: 2133924413729901504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 869
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea2b320b20431890800000000000000
+      internalID: -7488571201921799449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f4820b81cabd80800000000000000
+      internalID: -8234056165906647793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a758f47745a500800000000000000
+      internalID: 406809909055169351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c9f4dedd6d5620800000000000000
+      internalID: 2764486550098657655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 613
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91775ccec4679a40800000000000000
+      internalID: 5374875519644299679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b88ea86f6c410a0800000000000000
+      internalID: -6911680765912118377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095bad1a498f1d250800000000000000
+      internalID: 5967824298496931216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 594
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e17b91e5dc96b90800000000000000
+      internalID: -7248036321234051478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71c11a711ca93a0800000000000000
+      internalID: -6657796791882475568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 519
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7579097834a77320800000000000000
+      internalID: 2555691876011832702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121cab5c2912d1c0800000000000000
+      internalID: -4480491000972963299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123860af047743e20800000000000000
+      internalID: 3329417145489982241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 589
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e961e6723f24c10800000000000000
+      internalID: 2036457332201135649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f617f9017b89bdf90800000000000000
+      internalID: -6927775689754054289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 580
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a302973f472bec490800000000000000
+      internalID: -7724040095523069894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 583
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046a7a5159590bc0800000000000000
+      internalID: -3816421003274591220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d1b49355749bf0800000000000000
+      internalID: -318500671799044554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 571
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcba987c77d99d1a0800000000000000
+      internalID: -6784218225882584117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3db5f04729eaf4f0800000000000000
+      internalID: -794066029474628291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18086374645c54240800000000000000
+      internalID: 4775439885529415809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 545
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e0a429e86e8d680800000000000000
+      internalID: -8729974377643635114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 546
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ca966e61f53d6c0800000000000000
+      internalID: -4119844682154267572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 548
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59daf2155581d15f0800000000000000
+      internalID: -784444005379232363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 541
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf838c4bf5e9400800000000000000
+      internalID: 332808652529925342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 533
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88359f88765a98ca0800000000000000
+      internalID: -6014093963278331000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b68aa965f85e9b0800000000000000
+      internalID: -5051473804901454988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 521
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb671f58d72920580800000000000000
+      internalID: -8862360048895953221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a7b2211e159a30800000000000000
+      internalID: 4221313284675444845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 518
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a210c64e055173530800000000000000
+      internalID: 3834557044903117098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 515
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df03bac558ef9440800000000000000
+      internalID: 4944926371046690774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501a51faa7e9a4e0800000000000000
+      internalID: -1969788640618213281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb2757ba3e181b0800000000000000
+      internalID: -5655989331451266137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578cfcc2947c55220800000000000000
+      internalID: 2474102687408310389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 506
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c3ab6be34fe470800000000000000
+      internalID: 8426028106235757286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 508
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55e966067496750800000000000000
+      internalID: 6298644033218434519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 508
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1ebf6b6032c9c0800000000000000
+      internalID: -3908508288609804774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 496
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c3d80b1950b550800000000000000
+      internalID: 6174533061772035264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bbe4bb90f542a90800000000000000
+      internalID: -7339636997305222333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233b8f65270a8090800000000000000
+      internalID: -8031599128095280344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df3a5b2e0c45e6a0800000000000000
+      internalID: -6420642070006186023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_69
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9332fa0cf8b94fa0800000000000000
+      internalID: -5815914051117370467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1256e75338fc20800000000000000
+      internalID: 3240396384512384153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ddb2e525e78a400800000000000000
+      internalID: 335657064471453020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_72
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 484
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b83d47ebce1480800000000000000
+      internalID: -8926473217108297329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_73
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 477
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da60280ebeeb02340800000000000000
+      internalID: 4837075920089122477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42737eb164a043180800000000000000
+      internalID: -9136666447795767516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_75
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 473
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0475c15858a9c3250800000000000000
+      internalID: 5925781107967285056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_76
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc88b8acf26ff910800000000000000
+      internalID: 1873324807311363260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_77
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 455
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f1000a385b44f40800000000000000
+      internalID: 5711889804342337324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_78
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 460
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cbeefd2f5c23900800000000000000
+      internalID: 662809742106606630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 463
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110406158292e9800800000000000000
+      internalID: 620979051764400145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_80
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 446
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db738e5167a5de910800000000000000
+      internalID: 1868248883648804797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_81
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6d7b45cdcb1400800000000000000
+      internalID: 296056447781662597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_82
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 427
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88180cf940d541dc0800000000000000
+      internalID: -3669205521958665848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_83
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 138
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b112a3d83d39c90800000000000000
+      internalID: -7164149978697229484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_84
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 134
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a517be26ed19f0a0800000000000000
+      internalID: -6847408883976694368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_85
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 144
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c4f4b053a0b260800000000000000
+      internalID: 7111363378646664770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 143
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c637a0b1d7ffad70800000000000000
+      internalID: 9056729855649330886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_87
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343469bb7c45ad400800000000000000
+      internalID: 349685137897046851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_88
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c96b155753df60800000000000000
+      internalID: 8057880181339702238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_89
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 142
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537fefd44e2b35800800000000000000
+      internalID: 600019869001250613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_90
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 142
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4fc8d15aac7c610800000000000000
+      internalID: 1641503399714026741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_91
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 77
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9af39943e165e00800000000000000
+      internalID: 1033046375786326495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_92
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 131
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b5641b593ebf0f0800000000000000
+      internalID: -1082021053388661940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_93
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 134
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47eccb3ebbddc3a0800000000000000
+      internalID: -6643412265208060082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_94
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 145
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075fc135fa51898b0800000000000000
+      internalID: -5145338731512924816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_95
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 138
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546258dda0bf77f80800000000000000
+      internalID: -8108736579972553147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_96
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ead51cf22832210800000000000000
+      internalID: 1307031458486791701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_97
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 144
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2f84424900234f0800000000000000
+      internalID: -850616743355682093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_98
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 142
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa34ea539df3829d0800000000000000
+      internalID: -2798916966269697110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_99
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e11fa1d659e8ac0800000000000000
+      internalID: -3850976335519211996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_100
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 126
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10baf356c9d17c40800000000000000
+      internalID: 5508423265086517278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_101
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 128
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fbe7ec15a51e700800000000000000
+      internalID: 567834335428656976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_102
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 138
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4afab0228b04080800000000000000
+      internalID: -9205155181980834574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_103
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 98
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5507d08088096440800000000000000
+      internalID: 4929480615144129887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_104
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 103
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197439ec415d700f0800000000000000
+      internalID: -1150716894428051567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_105
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 123
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9dce40b804c60f0800000000000000
+      internalID: -1122451241294833228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_106
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633912e59d0bbd5f0800000000000000
+      internalID: -730796066883923146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_107
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 117
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbff3d82ee93b720800000000000000
+      internalID: 2860804884179975162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 120
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87595dd6d390ee2f0800000000000000
+      internalID: -941805112633485960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_109
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b3b6083535d690800000000000000
+      internalID: -7578092283234110340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VortexWhirlpoolMapIcon_Tex_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 122
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbbaa73b5d94260800000000000000
+      internalID: 7082426855850752954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

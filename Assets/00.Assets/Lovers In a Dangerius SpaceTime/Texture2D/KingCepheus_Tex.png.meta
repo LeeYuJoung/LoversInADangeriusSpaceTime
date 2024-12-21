@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: b6d7af7ca5c6c4648ab31a1b9a995454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -943599871190936626
+    second: KingCepheus_Tex_0
+  - first:
+      213: 6153880869816680767
+    second: KingCepheus_Tex_1
+  - first:
+      213: 6458435830515448428
+    second: KingCepheus_Tex_2
+  - first:
+      213: 6581030263389084672
+    second: KingCepheus_Tex_3
+  - first:
+      213: 7658093832718254211
+    second: KingCepheus_Tex_4
+  - first:
+      213: -6285889396510549645
+    second: KingCepheus_Tex_5
+  - first:
+      213: -4861982885677966433
+    second: KingCepheus_Tex_6
+  - first:
+      213: 4528076575361043598
+    second: KingCepheus_Tex_7
+  - first:
+      213: 8859914899465310668
+    second: KingCepheus_Tex_8
+  - first:
+      213: -7134266317269834998
+    second: KingCepheus_Tex_9
+  - first:
+      213: 4099546080346183085
+    second: KingCepheus_Tex_10
+  - first:
+      213: 4995108002705598944
+    second: KingCepheus_Tex_11
+  - first:
+      213: 3564942837872418366
+    second: KingCepheus_Tex_12
+  - first:
+      213: 448305308452108843
+    second: KingCepheus_Tex_13
+  - first:
+      213: -5997263439149785627
+    second: KingCepheus_Tex_14
+  - first:
+      213: -2601824501809262088
+    second: KingCepheus_Tex_15
+  - first:
+      213: -1808434663150653315
+    second: KingCepheus_Tex_16
+  - first:
+      213: 793642947000329272
+    second: KingCepheus_Tex_17
+  - first:
+      213: -8458135577437797685
+    second: KingCepheus_Tex_18
+  - first:
+      213: 7131456420448285890
+    second: KingCepheus_Tex_19
+  - first:
+      213: -1168238425703172573
+    second: KingCepheus_Tex_20
+  - first:
+      213: 8028500542828803353
+    second: KingCepheus_Tex_21
+  - first:
+      213: 8697820941602886747
+    second: KingCepheus_Tex_22
+  - first:
+      213: -7696967215521282338
+    second: KingCepheus_Tex_23
+  - first:
+      213: 8302757610063021561
+    second: KingCepheus_Tex_24
+  - first:
+      213: -5216760264234451307
+    second: KingCepheus_Tex_25
+  - first:
+      213: 3863500825942559637
+    second: KingCepheus_Tex_26
+  - first:
+      213: 6551287036242521930
+    second: KingCepheus_Tex_27
+  - first:
+      213: -5013359853404260544
+    second: KingCepheus_Tex_28
+  - first:
+      213: 2431480209724664642
+    second: KingCepheus_Tex_29
+  - first:
+      213: -3748263758737523962
+    second: KingCepheus_Tex_30
+  - first:
+      213: 8213426268782583087
+    second: KingCepheus_Tex_31
+  - first:
+      213: 2137429963773390196
+    second: KingCepheus_Tex_32
+  - first:
+      213: 8503386967041256465
+    second: KingCepheus_Tex_33
+  - first:
+      213: -6028551581983892302
+    second: KingCepheus_Tex_34
+  - first:
+      213: -8110237761292112882
+    second: KingCepheus_Tex_35
+  - first:
+      213: -6114477539635360346
+    second: KingCepheus_Tex_36
+  - first:
+      213: -4762498235778450847
+    second: KingCepheus_Tex_37
+  - first:
+      213: 8592920164187094850
+    second: KingCepheus_Tex_38
+  - first:
+      213: -3671774052030518830
+    second: KingCepheus_Tex_39
+  - first:
+      213: -5278144338285123796
+    second: KingCepheus_Tex_40
+  - first:
+      213: -5525712664868667810
+    second: KingCepheus_Tex_41
+  - first:
+      213: 7465472699692076804
+    second: KingCepheus_Tex_42
+  - first:
+      213: 597774804764914292
+    second: KingCepheus_Tex_43
+  - first:
+      213: -952650603341502165
+    second: KingCepheus_Tex_44
+  - first:
+      213: 7511120177639924180
+    second: KingCepheus_Tex_45
+  - first:
+      213: 4286219894050300857
+    second: KingCepheus_Tex_46
+  - first:
+      213: 8359262618250999421
+    second: KingCepheus_Tex_47
+  - first:
+      213: 618628359714491059
+    second: KingCepheus_Tex_48
+  - first:
+      213: -3706962610559016081
+    second: KingCepheus_Tex_49
+  - first:
+      213: 1183109552580576548
+    second: KingCepheus_Tex_50
+  - first:
+      213: 8781261573814505425
+    second: KingCepheus_Tex_51
+  - first:
+      213: -3754071222924700749
+    second: KingCepheus_Tex_52
+  - first:
+      213: 1759056460937081368
+    second: KingCepheus_Tex_53
+  - first:
+      213: 4031099146487026404
+    second: KingCepheus_Tex_54
+  - first:
+      213: 3429802091151873047
+    second: KingCepheus_Tex_55
+  - first:
+      213: 1937863385605818373
+    second: KingCepheus_Tex_56
+  - first:
+      213: 4016311628535700938
+    second: KingCepheus_Tex_57
+  - first:
+      213: -4244271481849057096
+    second: KingCepheus_Tex_58
+  - first:
+      213: -3425934796699435755
+    second: KingCepheus_Tex_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingCepheus_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1324
+        width: 555
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35f83aae8a7e2f0800000000000000
+      internalID: -943599871190936626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1853
+        width: 218
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ce73eb0af66550800000000000000
+      internalID: 6153880869816680767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1761
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a378a6b29f0a950800000000000000
+      internalID: 6458435830515448428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1625
+        width: 132
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd6612824845b50800000000000000
+      internalID: 6581030263389084672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1324
+        width: 555
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38008cb34c3074a60800000000000000
+      internalID: 7658093832718254211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1853
+        width: 218
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379189fd5e804c8a0800000000000000
+      internalID: -6285889396510549645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1761
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd22b4354c68cb0800000000000000
+      internalID: -4861982885677966433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1625
+        width: 132
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c892e87a5f6de30800000000000000
+      internalID: 4528076575361043598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1772
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc112d2c8adb4fa70800000000000000
+      internalID: 8859914899465310668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1772
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e81a559efdfc90800000000000000
+      internalID: -7134266317269834998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1437
+        width: 242
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51163907384e830800000000000000
+      internalID: 4099546080346183085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1320
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96af36340325540800000000000000
+      internalID: 4995108002705598944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1437
+        width: 242
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e55f78f98397130800000000000000
+      internalID: 3564942837872418366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1320
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab5358d43b83600800000000000000
+      internalID: 448305308452108843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1322
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1a0d4da075cca0800000000000000
+      internalID: -5997263439149785627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1322
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f150c1966674ebd0800000000000000
+      internalID: -2601824501809262088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1172
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f66f514627e6e0800000000000000
+      internalID: -1808434663150653315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1178
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e27e2e06930b00800000000000000
+      internalID: 793642947000329272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1177
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20ab4618aae9a80800000000000000
+      internalID: -8458135577437797685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1172
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4bfff84d508f260800000000000000
+      internalID: 7131456420448285890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1178
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263007675599cfe0800000000000000
+      internalID: -1168238425703172573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1177
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157756f4b6fa6f60800000000000000
+      internalID: 8028500542828803353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1073
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b549138301ed4b870800000000000000
+      internalID: 8697820941602886747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1075
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c6070911ee2590800000000000000
+      internalID: -7696967215521282338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1075
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f54af37e02593370800000000000000
+      internalID: 8302757610063021561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1054
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ebee3ed285a97b0800000000000000
+      internalID: -5216760264234451307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1073
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b0cbf0889ed9530800000000000000
+      internalID: 3863500825942559637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1075
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f6bd869d8daea50800000000000000
+      internalID: 6551287036242521930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1075
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04772a676c7fc6ab0800000000000000
+      internalID: -5013359853404260544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1054
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be7034e5a5eb120800000000000000
+      internalID: 2431480209724664642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 555
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbaf778fd7bfbc0800000000000000
+      internalID: -3748263758737523962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 829
+        width: 218
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dd5a3cca3fbf170800000000000000
+      internalID: 8213426268782583087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 737
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d2dfa3a3da9ad10800000000000000
+      internalID: 2137429963773390196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 601
+        width: 132
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c2e26c469120670800000000000000
+      internalID: 8503386967041256465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 300
+        width: 555
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc1bbdd648465ca0800000000000000
+      internalID: -6028551581983892302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 829
+        width: 218
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c693ad9b5a27f80800000000000000
+      internalID: -8110237761292112882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 737
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0ee6d213052ba0800000000000000
+      internalID: -6114477539635360346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 601
+        width: 132
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a300d561538edb0800000000000000
+      internalID: -4762498235778450847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 748
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fb9a1bc5f204770800000000000000
+      internalID: 8592920164187094850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 748
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9693d14fc3b0dc0800000000000000
+      internalID: -3671774052030518830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 413
+        width: 242
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a64b60b340c6b0800000000000000
+      internalID: -5278144338285123796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 296
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e30a79b99b053b0800000000000000
+      internalID: -5525712664868667810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 413
+        width: 242
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc589dddfaa9760800000000000000
+      internalID: 7465472699692076804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 296
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f0bd8409bb4800800000000000000
+      internalID: 597774804764914292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 298
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29a4c8d25187c2f0800000000000000
+      internalID: -952650603341502165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 298
+        width: 167
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d12f75810cdc3860800000000000000
+      internalID: 7511120177639924180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 148
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a416c846bb7b30800000000000000
+      internalID: 4286219894050300857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 154
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767d01ef01120470800000000000000
+      internalID: 8359262618250999421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 153
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac3cc273fc59800800000000000000
+      internalID: 618628359714491059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 148
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a9f165293e8cc0800000000000000
+      internalID: -3706962610559016081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 154
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425cfe3aedf3b6010800000000000000
+      internalID: 1183109552580576548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 153
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df400350ee4dd970800000000000000
+      internalID: 8781261573814505425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 49
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b39e08dc1cd6ebc0800000000000000
+      internalID: -3754071222924700749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 51
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b206088c696810800000000000000
+      internalID: 1759056460937081368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 51
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25db8e05751f730800000000000000
+      internalID: 4031099146487026404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 30
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714dffc74da199f20800000000000000
+      internalID: 3429802091151873047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 49
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50845426b7ca4ea10800000000000000
+      internalID: 1937863385605818373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 51
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd1426952eccb730800000000000000
+      internalID: 4016311628535700938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 51
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f01a03915915c0800000000000000
+      internalID: -4244271481849057096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingCepheus_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 30
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d741b2472a470d0800000000000000
+      internalID: -3425934796699435755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

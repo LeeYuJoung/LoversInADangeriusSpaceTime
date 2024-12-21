@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: b12cd6e2bb0963946ab66ed8f00a0b46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2962142259817461719
+    second: UpgradeStoreIconYamato_Tex_0
+  - first:
+      213: -3938896533449731426
+    second: UpgradeStoreIconYamato_Tex_1
+  - first:
+      213: -784998302974312422
+    second: UpgradeStoreIconYamato_Tex_2
+  - first:
+      213: 755524861008933403
+    second: UpgradeStoreIconYamato_Tex_3
+  - first:
+      213: -8113275893854302801
+    second: UpgradeStoreIconYamato_Tex_4
+  - first:
+      213: 3811946927724687543
+    second: UpgradeStoreIconYamato_Tex_5
+  - first:
+      213: -5588748502647192996
+    second: UpgradeStoreIconYamato_Tex_6
+  - first:
+      213: 6759247620241839224
+    second: UpgradeStoreIconYamato_Tex_7
+  - first:
+      213: 5587711825319394354
+    second: UpgradeStoreIconYamato_Tex_8
+  - first:
+      213: 5829049366017404956
+    second: UpgradeStoreIconYamato_Tex_9
+  - first:
+      213: 6506579201486770586
+    second: UpgradeStoreIconYamato_Tex_10
+  - first:
+      213: 3632516906249790733
+    second: UpgradeStoreIconYamato_Tex_11
+  - first:
+      213: -1880182780513480056
+    second: UpgradeStoreIconYamato_Tex_12
+  - first:
+      213: 9065294262871542005
+    second: UpgradeStoreIconYamato_Tex_13
+  - first:
+      213: 1294860369629552326
+    second: UpgradeStoreIconYamato_Tex_14
+  - first:
+      213: 1863562815372394929
+    second: UpgradeStoreIconYamato_Tex_15
+  - first:
+      213: 7356629500094415298
+    second: UpgradeStoreIconYamato_Tex_16
+  - first:
+      213: -3317301257689349504
+    second: UpgradeStoreIconYamato_Tex_17
+  - first:
+      213: 8412807112995885686
+    second: UpgradeStoreIconYamato_Tex_18
+  - first:
+      213: 598763229669381872
+    second: UpgradeStoreIconYamato_Tex_19
+  - first:
+      213: -1546268668692383017
+    second: UpgradeStoreIconYamato_Tex_20
+  - first:
+      213: 7981777423584185041
+    second: UpgradeStoreIconYamato_Tex_21
+  - first:
+      213: 6776102626606980025
+    second: UpgradeStoreIconYamato_Tex_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b792f0b4ab1920800000000000000
+      internalID: 2962142259817461719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9216b4d87a3659c0800000000000000
+      internalID: -3938896533449731426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108ee9d3302b15f0800000000000000
+      internalID: -784998302974312422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12f96fabd92c7a00800000000000000
+      internalID: 755524861008933403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad031e7f8ad76f80800000000000000
+      internalID: -8113275893854302801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0fba1c881c6e430800000000000000
+      internalID: 3811946927724687543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52c7b8e8d6c072b0800000000000000
+      internalID: -5588748502647192996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8745b6906ebadcd50800000000000000
+      internalID: 6759247620241839224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7967dc4a8b8d40800000000000000
+      internalID: 5587711825319394354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10fea7c381f4e050800000000000000
+      internalID: 5829049366017404956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9150977f430c4a50800000000000000
+      internalID: 6506579201486770586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05ae9d51ea496230800000000000000
+      internalID: 3632516906249790733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88210b609bf38e5e0800000000000000
+      internalID: -1880182780513480056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f848d22a156ecd70800000000000000
+      internalID: 9065294262871542005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce108d45a448f110800000000000000
+      internalID: 1294860369629552326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 188
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b106eac184bcd910800000000000000
+      internalID: 1863562815372394929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c18941ad8ff71660800000000000000
+      internalID: 7356629500094415298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 160
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082487af41496f1d0800000000000000
+      internalID: -3317301257689349504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672dffd0f7b40c470800000000000000
+      internalID: 8412807112995885686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f652092cfb3f4800800000000000000
+      internalID: 598763229669381872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da364b96dc8a8ae0800000000000000
+      internalID: -1546268668692383017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dac7f80748f4ce60800000000000000
+      internalID: 7981777423584185041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeStoreIconYamato_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 43
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1084007d890e50800000000000000
+      internalID: 6776102626606980025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

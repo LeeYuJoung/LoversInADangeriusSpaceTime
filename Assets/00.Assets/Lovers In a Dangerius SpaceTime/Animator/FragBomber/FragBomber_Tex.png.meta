@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: d38f743c1b116f245b2c6b532a2fc780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2254879363664719669
+    second: FragBomber_Tex_0
+  - first:
+      213: -1010879008516756875
+    second: FragBomber_Tex_1
+  - first:
+      213: 8807895559363608603
+    second: FragBomber_Tex_2
+  - first:
+      213: -3342974314527180342
+    second: FragBomber_Tex_3
+  - first:
+      213: 343265327640256300
+    second: FragBomber_Tex_4
+  - first:
+      213: -448502874930796312
+    second: FragBomber_Tex_5
+  - first:
+      213: -8459644783905786213
+    second: FragBomber_Tex_6
+  - first:
+      213: 4198932222348179222
+    second: FragBomber_Tex_7
+  - first:
+      213: -5219577026743737770
+    second: FragBomber_Tex_8
+  - first:
+      213: -2818829624409049101
+    second: FragBomber_Tex_9
+  - first:
+      213: 7263942004001440641
+    second: FragBomber_Tex_10
+  - first:
+      213: 8455633369885480394
+    second: FragBomber_Tex_11
+  - first:
+      213: 2876604802818029239
+    second: FragBomber_Tex_12
+  - first:
+      213: 5283607505851847771
+    second: FragBomber_Tex_13
+  - first:
+      213: 7482643162530174662
+    second: FragBomber_Tex_14
+  - first:
+      213: -1032732149993253591
+    second: FragBomber_Tex_15
+  - first:
+      213: -151484457859098883
+    second: FragBomber_Tex_16
+  - first:
+      213: 8110237074722462098
+    second: FragBomber_Tex_17
+  - first:
+      213: -2489246086604769606
+    second: FragBomber_Tex_18
+  - first:
+      213: 2136787829026016432
+    second: FragBomber_Tex_19
+  - first:
+      213: 5083240321899910840
+    second: FragBomber_Tex_20
+  - first:
+      213: 1564577565231192783
+    second: FragBomber_Tex_21
+  - first:
+      213: -1157880468752819474
+    second: FragBomber_Tex_22
+  - first:
+      213: 2417677131855794763
+    second: FragBomber_Tex_23
+  - first:
+      213: 1891144389817080354
+    second: FragBomber_Tex_24
+  - first:
+      213: -6901701079110996099
+    second: FragBomber_Tex_25
+  - first:
+      213: 8752020669267481582
+    second: FragBomber_Tex_26
+  - first:
+      213: -547264539972066487
+    second: FragBomber_Tex_27
+  - first:
+      213: -8864776051446083184
+    second: FragBomber_Tex_28
+  - first:
+      213: -7026622690899009313
+    second: FragBomber_Tex_29
+  - first:
+      213: -1472834656869123480
+    second: FragBomber_Tex_30
+  - first:
+      213: 1901809322954702710
+    second: FragBomber_Tex_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FragBomber_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 763
+        width: 293
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f289a95d0fa4f10800000000000000
+      internalID: 2254879363664719669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 876
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa57ac5e2a8f1f0800000000000000
+      internalID: -1010879008516756875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 763
+        width: 293
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10cb92585eeb3a70800000000000000
+      internalID: 8807895559363608603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 876
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93a51a29e5b91d0800000000000000
+      internalID: -3342974314527180342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 620
+        width: 327
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f94bd2ff583c400800000000000000
+      internalID: 343265327640256300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 731
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82203f20996c9f0800000000000000
+      internalID: -448502874930796312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 620
+        width: 327
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b963f41e3ed499a80800000000000000
+      internalID: -8459644783905786213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 731
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617310dfb9a954a30800000000000000
+      internalID: 4198932222348179222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 693
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652662349565097b0800000000000000
+      internalID: -5219577026743737770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 693
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f730c2346181e8d0800000000000000
+      internalID: -2818829624409049101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 522
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1838b8144c4bec460800000000000000
+      internalID: 7263942004001440641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac596f200c1785570800000000000000
+      internalID: 8455633369885480394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b627c3d0cbe720800000000000000
+      internalID: 2876604802818029239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 522
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5413e66805235940800000000000000
+      internalID: 5283607505851847771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6dd93cf40b7d760800000000000000
+      internalID: 7482643162530174662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d68bc49ffaa1f0800000000000000
+      internalID: -1032732149993253591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 251
+        width: 293
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d05c20b1d5edf0800000000000000
+      internalID: -151484457859098883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299190b46a95d8070800000000000000
+      internalID: 8110237074722462098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 251
+        width: 293
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab634617fdb647dd0800000000000000
+      internalID: -2489246086604769606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 364
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc4975953567ad10800000000000000
+      internalID: 2136787829026016432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 108
+        width: 327
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b659cef32c4b8640800000000000000
+      internalID: 5083240321899910840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 219
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca962f810f76b510800000000000000
+      internalID: 1564577565231192783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 108
+        width: 327
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea10af29d16eefe0800000000000000
+      internalID: -1157880468752819474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 219
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4299d1ca805d8120800000000000000
+      internalID: 2417677131855794763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 181
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a15068dc1be3a10800000000000000
+      internalID: 1891144389817080354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 181
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa8a17f6b3830a0800000000000000
+      internalID: -6901701079110996099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39092bd6c657970800000000000000
+      internalID: 8752020669267481582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9432cc8ecc9b768f0800000000000000
+      internalID: -547264539972066487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919a28162df9f480800000000000000
+      internalID: -8864776051446083184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 10
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0e34a24eb6c7e90800000000000000
+      internalID: -7026622690899009313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a7e68dea07f8be0800000000000000
+      internalID: -1472834656869123480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragBomber_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbd35c085946a10800000000000000
+      internalID: 1901809322954702710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 34d199310e2242440bcc2fbfc7f72af4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8309712477029544099
+    second: InsectBarrager_Tex_0
+  - first:
+      213: -8329599226604508704
+    second: InsectBarrager_Tex_1
+  - first:
+      213: -7815397328180730271
+    second: InsectBarrager_Tex_2
+  - first:
+      213: -8491147922677352489
+    second: InsectBarrager_Tex_3
+  - first:
+      213: -2776610537282926197
+    second: InsectBarrager_Tex_4
+  - first:
+      213: 459214481280470167
+    second: InsectBarrager_Tex_5
+  - first:
+      213: 1699900896294515937
+    second: InsectBarrager_Tex_6
+  - first:
+      213: -483161164393363740
+    second: InsectBarrager_Tex_7
+  - first:
+      213: -4583863910187040651
+    second: InsectBarrager_Tex_8
+  - first:
+      213: -7912026441706520794
+    second: InsectBarrager_Tex_9
+  - first:
+      213: -9039365213681554539
+    second: InsectBarrager_Tex_10
+  - first:
+      213: 1354067934002156011
+    second: InsectBarrager_Tex_11
+  - first:
+      213: -930989528995552798
+    second: InsectBarrager_Tex_12
+  - first:
+      213: -8947592938143609227
+    second: InsectBarrager_Tex_13
+  - first:
+      213: 2587039949665622368
+    second: InsectBarrager_Tex_14
+  - first:
+      213: -3711485701998164324
+    second: InsectBarrager_Tex_15
+  - first:
+      213: -260043306113412071
+    second: InsectBarrager_Tex_16
+  - first:
+      213: -3545848232459243724
+    second: InsectBarrager_Tex_17
+  - first:
+      213: 8276390270754414726
+    second: InsectBarrager_Tex_18
+  - first:
+      213: -3875493221140207704
+    second: InsectBarrager_Tex_19
+  - first:
+      213: 5336939618341818
+    second: InsectBarrager_Tex_20
+  - first:
+      213: -2462825907037205393
+    second: InsectBarrager_Tex_21
+  - first:
+      213: -772602543657379103
+    second: InsectBarrager_Tex_22
+  - first:
+      213: 1785363292572949059
+    second: InsectBarrager_Tex_23
+  - first:
+      213: -1146539776459958273
+    second: InsectBarrager_Tex_24
+  - first:
+      213: 7054176232711727011
+    second: InsectBarrager_Tex_25
+  - first:
+      213: 7521494104217531068
+    second: InsectBarrager_Tex_26
+  - first:
+      213: 7238838602647995612
+    second: InsectBarrager_Tex_27
+  - first:
+      213: 1707521904100597800
+    second: InsectBarrager_Tex_28
+  - first:
+      213: -3390110030216976478
+    second: InsectBarrager_Tex_29
+  - first:
+      213: -5215779090298277069
+    second: InsectBarrager_Tex_30
+  - first:
+      213: 1078359301720038975
+    second: InsectBarrager_Tex_31
+  - first:
+      213: 3212163295687301607
+    second: InsectBarrager_Tex_32
+  - first:
+      213: 3702795578725244893
+    second: InsectBarrager_Tex_33
+  - first:
+      213: 1455293229832846781
+    second: InsectBarrager_Tex_34
+  - first:
+      213: -2973010864632239891
+    second: InsectBarrager_Tex_35
+  - first:
+      213: -3730354502128871303
+    second: InsectBarrager_Tex_36
+  - first:
+      213: 7275603578064013465
+    second: InsectBarrager_Tex_37
+  - first:
+      213: 7340032957258956883
+    second: InsectBarrager_Tex_38
+  - first:
+      213: 5623052856578481574
+    second: InsectBarrager_Tex_39
+  - first:
+      213: -3448140578602802606
+    second: InsectBarrager_Tex_40
+  - first:
+      213: 4902987881683070954
+    second: InsectBarrager_Tex_41
+  - first:
+      213: 1142144775888469020
+    second: InsectBarrager_Tex_42
+  - first:
+      213: 2042639239772416164
+    second: InsectBarrager_Tex_43
+  - first:
+      213: -184976981884146140
+    second: InsectBarrager_Tex_44
+  - first:
+      213: 1866564228354218870
+    second: InsectBarrager_Tex_45
+  - first:
+      213: 667529820060255293
+    second: InsectBarrager_Tex_46
+  - first:
+      213: -4937609514806169336
+    second: InsectBarrager_Tex_47
+  - first:
+      213: -726998513651694262
+    second: InsectBarrager_Tex_48
+  - first:
+      213: 5093154640974490571
+    second: InsectBarrager_Tex_49
+  - first:
+      213: 1248217219145402949
+    second: InsectBarrager_Tex_50
+  - first:
+      213: 4761221839851431449
+    second: InsectBarrager_Tex_51
+  - first:
+      213: -6890017391512261682
+    second: InsectBarrager_Tex_52
+  - first:
+      213: 1284870700595137716
+    second: InsectBarrager_Tex_53
+  - first:
+      213: -3729934233816707936
+    second: InsectBarrager_Tex_54
+  - first:
+      213: 6617727736892645025
+    second: InsectBarrager_Tex_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1710
+        width: 156
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fc5056788fdac80800000000000000
+      internalID: -8309712477029544099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1663
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9aed0b2a1576c80800000000000000
+      internalID: -8329599226604508704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1710
+        width: 156
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166204ba9812a8390800000000000000
+      internalID: -7815397328180730271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1663
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7358dc3f1692a80800000000000000
+      internalID: -8491147922677352489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8905ad6d6f7779d0800000000000000
+      internalID: -2776610537282926197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c007043257f5600800000000000000
+      internalID: 459214481280470167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1511
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b005dbd2479710800000000000000
+      internalID: 1699900896294515937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6c11b1b777b49f0800000000000000
+      internalID: -483161164393363740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1566
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570819e5f08d260c0800000000000000
+      internalID: -4583863910187040651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fb598fed5d23290800000000000000
+      internalID: -7912026441706520794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bec731b39bd8280800000000000000
+      internalID: -9039365213681554539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1511
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be112ff9c9d9ac210800000000000000
+      internalID: 1354067934002156011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1513
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1ac9ab4f57413f0800000000000000
+      internalID: -930989528995552798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1566
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e082f01a3c3d380800000000000000
+      internalID: -8947592938143609227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1451
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695093a02307e320800000000000000
+      internalID: 2587039949665622368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1451
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9645771b672e7cc0800000000000000
+      internalID: -3711485701998164324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91454e8adf3246cf0800000000000000
+      internalID: -260043306113412071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fe1dcb1dd9acec0800000000000000
+      internalID: -3545848232459243724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1191
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e0ded915abd270800000000000000
+      internalID: 8276390270754414726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e088d27b773ac0800000000000000
+      internalID: -3875493221140207704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1322
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab393261be5f21000800000000000000
+      internalID: 5336939618341818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c0b6bd2e842ddd0800000000000000
+      internalID: -2462825907037205393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1db8741a2745f0800000000000000
+      internalID: -772602543657379103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1191
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a15d09472e6c810800000000000000
+      internalID: 1785363292572949059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1193
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff79f3fd52ca610f0800000000000000
+      internalID: -1146539776459958273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1322
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a729c5b8e775e160800000000000000
+      internalID: 7054176232711727011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1036
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2b4168907b16860800000000000000
+      internalID: 7521494104217531068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1036
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd408392b55857460800000000000000
+      internalID: 7238838602647995612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 686
+        width: 156
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206d1cff1652b710800000000000000
+      internalID: 1707521904100597800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 639
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7ad6b93e8e3f0d0800000000000000
+      internalID: -3390110030216976478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 686
+        width: 156
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3337cdf3d84dd97b0800000000000000
+      internalID: -5215779090298277069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 639
+        width: 360
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ed24f421a17fe00800000000000000
+      internalID: 1078359301720038975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95df7af75e39c20800000000000000
+      internalID: 3212163295687301607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1ec9e5f8f26330800000000000000
+      internalID: 3702795578725244893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 487
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb7386b7d323410800000000000000
+      internalID: 1455293229832846781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e73cce5ebdb6d0800000000000000
+      internalID: -2973010864632239891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 542
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785456385e1b3cc0800000000000000
+      internalID: -3730354502128871303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998011d08e228f460800000000000000
+      internalID: 7275603578064013465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508411e5190dd560800000000000000
+      internalID: 7340032957258956883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 487
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad1b95e7c8190e40800000000000000
+      internalID: 5623052856578481574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 489
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25225cca96eb520d0800000000000000
+      internalID: -3448140578602802606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 542
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa3c15089ea0440800000000000000
+      internalID: 4902987881683070954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 427
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c76e05f96b9df00800000000000000
+      internalID: 1142144775888469020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 427
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a8e2f099e85c10800000000000000
+      internalID: 2042639239772416164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eeb2f3a64de6df0800000000000000
+      internalID: -184976981884146140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1185b64e57e910800000000000000
+      internalID: 1866564228354218870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 167
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d340ca9a5da834900800000000000000
+      internalID: 667529820060255293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801b36e8e461a7bb0800000000000000
+      internalID: -4937609514806169336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 298
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45cd8124be29e5f0800000000000000
+      internalID: -726998513651694262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbaa6949258ea640800000000000000
+      internalID: 5093154640974490571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a00bd82fe825110800000000000000
+      internalID: 1248217219145402949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 167
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9162d2d8902431240800000000000000
+      internalID: 4761221839851431449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 169
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe5a2ffadb160a0800000000000000
+      internalID: -6890017391512261682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 298
+        width: 145
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcc74b3817c4d110800000000000000
+      internalID: 1284870700595137716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac49cd839c9c3cc0800000000000000
+      internalID: -3729934233816707936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsectBarrager_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 12
+        width: 124
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5cb18054e6db50800000000000000
+      internalID: 6617727736892645025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

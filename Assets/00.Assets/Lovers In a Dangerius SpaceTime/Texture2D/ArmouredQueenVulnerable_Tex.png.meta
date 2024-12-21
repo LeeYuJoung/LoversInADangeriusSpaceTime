@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 35aefc5501ebbae4daeb6a634fc9da0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7175152763596373869
+    second: ArmouredQueenVulnerable_Tex_0
+  - first:
+      213: -516203447522223626
+    second: ArmouredQueenVulnerable_Tex_1
+  - first:
+      213: 6412681569350667059
+    second: ArmouredQueenVulnerable_Tex_2
+  - first:
+      213: -2106188107902535551
+    second: ArmouredQueenVulnerable_Tex_3
+  - first:
+      213: 3342372206199223669
+    second: ArmouredQueenVulnerable_Tex_4
+  - first:
+      213: -4201830709847921036
+    second: ArmouredQueenVulnerable_Tex_5
+  - first:
+      213: 815233789242941121
+    second: ArmouredQueenVulnerable_Tex_6
+  - first:
+      213: 5942489492627137907
+    second: ArmouredQueenVulnerable_Tex_7
+  - first:
+      213: 7336839367259864937
+    second: ArmouredQueenVulnerable_Tex_8
+  - first:
+      213: -802568011231219897
+    second: ArmouredQueenVulnerable_Tex_9
+  - first:
+      213: -7725093415213433814
+    second: ArmouredQueenVulnerable_Tex_10
+  - first:
+      213: -7198130096234587144
+    second: ArmouredQueenVulnerable_Tex_11
+  - first:
+      213: -6767451294131116877
+    second: ArmouredQueenVulnerable_Tex_12
+  - first:
+      213: -2151377600999582439
+    second: ArmouredQueenVulnerable_Tex_13
+  - first:
+      213: 9132097817097188426
+    second: ArmouredQueenVulnerable_Tex_14
+  - first:
+      213: 2318502741077932561
+    second: ArmouredQueenVulnerable_Tex_15
+  - first:
+      213: -4002841761970031138
+    second: ArmouredQueenVulnerable_Tex_16
+  - first:
+      213: -2302568427138083967
+    second: ArmouredQueenVulnerable_Tex_17
+  - first:
+      213: 6244415120831637167
+    second: ArmouredQueenVulnerable_Tex_18
+  - first:
+      213: -4240629872294325680
+    second: ArmouredQueenVulnerable_Tex_19
+  - first:
+      213: -1730187289973032151
+    second: ArmouredQueenVulnerable_Tex_20
+  - first:
+      213: -5046445875564882187
+    second: ArmouredQueenVulnerable_Tex_21
+  - first:
+      213: -8812412811762644400
+    second: ArmouredQueenVulnerable_Tex_22
+  - first:
+      213: 6262541886249636603
+    second: ArmouredQueenVulnerable_Tex_23
+  - first:
+      213: 8037968457354603154
+    second: ArmouredQueenVulnerable_Tex_24
+  - first:
+      213: 7043502920970173416
+    second: ArmouredQueenVulnerable_Tex_25
+  - first:
+      213: -6545149869997080850
+    second: ArmouredQueenVulnerable_Tex_26
+  - first:
+      213: 7075009021092203622
+    second: ArmouredQueenVulnerable_Tex_27
+  - first:
+      213: -4930257875888885953
+    second: ArmouredQueenVulnerable_Tex_28
+  - first:
+      213: 4205051594665660401
+    second: ArmouredQueenVulnerable_Tex_29
+  - first:
+      213: -6049569810595588288
+    second: ArmouredQueenVulnerable_Tex_30
+  - first:
+      213: -4190515310027454898
+    second: ArmouredQueenVulnerable_Tex_31
+  - first:
+      213: 2045157279522598211
+    second: ArmouredQueenVulnerable_Tex_32
+  - first:
+      213: 358820374104244137
+    second: ArmouredQueenVulnerable_Tex_33
+  - first:
+      213: -7812303330723557692
+    second: ArmouredQueenVulnerable_Tex_34
+  - first:
+      213: -6841165976111128633
+    second: ArmouredQueenVulnerable_Tex_35
+  - first:
+      213: -289330267123557135
+    second: ArmouredQueenVulnerable_Tex_36
+  - first:
+      213: 1704614479068291036
+    second: ArmouredQueenVulnerable_Tex_37
+  - first:
+      213: 1198518906143708385
+    second: ArmouredQueenVulnerable_Tex_38
+  - first:
+      213: -2186493997527083981
+    second: ArmouredQueenVulnerable_Tex_39
+  - first:
+      213: 571895238018993210
+    second: ArmouredQueenVulnerable_Tex_40
+  - first:
+      213: 7017855294539691190
+    second: ArmouredQueenVulnerable_Tex_41
+  - first:
+      213: 3361343171113729803
+    second: ArmouredQueenVulnerable_Tex_42
+  - first:
+      213: 3018280860161946859
+    second: ArmouredQueenVulnerable_Tex_43
+  - first:
+      213: 611359315739711647
+    second: ArmouredQueenVulnerable_Tex_44
+  - first:
+      213: 3218182913516600060
+    second: ArmouredQueenVulnerable_Tex_45
+  - first:
+      213: 2503273714533587783
+    second: ArmouredQueenVulnerable_Tex_46
+  - first:
+      213: 1101643231884702647
+    second: ArmouredQueenVulnerable_Tex_47
+  - first:
+      213: 2975552633139460030
+    second: ArmouredQueenVulnerable_Tex_48
+  - first:
+      213: 2470284073519337847
+    second: ArmouredQueenVulnerable_Tex_49
+  - first:
+      213: -2364256080494583014
+    second: ArmouredQueenVulnerable_Tex_50
+  - first:
+      213: -351694541167875158
+    second: ArmouredQueenVulnerable_Tex_51
+  - first:
+      213: 3283166838566898799
+    second: ArmouredQueenVulnerable_Tex_52
+  - first:
+      213: -8034606788097571032
+    second: ArmouredQueenVulnerable_Tex_53
+  - first:
+      213: -4665267603065687973
+    second: ArmouredQueenVulnerable_Tex_54
+  - first:
+      213: 824056235747520761
+    second: ArmouredQueenVulnerable_Tex_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 963
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff2534c63439360800000000000000
+      internalID: 7175152763596373869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 859
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f91b9e03b316d8f0800000000000000
+      internalID: -516203447522223626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 838
+        width: 180
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b47d659eb6ef850800000000000000
+      internalID: 6412681569350667059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 963
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188315e231155c2e0800000000000000
+      internalID: -2106188107902535551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 859
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b4a910dd726e20800000000000000
+      internalID: 3342372206199223669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 838
+        width: 180
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eef2d4b3910b5c0800000000000000
+      internalID: -4201830709847921036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 919
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce98b0efca405b00800000000000000
+      internalID: 815233789242941121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 919
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375288975b6f77250800000000000000
+      internalID: 5942489492627137907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 858
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f30a34880b1d560800000000000000
+      internalID: 7336839367259864937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 850
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa87e55a4bcd4f0800000000000000
+      internalID: -802568011231219897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 858
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7e79d774fac490800000000000000
+      internalID: -7725093415213433814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 850
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb93e690da1b1c90800000000000000
+      internalID: -7198130096234587144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 389
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4ae8a47ee2512a0800000000000000
+      internalID: -6767451294131116877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 783
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91510ba6875c422e0800000000000000
+      internalID: -2151377600999582439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 746
+        width: 390
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44b23aa49abbbe70800000000000000
+      internalID: 9132097817097188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 783
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a38b485f9fc2020800000000000000
+      internalID: 2318502741077932561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 725
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed57dad10ac0378c0800000000000000
+      internalID: -4002841761970031138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 725
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183976d0732ab00e0800000000000000
+      internalID: -2302568427138083967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 597
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa66f33d77e98a650800000000000000
+      internalID: 6244415120831637167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 597
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0529cf559914625c0800000000000000
+      internalID: -4240629872294325680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 595
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf242a3d32df7e0800000000000000
+      internalID: -1730187289973032151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 661
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f658b0a63c67f9b0800000000000000
+      internalID: -5046445875564882187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 597
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a49c4ec3504b580800000000000000
+      internalID: -8812412811762644400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 597
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21ae84aa409e650800000000000000
+      internalID: 6262541886249636603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 595
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6a6899b99c8f60800000000000000
+      internalID: 8037968457354603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 661
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb7adaa69c8fb160800000000000000
+      internalID: 7043502920970173416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 528
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee3125fed4fa25a0800000000000000
+      internalID: -6545149869997080850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 528
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c82ec383b7f2260800000000000000
+      internalID: 7075009021092203622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 451
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f22906594349bb0800000000000000
+      internalID: -4930257875888885953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 347
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff8c3265285b5a30800000000000000
+      internalID: 4205051594665660401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 326
+        width: 180
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047d58b2f4c9b0ca0800000000000000
+      internalID: -6049569810595588288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 451
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464aff178c48d5c0800000000000000
+      internalID: -4190515310027454898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 347
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dafb3c5bbd16c10800000000000000
+      internalID: 2045157279522598211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 326
+        width: 180
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff7a8aa39caf400800000000000000
+      internalID: 358820374104244137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 407
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce0f96138f159390800000000000000
+      internalID: -7812303330723557692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 407
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf58607acb4f01a0800000000000000
+      internalID: -6841165976111128633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 346
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcd45da7a71cfbf0800000000000000
+      internalID: -289330267123557135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 338
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5ad756d108a710800000000000000
+      internalID: 1704614479068291036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 346
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41949589ef1a010800000000000000
+      internalID: 1198518906143708385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 338
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334dfd53b4308a1e0800000000000000
+      internalID: -2186493997527083981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 389
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0cde50b7cfe700800000000000000
+      internalID: 571895238018993210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 271
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f12c453e646160800000000000000
+      internalID: 7017855294539691190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 234
+        width: 390
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f3b621ec3e5ae20800000000000000
+      internalID: 3361343171113729803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 271
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43056637613e920800000000000000
+      internalID: 3018280860161946859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 213
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f989accfe0cfb7800800000000000000
+      internalID: 611359315739711647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 213
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa73662f4849ac20800000000000000
+      internalID: 3218182913516600060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bd8523e2a6db220800000000000000
+      internalID: 2503273714533587783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 85
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b373b1cea2d94f00800000000000000
+      internalID: 1101643231884702647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 83
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb771ccca594b4920800000000000000
+      internalID: 2975552633139460030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 149
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771dc68d646384220800000000000000
+      internalID: 2470284073519337847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 85
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1320140f99703fd0800000000000000
+      internalID: -2364256080494583014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 85
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabae3c9da78e1bf0800000000000000
+      internalID: -351694541167875158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 83
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4f1f38d6209d20800000000000000
+      internalID: 3283166838566898799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 149
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827808502b75f7090800000000000000
+      internalID: -8034606788097571032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b12925d3a14fb0800000000000000
+      internalID: -4665267603065687973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredQueenVulnerable_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 16
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03da6c7c2af6b00800000000000000
+      internalID: 824056235747520761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

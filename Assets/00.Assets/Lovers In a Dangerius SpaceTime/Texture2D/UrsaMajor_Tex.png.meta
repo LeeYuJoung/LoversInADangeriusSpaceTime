@@ -1,0 +1,1830 @@
+fileFormatVersion: 2
+guid: f1b02b1bed0a0624cae0e3ba4b1190b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4518754308147502948
+    second: UrsaMajor_Tex_0
+  - first:
+      213: -2296692900005848421
+    second: UrsaMajor_Tex_1
+  - first:
+      213: 4629476454554941843
+    second: UrsaMajor_Tex_2
+  - first:
+      213: -4378268861649598481
+    second: UrsaMajor_Tex_3
+  - first:
+      213: -4206941023595529020
+    second: UrsaMajor_Tex_4
+  - first:
+      213: 1516395446840634048
+    second: UrsaMajor_Tex_5
+  - first:
+      213: -4019210819462399332
+    second: UrsaMajor_Tex_6
+  - first:
+      213: -4764270494961554390
+    second: UrsaMajor_Tex_7
+  - first:
+      213: 651626606479573520
+    second: UrsaMajor_Tex_8
+  - first:
+      213: -4325716908874404387
+    second: UrsaMajor_Tex_9
+  - first:
+      213: -4361467438038425602
+    second: UrsaMajor_Tex_10
+  - first:
+      213: 1483639838620514473
+    second: UrsaMajor_Tex_11
+  - first:
+      213: 593403353814002016
+    second: UrsaMajor_Tex_12
+  - first:
+      213: 4636613404833351153
+    second: UrsaMajor_Tex_13
+  - first:
+      213: 6582202143507936275
+    second: UrsaMajor_Tex_14
+  - first:
+      213: -5028478714762208479
+    second: UrsaMajor_Tex_15
+  - first:
+      213: -8749393131034734920
+    second: UrsaMajor_Tex_16
+  - first:
+      213: 684441306196539910
+    second: UrsaMajor_Tex_17
+  - first:
+      213: 2039263726177624779
+    second: UrsaMajor_Tex_18
+  - first:
+      213: 445993896083241940
+    second: UrsaMajor_Tex_19
+  - first:
+      213: -5638940149873524746
+    second: UrsaMajor_Tex_20
+  - first:
+      213: -3213147053684588983
+    second: UrsaMajor_Tex_21
+  - first:
+      213: 3159223771486368424
+    second: UrsaMajor_Tex_22
+  - first:
+      213: 701111985070514877
+    second: UrsaMajor_Tex_23
+  - first:
+      213: 7668828051422212467
+    second: UrsaMajor_Tex_24
+  - first:
+      213: 1066966734277118631
+    second: UrsaMajor_Tex_25
+  - first:
+      213: -5480477443134104360
+    second: UrsaMajor_Tex_26
+  - first:
+      213: 5632545184412335637
+    second: UrsaMajor_Tex_27
+  - first:
+      213: 6749229720595803855
+    second: UrsaMajor_Tex_28
+  - first:
+      213: -324809834130521370
+    second: UrsaMajor_Tex_29
+  - first:
+      213: -8839116391800680112
+    second: UrsaMajor_Tex_30
+  - first:
+      213: -5785380283212067064
+    second: UrsaMajor_Tex_31
+  - first:
+      213: -3497698129141483899
+    second: UrsaMajor_Tex_32
+  - first:
+      213: 5139429922030792721
+    second: UrsaMajor_Tex_33
+  - first:
+      213: -6112130088080835136
+    second: UrsaMajor_Tex_34
+  - first:
+      213: -5070930631796201125
+    second: UrsaMajor_Tex_35
+  - first:
+      213: 7576275386589963094
+    second: UrsaMajor_Tex_36
+  - first:
+      213: 1816005560939514789
+    second: UrsaMajor_Tex_37
+  - first:
+      213: -4823019582560255377
+    second: UrsaMajor_Tex_38
+  - first:
+      213: 5523222959428940244
+    second: UrsaMajor_Tex_39
+  - first:
+      213: -4298160277331065023
+    second: UrsaMajor_Tex_40
+  - first:
+      213: -6223616283988063209
+    second: UrsaMajor_Tex_41
+  - first:
+      213: -7834540187823305729
+    second: UrsaMajor_Tex_42
+  - first:
+      213: -1250546977952955074
+    second: UrsaMajor_Tex_43
+  - first:
+      213: -5649831782410064797
+    second: UrsaMajor_Tex_44
+  - first:
+      213: -1675360826707078295
+    second: UrsaMajor_Tex_45
+  - first:
+      213: 3058406158838813901
+    second: UrsaMajor_Tex_46
+  - first:
+      213: 1766297665391824213
+    second: UrsaMajor_Tex_47
+  - first:
+      213: -8820971903678890725
+    second: UrsaMajor_Tex_48
+  - first:
+      213: 468096150272308250
+    second: UrsaMajor_Tex_49
+  - first:
+      213: 610223561643669839
+    second: UrsaMajor_Tex_50
+  - first:
+      213: 3731417678128930185
+    second: UrsaMajor_Tex_51
+  - first:
+      213: 7032582551081723926
+    second: UrsaMajor_Tex_52
+  - first:
+      213: -2148270044754191428
+    second: UrsaMajor_Tex_53
+  - first:
+      213: 7913588269620593354
+    second: UrsaMajor_Tex_54
+  - first:
+      213: 4001834232441505458
+    second: UrsaMajor_Tex_55
+  - first:
+      213: -720351415417370152
+    second: UrsaMajor_Tex_56
+  - first:
+      213: 6718611279230384155
+    second: UrsaMajor_Tex_57
+  - first:
+      213: -2195820440217304726
+    second: UrsaMajor_Tex_58
+  - first:
+      213: 2771981875619024213
+    second: UrsaMajor_Tex_59
+  - first:
+      213: -2845285119703144819
+    second: UrsaMajor_Tex_60
+  - first:
+      213: 4464404271564492392
+    second: UrsaMajor_Tex_61
+  - first:
+      213: -5430190759926538682
+    second: UrsaMajor_Tex_62
+  - first:
+      213: 1755705620847231921
+    second: UrsaMajor_Tex_63
+  - first:
+      213: -648723459296724192
+    second: UrsaMajor_Tex_64
+  - first:
+      213: -4383124307433910891
+    second: UrsaMajor_Tex_65
+  - first:
+      213: -7387887244525454942
+    second: UrsaMajor_Tex_66
+  - first:
+      213: -1960951117313141335
+    second: UrsaMajor_Tex_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1799
+        width: 417
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902a9be5e82a41c0800000000000000
+      internalID: -4518754308147502948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1395
+        width: 497
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5df0d9f18020e0800000000000000
+      internalID: -2296692900005848421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1735
+        width: 205
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39938c1be443f3040800000000000000
+      internalID: 4629476454554941843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1799
+        width: 417
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c83adaa34d33c0800000000000000
+      internalID: -4378268861649598481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1395
+        width: 497
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf199ad61fd95c0800000000000000
+      internalID: -4206941023595529020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1735
+        width: 204
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa4fbef915b0510800000000000000
+      internalID: 1516395446840634048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1414
+        width: 323
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a798ced05e838c0800000000000000
+      internalID: -4019210819462399332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1557
+        width: 316
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c21fd1a39e1edb0800000000000000
+      internalID: -4764270494961554390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1522
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012886532fa0b0900800000000000000
+      internalID: 651626606479573520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1516
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde3a7d367f7f3c0800000000000000
+      internalID: -4325716908874404387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1414
+        width: 323
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff59402974f873c0800000000000000
+      internalID: -4361467438038425602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1557
+        width: 316
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f7939292f69410800000000000000
+      internalID: 1483639838620514473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1522
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069eb90d4313c3800800000000000000
+      internalID: 593403353814002016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1516
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f508eb635f885040800000000000000
+      internalID: 4636613404833351153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1182
+        width: 271
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fa9bb9fda85b50800000000000000
+      internalID: 6582202143507936275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1125
+        width: 124
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b5cfd3041473ab0800000000000000
+      internalID: -5028478714762208479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1339
+        width: 155
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be8e68bd49e39680800000000000000
+      internalID: -8749393131034734920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1031
+        width: 220
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af27dddbf9f7900800000000000000
+      internalID: 684441306196539910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1182
+        width: 271
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22822fd8bec4c10800000000000000
+      internalID: 2039263726177624779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1125
+        width: 124
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb804e51d703600800000000000000
+      internalID: 445993896083241940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1339
+        width: 155
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb9116fc57eb1b0800000000000000
+      internalID: -5638940149873524746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1031
+        width: 220
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e790657cb9863d0800000000000000
+      internalID: -3213147053684588983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1036
+        width: 210
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a23a692841d7db20800000000000000
+      internalID: 3159223771486368424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1024
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a5e1c2a9dab900800000000000000
+      internalID: 701111985070514877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1067
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37172984b762d6a60800000000000000
+      internalID: 7668828051422212467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1024
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa0fbf7790aece00800000000000000
+      internalID: 1066966734277118631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1023
+        width: 393
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc53726dce61f3b0800000000000000
+      internalID: -5480477443134104360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1036
+        width: 210
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51efb32b002da2e40800000000000000
+      internalID: 5632545184412335637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1023
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2f930ca41aad50800000000000000
+      internalID: 6749229720595803855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1067
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c8114d2b0e7bf0800000000000000
+      internalID: -324809834130521370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1023
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051536a2976255580800000000000000
+      internalID: -8839116391800680112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1023
+        width: 393
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8890e84336bfa0800000000000000
+      internalID: -5785380283212067064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1030
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58639f8451ea57fc0800000000000000
+      internalID: -3497698129141483899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1030
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110b8a2c84ce25740800000000000000
+      internalID: 5139429922030792721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 775
+        width: 417
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf6fe711a5d2ba0800000000000000
+      internalID: -6112130088080835136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 371
+        width: 497
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e323157f60a9b0800000000000000
+      internalID: -5070930631796201125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 711
+        width: 205
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653ea32c256542960800000000000000
+      internalID: 7576275386589963094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 775
+        width: 417
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0fe1af6fb33910800000000000000
+      internalID: 1816005560939514789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 371
+        width: 497
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f624ebc3e31311db0800000000000000
+      internalID: -4823019582560255377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 711
+        width: 204
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13b00b40e66ac40800000000000000
+      internalID: 5523222959428940244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 323
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ccf9100ed954c0800000000000000
+      internalID: -4298160277331065023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 533
+        width: 316
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c0e8eb6f541a9a0800000000000000
+      internalID: -6223616283988063209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 498
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0546553f164390800000000000000
+      internalID: -7834540187823305729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 492
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e350d24362a25aee0800000000000000
+      internalID: -1250546977952955074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 390
+        width: 323
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6cb09de3c791b0800000000000000
+      internalID: -5649831782410064797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 533
+        width: 316
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963158d543cefb8e0800000000000000
+      internalID: -1675360826707078295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 498
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc454748234a17a20800000000000000
+      internalID: 3058406158838813901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 492
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d08415e56238810800000000000000
+      internalID: 1766297665391824213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 271
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db4830acc959580800000000000000
+      internalID: -8820971903678890725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 101
+        width: 124
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1475b5f7f20f7600800000000000000
+      internalID: 468096150272308250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 315
+        width: 155
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f493851a813f77800800000000000000
+      internalID: 610223561643669839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 7
+        width: 220
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ddc7dbb98a8c330800000000000000
+      internalID: 3731417678128930185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 158
+        width: 271
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61826dae190c89160800000000000000
+      internalID: 7032582551081723926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 101
+        width: 124
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb50dcb6cfcf22e0800000000000000
+      internalID: -2148270044754191428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 315
+        width: 155
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20f6d6a96b2dd60800000000000000
+      internalID: 7913588269620593354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 7
+        width: 220
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b68ca2280f598730800000000000000
+      internalID: 4001834232441505458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 210
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9099a443cc006f0800000000000000
+      internalID: -720351415417370152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b57a9c5d4d3d50800000000000000
+      internalID: 6718611279230384155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 43
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614e4e81f0e681e0800000000000000
+      internalID: -2195820440217304726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc71c44de087620800000000000000
+      internalID: 2771981875619024213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 393
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86a36332448388d0800000000000000
+      internalID: -2845285119703144819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 12
+        width: 210
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e86541800c4fd30800000000000000
+      internalID: 4464404271564492392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 0
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e58f3364614a4b0800000000000000
+      internalID: -5430190759926538682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 43
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b381c4c5f48d5810800000000000000
+      internalID: 1755705620847231921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf72b63754ff6f0800000000000000
+      internalID: -648723459296724192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 393
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d85094aa30c23c0800000000000000
+      internalID: -4383124307433910891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9bb6d91b3f87990800000000000000
+      internalID: -7387887244525454942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UrsaMajor_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 6
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a515ae295d49c4e0800000000000000
+      internalID: -1960951117313141335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

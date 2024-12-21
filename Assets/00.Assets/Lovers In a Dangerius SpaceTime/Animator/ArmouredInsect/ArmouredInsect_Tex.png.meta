@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: 22a95c83485ca484eb0a7828a1a149ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3015285861530384212
+    second: ArmouredInsect_Tex_0
+  - first:
+      213: 151624794637182534
+    second: ArmouredInsect_Tex_1
+  - first:
+      213: -5442457599737809898
+    second: ArmouredInsect_Tex_2
+  - first:
+      213: -4975973781326125825
+    second: ArmouredInsect_Tex_3
+  - first:
+      213: 3896698670306144345
+    second: ArmouredInsect_Tex_4
+  - first:
+      213: 9010284603772975497
+    second: ArmouredInsect_Tex_5
+  - first:
+      213: -4009222573095352694
+    second: ArmouredInsect_Tex_6
+  - first:
+      213: -5186318773092814916
+    second: ArmouredInsect_Tex_7
+  - first:
+      213: 2020431547699508331
+    second: ArmouredInsect_Tex_8
+  - first:
+      213: -2287843800277649050
+    second: ArmouredInsect_Tex_9
+  - first:
+      213: 7140067220893941464
+    second: ArmouredInsect_Tex_10
+  - first:
+      213: 8683183254634260194
+    second: ArmouredInsect_Tex_11
+  - first:
+      213: 859343511721852945
+    second: ArmouredInsect_Tex_12
+  - first:
+      213: 5330653430410076305
+    second: ArmouredInsect_Tex_13
+  - first:
+      213: -6752285106793301398
+    second: ArmouredInsect_Tex_14
+  - first:
+      213: -6481681542637924894
+    second: ArmouredInsect_Tex_15
+  - first:
+      213: -2434848476382919917
+    second: ArmouredInsect_Tex_16
+  - first:
+      213: 7239125138252444698
+    second: ArmouredInsect_Tex_17
+  - first:
+      213: 7281584425452413268
+    second: ArmouredInsect_Tex_18
+  - first:
+      213: 9071106496165828031
+    second: ArmouredInsect_Tex_19
+  - first:
+      213: 6140650920052592615
+    second: ArmouredInsect_Tex_20
+  - first:
+      213: -2173739451817642822
+    second: ArmouredInsect_Tex_21
+  - first:
+      213: 6389030697745269905
+    second: ArmouredInsect_Tex_22
+  - first:
+      213: 4740768673898723321
+    second: ArmouredInsect_Tex_23
+  - first:
+      213: -5399687785981894025
+    second: ArmouredInsect_Tex_24
+  - first:
+      213: 4751130744811533118
+    second: ArmouredInsect_Tex_25
+  - first:
+      213: -2394571787334344566
+    second: ArmouredInsect_Tex_26
+  - first:
+      213: 8029942812713682318
+    second: ArmouredInsect_Tex_27
+  - first:
+      213: 4263677374604631897
+    second: ArmouredInsect_Tex_28
+  - first:
+      213: -539205594755315667
+    second: ArmouredInsect_Tex_29
+  - first:
+      213: 1146477864629769464
+    second: ArmouredInsect_Tex_30
+  - first:
+      213: 4438306013744343133
+    second: ArmouredInsect_Tex_31
+  - first:
+      213: 2700039212593774149
+    second: ArmouredInsect_Tex_32
+  - first:
+      213: 626030860418757135
+    second: ArmouredInsect_Tex_33
+  - first:
+      213: -2766542110808309176
+    second: ArmouredInsect_Tex_34
+  - first:
+      213: -4704034478908322610
+    second: ArmouredInsect_Tex_35
+  - first:
+      213: 6217641192250116796
+    second: ArmouredInsect_Tex_36
+  - first:
+      213: -3357990323462025459
+    second: ArmouredInsect_Tex_37
+  - first:
+      213: 2250610341363225108
+    second: ArmouredInsect_Tex_38
+  - first:
+      213: 5642081401405096418
+    second: ArmouredInsect_Tex_39
+  - first:
+      213: -2948219558674181539
+    second: ArmouredInsect_Tex_40
+  - first:
+      213: -2978602199046218612
+    second: ArmouredInsect_Tex_41
+  - first:
+      213: 1017097731564088967
+    second: ArmouredInsect_Tex_42
+  - first:
+      213: 2461586045600991135
+    second: ArmouredInsect_Tex_43
+  - first:
+      213: 6103739166989515359
+    second: ArmouredInsect_Tex_44
+  - first:
+      213: -8343911422416174896
+    second: ArmouredInsect_Tex_45
+  - first:
+      213: -3706467682996049973
+    second: ArmouredInsect_Tex_46
+  - first:
+      213: 1381014303389574627
+    second: ArmouredInsect_Tex_47
+  - first:
+      213: -5015930181323660832
+    second: ArmouredInsect_Tex_48
+  - first:
+      213: 5310397788612887433
+    second: ArmouredInsect_Tex_49
+  - first:
+      213: 2339150903190748842
+    second: ArmouredInsect_Tex_50
+  - first:
+      213: -1279520583893752911
+    second: ArmouredInsect_Tex_51
+  - first:
+      213: 1958539666099348704
+    second: ArmouredInsect_Tex_52
+  - first:
+      213: 1765912542107506357
+    second: ArmouredInsect_Tex_53
+  - first:
+      213: 7437877571141054449
+    second: ArmouredInsect_Tex_54
+  - first:
+      213: -5530824928718012332
+    second: ArmouredInsect_Tex_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 960
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457b6c0f38278d920800000000000000
+      internalID: 3015285861530384212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 846
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ad7782fdaa1200800000000000000
+      internalID: 151624794637182534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 832
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b08ef5a18874b0800000000000000
+      internalID: -5442457599737809898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 960
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff42660b53ac1fab0800000000000000
+      internalID: -4975973781326125825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 846
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b5588bcad31630800000000000000
+      internalID: 3896698670306144345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 832
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9893f0dcb16fa0d70800000000000000
+      internalID: 9010284603772975497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 910
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868c21cf416c58c0800000000000000
+      internalID: -4009222573095352694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 910
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfecdddd8e7608b0800000000000000
+      internalID: -5186318773092814916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 755
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b643f95b9c30a0c10800000000000000
+      internalID: 2020431547699508331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 756
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669fed66f22ff30e0800000000000000
+      internalID: -2287843800277649050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 756
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3bc5ce4d961360800000000000000
+      internalID: 7140067220893941464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 778
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e668142a2dd08870800000000000000
+      internalID: 8683183254634260194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 755
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c734fe500deb00800000000000000
+      internalID: 859343511721852945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 756
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906f4c4d094af940800000000000000
+      internalID: 5330653430410076305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 756
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6abc6378701b42a0800000000000000
+      internalID: -6752285106793301398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 778
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed4cd77af07c06a0800000000000000
+      internalID: -6481681542637924894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 720
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138b4b063ea53ed0800000000000000
+      internalID: -2434848476382919917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 720
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14332e65f9867460800000000000000
+      internalID: 7239125138252444698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ab1994726d0560800000000000000
+      internalID: 7281584425452413268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d3b72c4b03ed70800000000000000
+      internalID: 9071106496165828031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef096b2a79f73550800000000000000
+      internalID: 6140650920052592615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 656
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4382c4c7355d1e0800000000000000
+      internalID: -2173739451817642822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944c2ea1956aa850800000000000000
+      internalID: 6389030697745269905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77802cdf79ac140800000000000000
+      internalID: 4740768673898723321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 597
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a88241947015b0800000000000000
+      internalID: -5399687785981894025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 656
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bde56d386fe140800000000000000
+      internalID: 4751130744811533118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 523
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a3ca75a5c4ced0800000000000000
+      internalID: -2394571787334344566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 523
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8500869176107f60800000000000000
+      internalID: 8029942812713682318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 448
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fdd267bff9b2b30800000000000000
+      internalID: 4263677374604631897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 334
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c4bf4e5b5488f0800000000000000
+      internalID: -539205594755315667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 320
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f41b182b8b19ef00800000000000000
+      internalID: 1146477864629769464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 448
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5826b9edc7089d30800000000000000
+      internalID: 4438306013744343133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 334
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef642cb57787520800000000000000
+      internalID: 2700039212593774149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 320
+        width: 174
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0231bd20cb10b800800000000000000
+      internalID: 626030860418757135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 398
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428c15ab944b99d0800000000000000
+      internalID: -2766542110808309176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 398
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccca718099e7beb0800000000000000
+      internalID: -4704034478908322610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba87ecc8bf794650800000000000000
+      internalID: 6217641192250116796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 244
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc8da97950661d0800000000000000
+      internalID: -3357990323462025459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 244
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41296c46e26cb3f10800000000000000
+      internalID: 2250610341363225108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 266
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1c69c3423bc4e40800000000000000
+      internalID: 5642081401405096418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 243
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52dd558ee1d517d0800000000000000
+      internalID: -2948219558674181539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 244
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c17aec411e9a6d0800000000000000
+      internalID: -2978602199046218612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 244
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eabbf7ff47d1e00800000000000000
+      internalID: 1017097731564088967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 266
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f970b18677f492220800000000000000
+      internalID: 2461586045600991135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a7c02fe66d4b450800000000000000
+      internalID: 6103739166989515359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 208
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04f8de4c8743c80800000000000000
+      internalID: -8343911422416174896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72e8fa74bff8cc0800000000000000
+      internalID: -3706467682996049973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e44721395a2310800000000000000
+      internalID: 1381014303389574627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ea0c5316d36ab0800000000000000
+      internalID: -5015930181323660832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 144
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838a4e27a252b940800000000000000
+      internalID: 5310397788612887433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaef7b46a55567020800000000000000
+      internalID: 2339150903190748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b36632eeca3e3ee0800000000000000
+      internalID: -1279520583893752911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 85
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42d5413712e2b10800000000000000
+      internalID: 1958539666099348704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 144
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b699b0d918c18810800000000000000
+      internalID: 1765912542107506357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 11
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff25be4e36a83760800000000000000
+      internalID: 7437877571141054449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmouredInsect_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 11
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45043e8e7009e33b0800000000000000
+      internalID: -5530824928718012332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

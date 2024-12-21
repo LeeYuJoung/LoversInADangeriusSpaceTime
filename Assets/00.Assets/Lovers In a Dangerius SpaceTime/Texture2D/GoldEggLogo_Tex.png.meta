@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: 936cfd7cd6635ce458f0203e68923881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4371187759822237023
+    second: GoldEggLogo_Tex_0
+  - first:
+      213: -2850103825613845153
+    second: GoldEggLogo_Tex_1
+  - first:
+      213: -3789232576446384734
+    second: GoldEggLogo_Tex_2
+  - first:
+      213: -7931287119518449730
+    second: GoldEggLogo_Tex_3
+  - first:
+      213: -1817285099325639533
+    second: GoldEggLogo_Tex_4
+  - first:
+      213: 5810335861581288263
+    second: GoldEggLogo_Tex_5
+  - first:
+      213: 6197084471642268461
+    second: GoldEggLogo_Tex_6
+  - first:
+      213: 6394144753322203443
+    second: GoldEggLogo_Tex_7
+  - first:
+      213: 1862210076078436333
+    second: GoldEggLogo_Tex_8
+  - first:
+      213: 8923330315104598955
+    second: GoldEggLogo_Tex_9
+  - first:
+      213: 748913501399748860
+    second: GoldEggLogo_Tex_10
+  - first:
+      213: 1475836802609553913
+    second: GoldEggLogo_Tex_11
+  - first:
+      213: 3823153994221656751
+    second: GoldEggLogo_Tex_12
+  - first:
+      213: -3614087750947830269
+    second: GoldEggLogo_Tex_13
+  - first:
+      213: -5956364003260191118
+    second: GoldEggLogo_Tex_14
+  - first:
+      213: 3127666731054603112
+    second: GoldEggLogo_Tex_15
+  - first:
+      213: 3548675286680836545
+    second: GoldEggLogo_Tex_16
+  - first:
+      213: 3331974123968575886
+    second: GoldEggLogo_Tex_17
+  - first:
+      213: -4832354979274645464
+    second: GoldEggLogo_Tex_18
+  - first:
+      213: 1071384528552628187
+    second: GoldEggLogo_Tex_19
+  - first:
+      213: 6774024722758973571
+    second: GoldEggLogo_Tex_20
+  - first:
+      213: 4970375689559416428
+    second: GoldEggLogo_Tex_21
+  - first:
+      213: 5045045259555365607
+    second: GoldEggLogo_Tex_22
+  - first:
+      213: 2627109540676884180
+    second: GoldEggLogo_Tex_23
+  - first:
+      213: -4700205717370107190
+    second: GoldEggLogo_Tex_24
+  - first:
+      213: 7135627456227710534
+    second: GoldEggLogo_Tex_25
+  - first:
+      213: 4194415508197667374
+    second: GoldEggLogo_Tex_26
+  - first:
+      213: 3618325966269349799
+    second: GoldEggLogo_Tex_27
+  - first:
+      213: 829782817731962137
+    second: GoldEggLogo_Tex_28
+  - first:
+      213: -7381152187031614500
+    second: GoldEggLogo_Tex_29
+  - first:
+      213: -1645705478921325602
+    second: GoldEggLogo_Tex_30
+  - first:
+      213: -3800934107868136736
+    second: GoldEggLogo_Tex_31
+  - first:
+      213: -1826281391248660385
+    second: GoldEggLogo_Tex_32
+  - first:
+      213: -5500210170899610454
+    second: GoldEggLogo_Tex_33
+  - first:
+      213: -7241061759570162313
+    second: GoldEggLogo_Tex_34
+  - first:
+      213: -2636680276094852293
+    second: GoldEggLogo_Tex_35
+  - first:
+      213: 3449764098048616243
+    second: GoldEggLogo_Tex_36
+  - first:
+      213: 668775413750801225
+    second: GoldEggLogo_Tex_37
+  - first:
+      213: -8180816838484909803
+    second: GoldEggLogo_Tex_38
+  - first:
+      213: 2552853953190070361
+    second: GoldEggLogo_Tex_39
+  - first:
+      213: 6026360381032396941
+    second: GoldEggLogo_Tex_40
+  - first:
+      213: -5940796011732643010
+    second: GoldEggLogo_Tex_41
+  - first:
+      213: 2938956881126196092
+    second: GoldEggLogo_Tex_42
+  - first:
+      213: -2059927473381320203
+    second: GoldEggLogo_Tex_43
+  - first:
+      213: -4044913617487079028
+    second: GoldEggLogo_Tex_44
+  - first:
+      213: 8345448492050290990
+    second: GoldEggLogo_Tex_45
+  - first:
+      213: -2011522493548505998
+    second: GoldEggLogo_Tex_46
+  - first:
+      213: 3771299961653290283
+    second: GoldEggLogo_Tex_47
+  - first:
+      213: -1988403912204334752
+    second: GoldEggLogo_Tex_48
+  - first:
+      213: 5149262418747528780
+    second: GoldEggLogo_Tex_49
+  - first:
+      213: -2957708949982393945
+    second: GoldEggLogo_Tex_50
+  - first:
+      213: -2667404840676351140
+    second: GoldEggLogo_Tex_51
+  - first:
+      213: 6118575841031860394
+    second: GoldEggLogo_Tex_52
+  - first:
+      213: -973205517039760235
+    second: GoldEggLogo_Tex_53
+  - first:
+      213: 2140358772955173653
+    second: GoldEggLogo_Tex_54
+  - first:
+      213: -8486227599458475579
+    second: GoldEggLogo_Tex_55
+  - first:
+      213: 6719954725002753408
+    second: GoldEggLogo_Tex_56
+  - first:
+      213: -8711501410052444042
+    second: GoldEggLogo_Tex_57
+  - first:
+      213: -2528440464994727156
+    second: GoldEggLogo_Tex_58
+  - first:
+      213: -8693957208440589184
+    second: GoldEggLogo_Tex_59
+  - first:
+      213: 2326773348264471939
+    second: GoldEggLogo_Tex_60
+  - first:
+      213: -7899104298195402707
+    second: GoldEggLogo_Tex_61
+  - first:
+      213: -2764852636535304540
+    second: GoldEggLogo_Tex_62
+  - first:
+      213: 1819748084428993837
+    second: GoldEggLogo_Tex_63
+  - first:
+      213: 5275698830746641982
+    second: GoldEggLogo_Tex_64
+  - first:
+      213: 1110451564823210232
+    second: GoldEggLogo_Tex_65
+  - first:
+      213: -8424356149522291747
+    second: GoldEggLogo_Tex_66
+  - first:
+      213: 8967813980989570316
+    second: GoldEggLogo_Tex_67
+  - first:
+      213: 7019493333412716033
+    second: GoldEggLogo_Tex_68
+  - first:
+      213: -7917059508548225990
+    second: GoldEggLogo_Tex_69
+  - first:
+      213: -2235314620131516438
+    second: GoldEggLogo_Tex_70
+  - first:
+      213: 4015706517935368875
+    second: GoldEggLogo_Tex_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 277
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2924954eb6653c0800000000000000
+      internalID: -4371187759822237023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d0e4dcba56278d0800000000000000
+      internalID: -2850103825613845153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 263
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a533954c01f96bc0800000000000000
+      internalID: -3789232576446384734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb875f2686ee190800000000000000
+      internalID: -7931287119518449730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 263
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394b51f94d4b7c6e0800000000000000
+      internalID: -1817285099325639533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743144f7ea572a050800000000000000
+      internalID: 5810335861581288263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 263
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23a35f4e77700650800000000000000
+      internalID: 6197084471642268461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 408
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339923886c09cb850800000000000000
+      internalID: 6394144753322203443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 301
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defeec1a236e7d910800000000000000
+      internalID: 1862210076078436333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb84dc4a906db70800000000000000
+      internalID: 8923330315104598955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 269
+        width: 145
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01d629cdca46a00800000000000000
+      internalID: 748913501399748860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1adfda0c93b7410800000000000000
+      internalID: 1475836802609553913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa92334d429e0530800000000000000
+      internalID: 3823153994221656751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 263
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3060aa9b65e28ddc0800000000000000
+      internalID: -3614087750947830269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea0c84f7eb65da0800000000000000
+      internalID: -5956364003260191118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 263
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b11502254b76b20800000000000000
+      internalID: 3127666731054603112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c991dd1f5d6f3130800000000000000
+      internalID: 3548675286680836545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 269
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b0fbefcc8d3e20800000000000000
+      internalID: 3331974123968575886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 263
+        width: 142
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820aebfcfb600fcb0800000000000000
+      internalID: -4832354979274645464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf8a326d825ede00800000000000000
+      internalID: 1071384528552628187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 263
+        width: 140
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38833c3589b220e50800000000000000
+      internalID: 6774024722758973571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1d600b525af440800000000000000
+      internalID: 4970375689559416428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 263
+        width: 116
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2e09b0fe9930640800000000000000
+      internalID: 5045045259555365607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d51e453e557420800000000000000
+      internalID: 2627109540676884180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca05e48dc385ceb0800000000000000
+      internalID: -4700205717370107190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 263
+        width: 146
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461af18d57d60360800000000000000
+      internalID: 7135627456227710534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 77
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22f2868eae853a30800000000000000
+      internalID: 4194415508197667374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 73
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af7e0dab40e63230800000000000000
+      internalID: 3618325966269349799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 73
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e2ab831bf38b00800000000000000
+      internalID: 829782817731962137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 79
+        width: 165
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb02e26131e09990800000000000000
+      internalID: -7381152187031614500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 73
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3faf316974929e0800000000000000
+      internalID: -1645705478921325602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 174
+        width: 119
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea7add219e504bc0800000000000000
+      internalID: -3800934107868136736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 73
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a7be20ceb7a6e0800000000000000
+      internalID: -1826281391248660385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 114
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c98dadf35ba3b0800000000000000
+      internalID: -5500210170899610454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 79
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dc728c1b4928b90800000000000000
+      internalID: -7241061759570162313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 73
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3366153241a86bd0800000000000000
+      internalID: -2636680276094852293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 73
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33765176b2600ef20800000000000000
+      internalID: 3449764098048616243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a12b02b7f74900800000000000000
+      internalID: 668775413750801225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 73
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a291ed66e77e80800000000000000
+      internalID: -8180816838484909803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 77
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588853152f8d6320800000000000000
+      internalID: 2552853953190070361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 114
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d887ce766dee1a350800000000000000
+      internalID: 6026360381032396941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 114
+        width: 119
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335e95c08d0e8da0800000000000000
+      internalID: -5940796011732643010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 73
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7387bd46b549c820800000000000000
+      internalID: 2938956881126196092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 73
+        width: 126
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d90e70eaa963e0800000000000000
+      internalID: -2059927473381320203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89da8aee749dd7c0800000000000000
+      internalID: -4044913617487079028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291afbff2df0d370800000000000000
+      internalID: 8345448492050290990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274555a13f2a514e0800000000000000
+      internalID: -2011522493548505998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e9cb7559565430800000000000000
+      internalID: 3771299961653290283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06940174d25c764e0800000000000000
+      internalID: -1988403912204334752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 10
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4617bc43ead57740800000000000000
+      internalID: 5149262418747528780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 10
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a94e4f616b14f6d0800000000000000
+      internalID: -2957708949982393945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53245f0e697bfad0800000000000000
+      internalID: -2667404840676351140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bdff4f4c89e450800000000000000
+      internalID: 6118575841031860394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c056f0dba7e72f0800000000000000
+      internalID: -973205517039760235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51352e1c6f414bd10800000000000000
+      internalID: 2140358772955173653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c16923d5fcda3a80800000000000000
+      internalID: -8486227599458475579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853f72f733124d50800000000000000
+      internalID: 6719954725002753408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67072818f978a1780800000000000000
+      internalID: -8711501410052444042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b04481bcc29ecd0800000000000000
+      internalID: -2528440464994727156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b3724bfbd85780800000000000000
+      internalID: -8693957208440589184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6620580c5a4020800000000000000
+      internalID: 2326773348264471939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d204d46fd7eb06290800000000000000
+      internalID: -7899104298195402707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec2070d2541a9d0800000000000000
+      internalID: -2764852636535304540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 10
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d257619cd3b014910800000000000000
+      internalID: 1819748084428993837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e89c722c073940800000000000000
+      internalID: 5275698830746641982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8609590dd196f00800000000000000
+      internalID: 1110451564823210232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a85657bca61b80800000000000000
+      internalID: -8424356149522291747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 10
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3aac5d43147c70800000000000000
+      internalID: 8967813980989570316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_68
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e9941feff3a6160800000000000000
+      internalID: 7019493333412716033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_69
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ba57c254f02290800000000000000
+      internalID: -7917059508548225990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_70
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd2d932319af0e0800000000000000
+      internalID: -2235314620131516438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldEggLogo_Tex_71
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 10
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa22cb4dc7aab730800000000000000
+      internalID: 4015706517935368875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

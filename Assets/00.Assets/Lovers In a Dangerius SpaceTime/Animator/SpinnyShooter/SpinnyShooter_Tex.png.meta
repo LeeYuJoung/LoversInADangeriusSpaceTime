@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 7b9f1d91c8064af48a4baaaa05731976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5497952392034764601
+    second: SpinnyShooter_Tex_0
+  - first:
+      213: 7915319741541374354
+    second: SpinnyShooter_Tex_1
+  - first:
+      213: -116819485108060715
+    second: SpinnyShooter_Tex_2
+  - first:
+      213: 2683087611781477601
+    second: SpinnyShooter_Tex_3
+  - first:
+      213: -2682608157710744448
+    second: SpinnyShooter_Tex_4
+  - first:
+      213: -7764456702464549497
+    second: SpinnyShooter_Tex_5
+  - first:
+      213: 1294668147453723692
+    second: SpinnyShooter_Tex_6
+  - first:
+      213: 9168259514382732396
+    second: SpinnyShooter_Tex_7
+  - first:
+      213: -6973953794980584265
+    second: SpinnyShooter_Tex_8
+  - first:
+      213: -5610609937498629076
+    second: SpinnyShooter_Tex_9
+  - first:
+      213: -6508177530455107163
+    second: SpinnyShooter_Tex_10
+  - first:
+      213: 4444394298393139183
+    second: SpinnyShooter_Tex_11
+  - first:
+      213: 2297737448527895563
+    second: SpinnyShooter_Tex_12
+  - first:
+      213: 1876169738993054566
+    second: SpinnyShooter_Tex_13
+  - first:
+      213: 7995188177001819455
+    second: SpinnyShooter_Tex_14
+  - first:
+      213: 8329811881698699380
+    second: SpinnyShooter_Tex_15
+  - first:
+      213: 2725395039957464287
+    second: SpinnyShooter_Tex_16
+  - first:
+      213: 3807732000223232237
+    second: SpinnyShooter_Tex_17
+  - first:
+      213: -6208267054922429931
+    second: SpinnyShooter_Tex_18
+  - first:
+      213: 671145000115196529
+    second: SpinnyShooter_Tex_19
+  - first:
+      213: 7287601117219179971
+    second: SpinnyShooter_Tex_20
+  - first:
+      213: 2929707980889232835
+    second: SpinnyShooter_Tex_21
+  - first:
+      213: 7440510541984161475
+    second: SpinnyShooter_Tex_22
+  - first:
+      213: 7977687184782505435
+    second: SpinnyShooter_Tex_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 689
+        width: 380
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c832c8cd6953b3b0800000000000000
+      internalID: -5497952392034764601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 954
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d5362e5dd8dd60800000000000000
+      internalID: 7915319741541374354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 689
+        width: 380
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3a471c49f06ef0800000000000000
+      internalID: -116819485108060715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 954
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e47c71a7fd3c3520800000000000000
+      internalID: 2683087611781477601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 883
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0840618f71675cad0800000000000000
+      internalID: -2682608157710744448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 883
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d13b754cb1f3490800000000000000
+      internalID: -7764456702464549497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 705
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c240ef612d597f110800000000000000
+      internalID: 1294668147453723692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 705
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc06be3733c3f70800000000000000
+      internalID: 9168259514382732396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 524
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e13a19f9873f90800000000000000
+      internalID: -6973953794980584265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 526
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1e16fcfb1322b0800000000000000
+      internalID: -5610609937498629076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 524
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95b02940f4ea5a0800000000000000
+      internalID: -6508177530455107163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 526
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe79e752119adad30800000000000000
+      internalID: 4444394298393139183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 380
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c1e96190433ef10800000000000000
+      internalID: 2297737448527895563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 442
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b40fef6e790a10800000000000000
+      internalID: 1876169738993054566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 177
+        width: 380
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3da892694d94fe60800000000000000
+      internalID: 7995188177001819455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 442
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478aa7ee5cf699370800000000000000
+      internalID: 8329811881698699380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 371
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b64d595c82d520800000000000000
+      internalID: 2725395039957464287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 371
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de081397418c7d430800000000000000
+      internalID: 3807732000223232237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a8690a10ec7d9a0800000000000000
+      internalID: -6208267054922429931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17255ac52d2605900800000000000000
+      internalID: 671145000115196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc690da92c22560800000000000000
+      internalID: 7287601117219179971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59788e2e968a820800000000000000
+      internalID: 2929707980889232835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 12
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced38a9ae0024760800000000000000
+      internalID: 7440510541984161475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinnyShooter_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 14
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b52a1a3076be60800000000000000
+      internalID: 7977687184782505435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

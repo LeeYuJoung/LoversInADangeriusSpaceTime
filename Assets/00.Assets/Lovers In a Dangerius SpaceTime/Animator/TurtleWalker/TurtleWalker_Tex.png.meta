@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: e8887b72539d6ef4c9eee66e328360a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4923217516603313112
+    second: TurtleWalker_Tex_0
+  - first:
+      213: -3077914797149751547
+    second: TurtleWalker_Tex_1
+  - first:
+      213: -2730179647072135431
+    second: TurtleWalker_Tex_2
+  - first:
+      213: -2258864700976319244
+    second: TurtleWalker_Tex_3
+  - first:
+      213: 8650993392961491675
+    second: TurtleWalker_Tex_4
+  - first:
+      213: 138494136368619758
+    second: TurtleWalker_Tex_5
+  - first:
+      213: 7012333072441768496
+    second: TurtleWalker_Tex_6
+  - first:
+      213: -5571481732503729491
+    second: TurtleWalker_Tex_7
+  - first:
+      213: -5916979745761066480
+    second: TurtleWalker_Tex_8
+  - first:
+      213: 2242482994725059543
+    second: TurtleWalker_Tex_9
+  - first:
+      213: -5775216709907806972
+    second: TurtleWalker_Tex_10
+  - first:
+      213: 2354393554337022358
+    second: TurtleWalker_Tex_11
+  - first:
+      213: -6556188388529248572
+    second: TurtleWalker_Tex_12
+  - first:
+      213: 1912798600025191018
+    second: TurtleWalker_Tex_13
+  - first:
+      213: 6328866484493440088
+    second: TurtleWalker_Tex_14
+  - first:
+      213: -5294745359115190893
+    second: TurtleWalker_Tex_15
+  - first:
+      213: 4918203803640627027
+    second: TurtleWalker_Tex_16
+  - first:
+      213: -3742794802189148377
+    second: TurtleWalker_Tex_17
+  - first:
+      213: 3441629426749898143
+    second: TurtleWalker_Tex_18
+  - first:
+      213: -4412204875524238479
+    second: TurtleWalker_Tex_19
+  - first:
+      213: -7265512643989904772
+    second: TurtleWalker_Tex_20
+  - first:
+      213: -6428610301740688001
+    second: TurtleWalker_Tex_21
+  - first:
+      213: 8178101254741377933
+    second: TurtleWalker_Tex_22
+  - first:
+      213: -2395702353601387358
+    second: TurtleWalker_Tex_23
+  - first:
+      213: -4594293606415937799
+    second: TurtleWalker_Tex_24
+  - first:
+      213: 4265207013621831941
+    second: TurtleWalker_Tex_25
+  - first:
+      213: 655580473605064791
+    second: TurtleWalker_Tex_26
+  - first:
+      213: -212151602725623790
+    second: TurtleWalker_Tex_27
+  - first:
+      213: 903984679998422611
+    second: TurtleWalker_Tex_28
+  - first:
+      213: -5892260327066530537
+    second: TurtleWalker_Tex_29
+  - first:
+      213: -3580110160437681066
+    second: TurtleWalker_Tex_30
+  - first:
+      213: 214795577634506234
+    second: TurtleWalker_Tex_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 988
+        width: 204
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db0f1d3f38c25440800000000000000
+      internalID: 4923217516603313112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 988
+        width: 204
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50778faaccc0945d0800000000000000
+      internalID: -3077914797149751547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 333
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6934b73147c1ad0800000000000000
+      internalID: -2730179647072135431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 851
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f433aeb586e6a0e0800000000000000
+      internalID: -2258864700976319244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 813
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd298bde7a08e0870800000000000000
+      internalID: 8650993392961491675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 715
+        width: 334
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e9b9eea70ce100800000000000000
+      internalID: 138494136368619758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 851
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a7d95c6cfc05160800000000000000
+      internalID: 7012333072441768496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 813
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa898d12ee1ea2b0800000000000000
+      internalID: -5571481732503729491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120bbe454aa2eda0800000000000000
+      internalID: -5916979745761066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbf07b0766ee1f10800000000000000
+      internalID: 2242482994725059543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058b01300f4adfa0800000000000000
+      internalID: -5775216709907806972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914abba67c7ca020800000000000000
+      internalID: 2354393554337022358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66c25956db305a0800000000000000
+      internalID: -6556188388529248572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bd593130ab8a10800000000000000
+      internalID: 1912798600025191018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545b1f2986a4d750800000000000000
+      internalID: 6328866484493440088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 526
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7acd06294586b0800000000000000
+      internalID: -5294745359115190893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 204
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f79f83d48f04440800000000000000
+      internalID: 4918203803640627027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 476
+        width: 204
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f565425fbee0cc0800000000000000
+      internalID: -3742794802189148377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 333
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d75f5aabf13cf20800000000000000
+      internalID: 3441629426749898143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739126ea03b4c2c0800000000000000
+      internalID: -4412204875524238479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 301
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726fdf9eb6bb2b90800000000000000
+      internalID: -7265512643989904772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 203
+        width: 334
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5455adfcf8c6a0800000000000000
+      internalID: -6428610301740688001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83490203c37e7170800000000000000
+      internalID: 8178101254741377933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 301
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4a5020761c0ced0800000000000000
+      internalID: -2395702353601387358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fecabb7e4acd30c0800000000000000
+      internalID: -4594293606415937799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5091f6c4e2f013b30800000000000000
+      internalID: 4265207013621831941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75889e2a7f6191900800000000000000
+      internalID: 655580473605064791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186209cd394e0df0800000000000000
+      internalID: -212151602725623790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e73b5e6499b8c00800000000000000
+      internalID: 903984679998422611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d8219737c7a3ea0800000000000000
+      internalID: -5892260327066530537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654685ef6c4e05ec0800000000000000
+      internalID: -3580110160437681066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleWalker_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 14
+        width: 95
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5ca38907b1bf200800000000000000
+      internalID: 214795577634506234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

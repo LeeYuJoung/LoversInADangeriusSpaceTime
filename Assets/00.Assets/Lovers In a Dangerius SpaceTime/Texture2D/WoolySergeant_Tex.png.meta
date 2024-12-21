@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 38b98db9b88ae474d986af50ee77438d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5616228556695127529
+    second: WoolySergeant_Tex_0
+  - first:
+      213: -910753788006211902
+    second: WoolySergeant_Tex_1
+  - first:
+      213: 335023949004344676
+    second: WoolySergeant_Tex_2
+  - first:
+      213: -1707088167232792874
+    second: WoolySergeant_Tex_3
+  - first:
+      213: -1940802291323321925
+    second: WoolySergeant_Tex_4
+  - first:
+      213: 6183489069415092319
+    second: WoolySergeant_Tex_5
+  - first:
+      213: -2296152291735533180
+    second: WoolySergeant_Tex_6
+  - first:
+      213: 3645006232134401588
+    second: WoolySergeant_Tex_7
+  - first:
+      213: 7517527028556455366
+    second: WoolySergeant_Tex_8
+  - first:
+      213: -3110433127248311690
+    second: WoolySergeant_Tex_9
+  - first:
+      213: 4357893365474090958
+    second: WoolySergeant_Tex_10
+  - first:
+      213: 1183876015268895075
+    second: WoolySergeant_Tex_11
+  - first:
+      213: -1842341207857510293
+    second: WoolySergeant_Tex_12
+  - first:
+      213: 4319519624097568383
+    second: WoolySergeant_Tex_13
+  - first:
+      213: -146561039229651500
+    second: WoolySergeant_Tex_14
+  - first:
+      213: 6030281752007120600
+    second: WoolySergeant_Tex_15
+  - first:
+      213: 4663917898034475318
+    second: WoolySergeant_Tex_16
+  - first:
+      213: 6705118281775563558
+    second: WoolySergeant_Tex_17
+  - first:
+      213: -539301972091609359
+    second: WoolySergeant_Tex_18
+  - first:
+      213: -4558658127908569572
+    second: WoolySergeant_Tex_19
+  - first:
+      213: 46415748377983436
+    second: WoolySergeant_Tex_20
+  - first:
+      213: 852292569373249430
+    second: WoolySergeant_Tex_21
+  - first:
+      213: -6596252727213446211
+    second: WoolySergeant_Tex_22
+  - first:
+      213: 88268938573368734
+    second: WoolySergeant_Tex_23
+  - first:
+      213: 105990870765976660
+    second: WoolySergeant_Tex_24
+  - first:
+      213: -2629523178578321945
+    second: WoolySergeant_Tex_25
+  - first:
+      213: 6745903970038573195
+    second: WoolySergeant_Tex_26
+  - first:
+      213: -1927346666477635120
+    second: WoolySergeant_Tex_27
+  - first:
+      213: 8073166823379868096
+    second: WoolySergeant_Tex_28
+  - first:
+      213: -2858253116625869535
+    second: WoolySergeant_Tex_29
+  - first:
+      213: 8143892128357820916
+    second: WoolySergeant_Tex_30
+  - first:
+      213: -1643632771217454
+    second: WoolySergeant_Tex_31
+  - first:
+      213: 3033030099194785333
+    second: WoolySergeant_Tex_32
+  - first:
+      213: -3810856454673669980
+    second: WoolySergeant_Tex_33
+  - first:
+      213: -3896821647365338499
+    second: WoolySergeant_Tex_34
+  - first:
+      213: -4869402217291596818
+    second: WoolySergeant_Tex_35
+  - first:
+      213: -5251312454326295500
+    second: WoolySergeant_Tex_36
+  - first:
+      213: -4234670253345345971
+    second: WoolySergeant_Tex_37
+  - first:
+      213: 1989596616336535675
+    second: WoolySergeant_Tex_38
+  - first:
+      213: -8650170244381925865
+    second: WoolySergeant_Tex_39
+  - first:
+      213: -8849928604825481570
+    second: WoolySergeant_Tex_40
+  - first:
+      213: 4067913905423963578
+    second: WoolySergeant_Tex_41
+  - first:
+      213: 7113625884951801530
+    second: WoolySergeant_Tex_42
+  - first:
+      213: -1696008212143174103
+    second: WoolySergeant_Tex_43
+  - first:
+      213: 3969758411200632774
+    second: WoolySergeant_Tex_44
+  - first:
+      213: 3493764068897288739
+    second: WoolySergeant_Tex_45
+  - first:
+      213: 664278197413616021
+    second: WoolySergeant_Tex_46
+  - first:
+      213: 2799109835661913556
+    second: WoolySergeant_Tex_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 856
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c733cd1ad0fd40800000000000000
+      internalID: 5616228556695127529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 845
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5c04514a5c53f0800000000000000
+      internalID: -910753788006211902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 856
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d07afa18e36a400800000000000000
+      internalID: 335023949004344676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 845
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d611df3b543f48e0800000000000000
+      internalID: -1707088167232792874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c86e4992e015e0800000000000000
+      internalID: -1940802291323321925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505ffe0c8a20d550800000000000000
+      internalID: 6183489069415092319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48987ecf7ad6220e0800000000000000
+      internalID: -2296152291735533180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 782
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb4762bd9a59230800000000000000
+      internalID: 3645006232134401588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd518eb00f935860800000000000000
+      internalID: 7517527028556455366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac1c0fc8585d4d0800000000000000
+      internalID: -3110433127248311690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 775
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf5d124de85a7c30800000000000000
+      internalID: 4357893365474090958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 782
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3691534a6f8fd6010800000000000000
+      internalID: 1183876015268895075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 724
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c69ebe60be66e0800000000000000
+      internalID: -1842341207857510293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 724
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f761aaa563402fb30800000000000000
+      internalID: 4319519624097568383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fdc6e28f47fdf0800000000000000
+      internalID: -146561039229651500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d697ebbd4ddfa350800000000000000
+      internalID: 6030281752007120600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6317ee52e9099b040800000000000000
+      internalID: 4663917898034475318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 660
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c5325d8d5d0d50800000000000000
+      internalID: 6705118281775563558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fedfc6b6b30488f0800000000000000
+      internalID: -539301972091609359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eff81e5946cb0c0800000000000000
+      internalID: -4558658127908569572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 614
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9bd0290e6e4a000800000000000000
+      internalID: 46415748377983436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 660
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f82328393f3db00800000000000000
+      internalID: 852292569373249430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 541
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbadb1d7176574a0800000000000000
+      internalID: -6596252727213446211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 541
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dcd58c128993100800000000000000
+      internalID: 88268938573368734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 344
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb079a22e887100800000000000000
+      internalID: 105990870765976660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 333
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edde24d99e028bd0800000000000000
+      internalID: -2629523178578321945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 344
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88eb0f5be34e9d50800000000000000
+      internalID: 6745903970038573195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 333
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d931991b60b045e0800000000000000
+      internalID: -1927346666477635120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99600d376a90070800000000000000
+      internalID: 8073166823379868096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ac512fe17558d0800000000000000
+      internalID: -2858253116625869535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f92ed71ebae40170800000000000000
+      internalID: 8143892128357820916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 270
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c78cef192afff0800000000000000
+      internalID: -1643632771217454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ea2973ecc771a20800000000000000
+      internalID: 3033030099194785333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0eb29ce3e1d1bc0800000000000000
+      internalID: -3810856454673669980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 263
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a8cb3ab55bbe9c0800000000000000
+      internalID: -3896821647365338499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 270
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebb5d98b786c6cb0800000000000000
+      internalID: -4869402217291596818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 212
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434eb4b35279f17b0800000000000000
+      internalID: -5251312454326295500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 212
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eef6047dd6b35c0800000000000000
+      internalID: -4234670253345345971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70fe0bc4977c9b10800000000000000
+      internalID: 1989596616336535675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e16f84efb64f780800000000000000
+      internalID: -8650170244381925865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e0fc5a2dcbe2580800000000000000
+      internalID: -8849928604825481570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 148
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5daade422247830800000000000000
+      internalID: 4067913905423963578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe63918d0da8b260800000000000000
+      internalID: 7113625884951801530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8f0354819678e0800000000000000
+      internalID: -1696008212143174103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 102
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79bb70e3a671730800000000000000
+      internalID: 3969758411200632774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 148
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32275afe8e75c7030800000000000000
+      internalID: 3493764068897288739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 29
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59910e4408df73900800000000000000
+      internalID: 664278197413616021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoolySergeant_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 29
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd2ee1b09f68d620800000000000000
+      internalID: 2799109835661913556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

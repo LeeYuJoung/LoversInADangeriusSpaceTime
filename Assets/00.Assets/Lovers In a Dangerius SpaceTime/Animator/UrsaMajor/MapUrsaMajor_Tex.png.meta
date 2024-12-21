@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 420e4499a401b5e4f9408d581132850c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3371455750650968209
+    second: MapUrsaMajor_Tex_0
+  - first:
+      213: 5596776146247815912
+    second: MapUrsaMajor_Tex_1
+  - first:
+      213: 2199827460583134009
+    second: MapUrsaMajor_Tex_2
+  - first:
+      213: 8268711245040640499
+    second: MapUrsaMajor_Tex_3
+  - first:
+      213: 5765089912926087979
+    second: MapUrsaMajor_Tex_4
+  - first:
+      213: -2122940661106412370
+    second: MapUrsaMajor_Tex_5
+  - first:
+      213: -3738446140509816850
+    second: MapUrsaMajor_Tex_6
+  - first:
+      213: -4577350778791852756
+    second: MapUrsaMajor_Tex_7
+  - first:
+      213: 5193012756957421725
+    second: MapUrsaMajor_Tex_8
+  - first:
+      213: 2945569257088926134
+    second: MapUrsaMajor_Tex_9
+  - first:
+      213: 8573535974952973944
+    second: MapUrsaMajor_Tex_10
+  - first:
+      213: -649315762460980437
+    second: MapUrsaMajor_Tex_11
+  - first:
+      213: -6838462229253425868
+    second: MapUrsaMajor_Tex_12
+  - first:
+      213: 4813820924688337481
+    second: MapUrsaMajor_Tex_13
+  - first:
+      213: 9180821677435445313
+    second: MapUrsaMajor_Tex_14
+  - first:
+      213: -6438202592154975657
+    second: MapUrsaMajor_Tex_15
+  - first:
+      213: -8853557413024422058
+    second: MapUrsaMajor_Tex_16
+  - first:
+      213: 2594322929615253870
+    second: MapUrsaMajor_Tex_17
+  - first:
+      213: -4429885173536696117
+    second: MapUrsaMajor_Tex_18
+  - first:
+      213: 891754125830891958
+    second: MapUrsaMajor_Tex_19
+  - first:
+      213: 7394230197912172312
+    second: MapUrsaMajor_Tex_20
+  - first:
+      213: 1569513898164278636
+    second: MapUrsaMajor_Tex_21
+  - first:
+      213: -225843161297013916
+    second: MapUrsaMajor_Tex_22
+  - first:
+      213: 2802801265546837846
+    second: MapUrsaMajor_Tex_23
+  - first:
+      213: -3755680394891492664
+    second: MapUrsaMajor_Tex_24
+  - first:
+      213: 8153323941310395998
+    second: MapUrsaMajor_Tex_25
+  - first:
+      213: -1967037770166641999
+    second: MapUrsaMajor_Tex_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 393
+        width: 199
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6740868bde2631d0800000000000000
+      internalID: -3371455750650968209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 365
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21b74804ebbad40800000000000000
+      internalID: 5596776146247815912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 432
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93315339b6b578e10800000000000000
+      internalID: 2199827460583134009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ecee511d50c270800000000000000
+      internalID: 8268711245040640499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba5262bb6b10050800000000000000
+      internalID: 5765089912926087979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4f48f67bcc982e0800000000000000
+      internalID: -2122940661106412370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 191
+        width: 140
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee77bf6da0f5e1cc0800000000000000
+      internalID: -3738446140509816850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 270
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2501c1f7bbf970c0800000000000000
+      internalID: -4577350778791852756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 273
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e484b699411840800000000000000
+      internalID: 5193012756957421725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 287
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1c81e02a3c0e820800000000000000
+      internalID: 2945569257088926134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 213
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ba107b815bf670800000000000000
+      internalID: 8573535974952973944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b837711ca2df6f0800000000000000
+      internalID: -649315762460980437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 263
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4357c6f85d6e811a0800000000000000
+      internalID: -6838462229253425868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 250
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a046450a02ec240800000000000000
+      internalID: 4813820924688337481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 257
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140eebd6ca4d86f70800000000000000
+      internalID: 9180821677435445313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 251
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7528a9e7ad8e6a6a0800000000000000
+      internalID: -6438202592154975657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572726e078d12580800000000000000
+      internalID: -8853557413024422058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 111
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e613e5c85f2e00420800000000000000
+      internalID: 2594322929615253870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8539bb7e2e582c0800000000000000
+      internalID: -4429885173536696117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 7
+        width: 104
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a32917a5206c00800000000000000
+      internalID: 891754125830891958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817750e40359d9660800000000000000
+      internalID: 7394230197912172312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 56
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65de12239808c510800000000000000
+      internalID: 1569513898164278636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 187
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b0f367d4addcf0800000000000000
+      internalID: -225843161297013916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3fe0b6ec85e620800000000000000
+      internalID: 2802801265546837846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 22
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2089c449421ebc0800000000000000
+      internalID: -3755680394891492664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567e7c2dec662170800000000000000
+      internalID: 8153323941310395998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapUrsaMajor_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad071e19da3b4e0800000000000000
+      internalID: -1967037770166641999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

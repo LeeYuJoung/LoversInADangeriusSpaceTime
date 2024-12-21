@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 8c9827d30ccf42f42b1ad1ca54bd223a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4344466707657254535
+    second: MissileWalker_Tex_0
+  - first:
+      213: 4532726363226634130
+    second: MissileWalker_Tex_1
+  - first:
+      213: 7346063156975580466
+    second: MissileWalker_Tex_2
+  - first:
+      213: -456087968237740136
+    second: MissileWalker_Tex_3
+  - first:
+      213: 4360332938966044252
+    second: MissileWalker_Tex_4
+  - first:
+      213: 3398398772741534596
+    second: MissileWalker_Tex_5
+  - first:
+      213: 6945238859454021984
+    second: MissileWalker_Tex_6
+  - first:
+      213: 3780780150830441214
+    second: MissileWalker_Tex_7
+  - first:
+      213: 6371486645035838481
+    second: MissileWalker_Tex_8
+  - first:
+      213: -2306454079793431866
+    second: MissileWalker_Tex_9
+  - first:
+      213: -6206086637347686795
+    second: MissileWalker_Tex_10
+  - first:
+      213: 1164661649407648351
+    second: MissileWalker_Tex_11
+  - first:
+      213: 5677625379830501694
+    second: MissileWalker_Tex_12
+  - first:
+      213: 3924882068783294432
+    second: MissileWalker_Tex_13
+  - first:
+      213: 4112293514487100847
+    second: MissileWalker_Tex_14
+  - first:
+      213: -8877291723612611390
+    second: MissileWalker_Tex_15
+  - first:
+      213: -5912075063566518770
+    second: MissileWalker_Tex_16
+  - first:
+      213: 7869039291348850370
+    second: MissileWalker_Tex_17
+  - first:
+      213: -4245647885534737063
+    second: MissileWalker_Tex_18
+  - first:
+      213: 2194339953128628351
+    second: MissileWalker_Tex_19
+  - first:
+      213: 1232708056768778160
+    second: MissileWalker_Tex_20
+  - first:
+      213: 4578726605294480511
+    second: MissileWalker_Tex_21
+  - first:
+      213: -3250189463780682482
+    second: MissileWalker_Tex_22
+  - first:
+      213: 6194236943777045690
+    second: MissileWalker_Tex_23
+  - first:
+      213: 8211667251327259277
+    second: MissileWalker_Tex_24
+  - first:
+      213: -5340605417123295530
+    second: MissileWalker_Tex_25
+  - first:
+      213: 4436634672747075031
+    second: MissileWalker_Tex_26
+  - first:
+      213: 3534798847321533524
+    second: MissileWalker_Tex_27
+  - first:
+      213: 3900507952435747116
+    second: MissileWalker_Tex_28
+  - first:
+      213: 3391188587614733036
+    second: MissileWalker_Tex_29
+  - first:
+      213: -4787625974141020066
+    second: MissileWalker_Tex_30
+  - first:
+      213: -3475622266541411760
+    second: MissileWalker_Tex_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MissileWalker_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 709
+        width: 277
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786eb60e375aa4c30800000000000000
+      internalID: 4344466707657254535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 825
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297fb28ac9a77ee30800000000000000
+      internalID: 4532726363226634130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 709
+        width: 277
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353d19258572f560800000000000000
+      internalID: 7346063156975580466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 825
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f1cdac866aba9f0800000000000000
+      internalID: -456087968237740136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 737
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e8189b4b3038c30800000000000000
+      internalID: 4360332938966044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 735
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f166ada9892f20800000000000000
+      internalID: 3398398772741534596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 737
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0610ff9f1f1726060800000000000000
+      internalID: 6945238859454021984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 735
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a8180487087430800000000000000
+      internalID: 3780780150830441214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca18898511c6850800000000000000
+      internalID: 6371486645035838481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca792b0c34ddffd0800000000000000
+      internalID: -2306454079793431866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b797a51d8fd9a0800000000000000
+      internalID: -6206086637347686795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a6787995b92010800000000000000
+      internalID: 1164661649407648351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311a8c933aface40800000000000000
+      internalID: 5677625379830501694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7e027527bf77630800000000000000
+      internalID: 3924882068783294432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5752fd92dc11930800000000000000
+      internalID: 4112293514487100847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 535
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc1e8616368dc480800000000000000
+      internalID: -8877291723612611390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 197
+        width: 277
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063cae9d0714fda0800000000000000
+      internalID: -5912075063566518770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 313
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c690742b81743d60800000000000000
+      internalID: 7869039291348850370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 197
+        width: 277
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d40551ebd6415c0800000000000000
+      internalID: -4245647885534737063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 313
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70edaeaf8cd37e10800000000000000
+      internalID: 2194339953128628351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 225
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf077b42757b1110800000000000000
+      internalID: 1232708056768778160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 223
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c2530a697ea8f30800000000000000
+      internalID: 4578726605294480511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 225
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0592a627e105e2d0800000000000000
+      internalID: -3250189463780682482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 223
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc9e609ea956f550800000000000000
+      internalID: 6194236943777045690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82d1199bd3b5f170800000000000000
+      internalID: 8211667251327259277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec6da3bab52e5b0800000000000000
+      internalID: -5340605417123295530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d555438ab7129d30800000000000000
+      internalID: 4436634672747075031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c6f0fc2d02e0130800000000000000
+      internalID: 3534798847321533524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29d4842153612630800000000000000
+      internalID: 3900507952435747116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2822b9d0cef0f20800000000000000
+      internalID: 3391188587614733036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5814edda8fee8db0800000000000000
+      internalID: -4787625974141020066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileWalker_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 23
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0527c5596fb14cfc0800000000000000
+      internalID: -3475622266541411760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

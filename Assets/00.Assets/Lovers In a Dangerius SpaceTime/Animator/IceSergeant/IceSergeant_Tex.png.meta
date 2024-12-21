@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: 98bb4dc3a7b48674fb5aeaebec6f88bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4892176775187294737
+    second: IceSergeant_Tex_0
+  - first:
+      213: -7402364651389253012
+    second: IceSergeant_Tex_1
+  - first:
+      213: 1429689396873932058
+    second: IceSergeant_Tex_2
+  - first:
+      213: 7202476225079446348
+    second: IceSergeant_Tex_3
+  - first:
+      213: -4119922977845180844
+    second: IceSergeant_Tex_4
+  - first:
+      213: 4773325278987426389
+    second: IceSergeant_Tex_5
+  - first:
+      213: 5466437654291175254
+    second: IceSergeant_Tex_6
+  - first:
+      213: 6588343852212196752
+    second: IceSergeant_Tex_7
+  - first:
+      213: 7339231075197849746
+    second: IceSergeant_Tex_8
+  - first:
+      213: 1858980679374119378
+    second: IceSergeant_Tex_9
+  - first:
+      213: -7997704107970678948
+    second: IceSergeant_Tex_10
+  - first:
+      213: 6462917256724316893
+    second: IceSergeant_Tex_11
+  - first:
+      213: 1581865919045536740
+    second: IceSergeant_Tex_12
+  - first:
+      213: -7442568120687783299
+    second: IceSergeant_Tex_13
+  - first:
+      213: -801686395626730346
+    second: IceSergeant_Tex_14
+  - first:
+      213: 4692059450587625536
+    second: IceSergeant_Tex_15
+  - first:
+      213: -1612708182725602203
+    second: IceSergeant_Tex_16
+  - first:
+      213: -352459518370768830
+    second: IceSergeant_Tex_17
+  - first:
+      213: -1403976554983341275
+    second: IceSergeant_Tex_18
+  - first:
+      213: 4365022525362490391
+    second: IceSergeant_Tex_19
+  - first:
+      213: 6599048316720036526
+    second: IceSergeant_Tex_20
+  - first:
+      213: 8746873636844458206
+    second: IceSergeant_Tex_21
+  - first:
+      213: 429233407775494137
+    second: IceSergeant_Tex_22
+  - first:
+      213: -6668653364497762685
+    second: IceSergeant_Tex_23
+  - first:
+      213: -3748868928861800915
+    second: IceSergeant_Tex_24
+  - first:
+      213: -217149266377358205
+    second: IceSergeant_Tex_25
+  - first:
+      213: -8226501780321508116
+    second: IceSergeant_Tex_26
+  - first:
+      213: -6056649316418325844
+    second: IceSergeant_Tex_27
+  - first:
+      213: -4458880561237609138
+    second: IceSergeant_Tex_28
+  - first:
+      213: -8810018233335497742
+    second: IceSergeant_Tex_29
+  - first:
+      213: -3520619713284867731
+    second: IceSergeant_Tex_30
+  - first:
+      213: -6596885576401517930
+    second: IceSergeant_Tex_31
+  - first:
+      213: 3334198719245818007
+    second: IceSergeant_Tex_32
+  - first:
+      213: -8045734724536165691
+    second: IceSergeant_Tex_33
+  - first:
+      213: 4849681969832480802
+    second: IceSergeant_Tex_34
+  - first:
+      213: -7920380661441760796
+    second: IceSergeant_Tex_35
+  - first:
+      213: 7085580351734816264
+    second: IceSergeant_Tex_36
+  - first:
+      213: 1787448044042517329
+    second: IceSergeant_Tex_37
+  - first:
+      213: -2852625810181279751
+    second: IceSergeant_Tex_38
+  - first:
+      213: 6675724713948175608
+    second: IceSergeant_Tex_39
+  - first:
+      213: -7231924210983178076
+    second: IceSergeant_Tex_40
+  - first:
+      213: 7576785789197228670
+    second: IceSergeant_Tex_41
+  - first:
+      213: -3866881500701960635
+    second: IceSergeant_Tex_42
+  - first:
+      213: -3970972638635512481
+    second: IceSergeant_Tex_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceSergeant_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a647f6bd084e340800000000000000
+      internalID: 4892176775187294737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 865
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0908a194854990800000000000000
+      internalID: -7402364651389253012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 850
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d20df7ee647d310800000000000000
+      internalID: 1429689396873932058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 960
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b8e0367f554f360800000000000000
+      internalID: 7202476225079446348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 865
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456819341e713d6c0800000000000000
+      internalID: -4119922977845180844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 850
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a10731d024e3240800000000000000
+      internalID: 4773325278987426389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 919
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65758da8510bcdb40800000000000000
+      internalID: 5466437654291175254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 919
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0959c39b3df7e6b50800000000000000
+      internalID: 6588343852212196752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901da927cf2ad560800000000000000
+      internalID: 7339231075197849746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1a86e141d6cc910800000000000000
+      internalID: 1858980679374119378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa9b9cc72720190800000000000000
+      internalID: -7997704107970678948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd28bc3c005e0b950800000000000000
+      internalID: 6462917256724316893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb810b1caae3f510800000000000000
+      internalID: 1581865919045536740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 715
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7212c50abfa6b890800000000000000
+      internalID: -7442568120687783299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc76f7876dfd4f0800000000000000
+      internalID: -801686395626730346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483a41f53b8d1140800000000000000
+      internalID: 4692059450587625536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564564ac3728e99e0800000000000000
+      internalID: -1612708182725602203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 538
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481ec97fefcb1bf0800000000000000
+      internalID: -352459518370768830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523cd3703c2148ce0800000000000000
+      internalID: -1403976554983341275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4fc42cdca39c30800000000000000
+      internalID: 4365022525362490391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 554
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaabcb51b77849b50800000000000000
+      internalID: 6599048316720036526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 538
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d753da33236970800000000000000
+      internalID: 8746873636844458206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff403c9281f4f500800000000000000
+      internalID: 429233407775494137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 353
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b5e6d81f2473a0800000000000000
+      internalID: -6668653364497762685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 338
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2671b1529759fbc0800000000000000
+      internalID: -3748868928861800915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 448
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384475a84e78cfcf0800000000000000
+      internalID: -217149266377358205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 353
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce461d7773895dd80800000000000000
+      internalID: -8226501780321508116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 338
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f5c5498572fba0800000000000000
+      internalID: -6056649316418325844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 407
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b983f0cfde12c0800000000000000
+      internalID: -4458880561237609138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 407
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb25128178cb580800000000000000
+      internalID: -8810018233335497742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69fa68160f342fc0800000000000000
+      internalID: -3520619713284867731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69280b225872374a0800000000000000
+      internalID: -6596885576401517930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798953fd114754e20800000000000000
+      internalID: 3334198719245818007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca1ffa65eec75090800000000000000
+      internalID: -8045734724536165691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205b7d8e088d4340800000000000000
+      internalID: 4849681969832480802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 203
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f3ec90c7251290800000000000000
+      internalID: -7920380661441760796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e14a4f9c9055260800000000000000
+      internalID: 7085580351734816264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bfe97968a4ec810800000000000000
+      internalID: 1787448044042517329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa80380ff6968d0800000000000000
+      internalID: -2852625810181279751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 26
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5d210240f4ac50800000000000000
+      internalID: 6675724713948175608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0fcc91f3b03ab90800000000000000
+      internalID: -7231924210983178076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a14502886262960800000000000000
+      internalID: 7576785789197228670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 42
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546512243c3165ac0800000000000000
+      internalID: -3866881500701960635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceSergeant_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 26
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da55d9c6544e8c0800000000000000
+      internalID: -3970972638635512481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

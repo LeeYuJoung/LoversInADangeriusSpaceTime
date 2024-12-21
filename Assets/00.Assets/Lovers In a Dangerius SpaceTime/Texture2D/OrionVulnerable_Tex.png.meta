@@ -1,0 +1,1830 @@
+fileFormatVersion: 2
+guid: ef375340e3f2d4e4dbc50130656abdf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6582536892019692869
+    second: OrionVulnerable_Tex_0
+  - first:
+      213: -6493846350205248284
+    second: OrionVulnerable_Tex_1
+  - first:
+      213: -233538375205436197
+    second: OrionVulnerable_Tex_2
+  - first:
+      213: 3200578410854228394
+    second: OrionVulnerable_Tex_3
+  - first:
+      213: -5551104939087561790
+    second: OrionVulnerable_Tex_4
+  - first:
+      213: -880938274089479198
+    second: OrionVulnerable_Tex_5
+  - first:
+      213: 8504415452651874180
+    second: OrionVulnerable_Tex_6
+  - first:
+      213: 5924978597493824939
+    second: OrionVulnerable_Tex_7
+  - first:
+      213: -1777192029771495142
+    second: OrionVulnerable_Tex_8
+  - first:
+      213: -6822379156487110966
+    second: OrionVulnerable_Tex_9
+  - first:
+      213: -1945692443851269824
+    second: OrionVulnerable_Tex_10
+  - first:
+      213: 7176746920760778518
+    second: OrionVulnerable_Tex_11
+  - first:
+      213: -6469043784867854266
+    second: OrionVulnerable_Tex_12
+  - first:
+      213: -1078095400899396097
+    second: OrionVulnerable_Tex_13
+  - first:
+      213: -5136834774365716877
+    second: OrionVulnerable_Tex_14
+  - first:
+      213: -3660513463739060238
+    second: OrionVulnerable_Tex_15
+  - first:
+      213: 7334487370506128447
+    second: OrionVulnerable_Tex_16
+  - first:
+      213: 5032151003464683578
+    second: OrionVulnerable_Tex_17
+  - first:
+      213: -264775991802714595
+    second: OrionVulnerable_Tex_18
+  - first:
+      213: 1722512082902974470
+    second: OrionVulnerable_Tex_19
+  - first:
+      213: -6523714558923921516
+    second: OrionVulnerable_Tex_20
+  - first:
+      213: -525829019424578936
+    second: OrionVulnerable_Tex_21
+  - first:
+      213: 1732056360163786646
+    second: OrionVulnerable_Tex_22
+  - first:
+      213: 9000175553283121184
+    second: OrionVulnerable_Tex_23
+  - first:
+      213: -140658316778178522
+    second: OrionVulnerable_Tex_24
+  - first:
+      213: -4779521025899706568
+    second: OrionVulnerable_Tex_25
+  - first:
+      213: -7074034044238055600
+    second: OrionVulnerable_Tex_26
+  - first:
+      213: -2690309181302004679
+    second: OrionVulnerable_Tex_27
+  - first:
+      213: -6913536396834807541
+    second: OrionVulnerable_Tex_28
+  - first:
+      213: -7410971758236263211
+    second: OrionVulnerable_Tex_29
+  - first:
+      213: 3366636807020855574
+    second: OrionVulnerable_Tex_30
+  - first:
+      213: 2622840221432837919
+    second: OrionVulnerable_Tex_31
+  - first:
+      213: 4541955299376722569
+    second: OrionVulnerable_Tex_32
+  - first:
+      213: -4884732686861383352
+    second: OrionVulnerable_Tex_33
+  - first:
+      213: 6461679414904384380
+    second: OrionVulnerable_Tex_34
+  - first:
+      213: -35263169344978988
+    second: OrionVulnerable_Tex_35
+  - first:
+      213: -8174107850720692540
+    second: OrionVulnerable_Tex_36
+  - first:
+      213: -1878573289782352350
+    second: OrionVulnerable_Tex_37
+  - first:
+      213: -8378727397080635958
+    second: OrionVulnerable_Tex_38
+  - first:
+      213: -3417003503362553071
+    second: OrionVulnerable_Tex_39
+  - first:
+      213: 5898289414971518100
+    second: OrionVulnerable_Tex_40
+  - first:
+      213: -7292532176649578013
+    second: OrionVulnerable_Tex_41
+  - first:
+      213: -1211450297895897856
+    second: OrionVulnerable_Tex_42
+  - first:
+      213: 5017728441518095813
+    second: OrionVulnerable_Tex_43
+  - first:
+      213: -4612161719954873013
+    second: OrionVulnerable_Tex_44
+  - first:
+      213: 3353721506337580774
+    second: OrionVulnerable_Tex_45
+  - first:
+      213: -1456654998387471619
+    second: OrionVulnerable_Tex_46
+  - first:
+      213: 7448173737396306801
+    second: OrionVulnerable_Tex_47
+  - first:
+      213: -2733429993051333306
+    second: OrionVulnerable_Tex_48
+  - first:
+      213: 9034536745670800008
+    second: OrionVulnerable_Tex_49
+  - first:
+      213: 221726395277837455
+    second: OrionVulnerable_Tex_50
+  - first:
+      213: -7394189999038487278
+    second: OrionVulnerable_Tex_51
+  - first:
+      213: -7256275988266785946
+    second: OrionVulnerable_Tex_52
+  - first:
+      213: -8837283758461285573
+    second: OrionVulnerable_Tex_53
+  - first:
+      213: 6450512928829482815
+    second: OrionVulnerable_Tex_54
+  - first:
+      213: -5783840245918881922
+    second: OrionVulnerable_Tex_55
+  - first:
+      213: 2816175101954168333
+    second: OrionVulnerable_Tex_56
+  - first:
+      213: -6302698440438188339
+    second: OrionVulnerable_Tex_57
+  - first:
+      213: -2977714713545544451
+    second: OrionVulnerable_Tex_58
+  - first:
+      213: -4815032922201496797
+    second: OrionVulnerable_Tex_59
+  - first:
+      213: -2234068487015757219
+    second: OrionVulnerable_Tex_60
+  - first:
+      213: 4180646643312393491
+    second: OrionVulnerable_Tex_61
+  - first:
+      213: -3322772176039607263
+    second: OrionVulnerable_Tex_62
+  - first:
+      213: 5985100118213651940
+    second: OrionVulnerable_Tex_63
+  - first:
+      213: -304783716215689861
+    second: OrionVulnerable_Tex_64
+  - first:
+      213: -2277615116532636925
+    second: OrionVulnerable_Tex_65
+  - first:
+      213: 1439872319089748839
+    second: OrionVulnerable_Tex_66
+  - first:
+      213: -1444919935271100419
+    second: OrionVulnerable_Tex_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1787
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545dcb17d6ed95b50800000000000000
+      internalID: 6582536892019692869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1742
+        width: 439
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9c0e762931e5a0800000000000000
+      internalID: -6493846350205248284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1749
+        width: 122
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44578c51e42ccf0800000000000000
+      internalID: -233538375205436197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1785
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa120c67b1dba6c20800000000000000
+      internalID: 3200578410854228394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1787
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf4ca087386f2b0800000000000000
+      internalID: -5551104939087561790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1742
+        width: 439
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d9df9e4746c3f0800000000000000
+      internalID: -880938274089479198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1749
+        width: 122
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48768adbbc0c50670800000000000000
+      internalID: 8504415452651874180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1785
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad596d74a0c93250800000000000000
+      internalID: 5924978597493824939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1660
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1980dfc3452657e0800000000000000
+      internalID: -1777192029771495142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1709
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7e8ebd4a0251a0800000000000000
+      internalID: -6822379156487110966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1535
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495512f7038ff4e0800000000000000
+      internalID: -1945692443851269824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1663
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f13d6ec4de89360800000000000000
+      internalID: 7176746920760778518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1660
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c08eb3f65936a0800000000000000
+      internalID: -6469043784867854266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1709
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb863e1f5d901f0800000000000000
+      internalID: -1078095400899396097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1535
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ebe042dfb46b8b0800000000000000
+      internalID: -5136834774365716877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1663
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6c42266e333dc0800000000000000
+      internalID: -3660513463739060238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1551
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c4b98576559c560800000000000000
+      internalID: 7334487370506128447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1510
+        width: 175
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3053a91daac5d540800000000000000
+      internalID: 5032151003464683578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1452
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d162c8763a3535cf0800000000000000
+      internalID: -264775991802714595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1551
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60000c6fc9797e710800000000000000
+      internalID: 1722512082902974470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1510
+        width: 175
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ab4b3c2c1775a0800000000000000
+      internalID: -6523714558923921516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1452
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8822b94fa41e3b8f0800000000000000
+      internalID: -525829019424578936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1433
+        width: 409
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb48e2510890810800000000000000
+      internalID: 1732056360163786646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1397
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02068911bfb07ec70800000000000000
+      internalID: 9000175553283121184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1406
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287bb191084c0ef0800000000000000
+      internalID: -140658316778178522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1433
+        width: 409
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ccbe23fabbadb0800000000000000
+      internalID: -4779521025899706568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1397
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057bb20448bf3dd90800000000000000
+      internalID: -7074034044238055600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1406
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a580bd0a1aaad0800000000000000
+      internalID: -2690309181302004679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1220
+        width: 407
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016decc64f2e00a0800000000000000
+      internalID: -6913536396834807541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1259
+        width: 275
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc10ed6370f62990800000000000000
+      internalID: -7410971758236263211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1220
+        width: 407
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611cb3ab652b8be20800000000000000
+      internalID: 3366636807020855574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1259
+        width: 275
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f177c15f843366420800000000000000
+      internalID: 2622840221432837919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1079
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9827d0dc744480f30800000000000000
+      internalID: 4541955299376722569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1079
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84943e07081f53cb0800000000000000
+      internalID: -4884732686861383352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 763
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b64d1413f7ca950800000000000000
+      internalID: 6461679414904384380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 718
+        width: 439
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb9859558b28ff0800000000000000
+      internalID: -35263169344978988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 725
+        width: 122
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6bf02d73cbf8e80800000000000000
+      internalID: -8174107850720692540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 761
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2266cf9cb87fde5e0800000000000000
+      internalID: -1878573289782352350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 763
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5ec2323d7c8bb80800000000000000
+      internalID: -8378727397080635958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 718
+        width: 439
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b4fc1fa6d5490d0800000000000000
+      internalID: -3417003503362553071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 725
+        width: 122
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce2d1f8feead150800000000000000
+      internalID: 5898289414971518100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 761
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e912b17f98bbca90800000000000000
+      internalID: -7292532176649578013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 636
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005bfd26f50103fe0800000000000000
+      internalID: -1211450297895897856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 685
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7f08be6d82a540800000000000000
+      internalID: 5017728441518095813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 511
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456f6b1a5f4effb0800000000000000
+      internalID: -4612161719954873013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 639
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6e6d4f0ffca8e20800000000000000
+      internalID: 3353721506337580774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 636
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa41d42ffbe8cbe0800000000000000
+      internalID: -1456654998387471619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 685
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17386e25d8a3d5760800000000000000
+      internalID: 7448173737396306801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 511
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dd6c557e7e01ad0800000000000000
+      internalID: -2733429993051333306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 639
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fbeb9d4f116d70800000000000000
+      internalID: 9034536745670800008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 527
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f840dd35bfab31300800000000000000
+      internalID: 221726395277837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 486
+        width: 175
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a0993f5f826990800000000000000
+      internalID: -7394189999038487278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_52
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 428
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663692f1f678c4b90800000000000000
+      internalID: -7256275988266785946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_53
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 527
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b069d5e39ab5580800000000000000
+      internalID: -8837283758461285573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_54
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 486
+        width: 175
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3722fd1553d48950800000000000000
+      internalID: 6450512928829482815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_55
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 428
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77a560c0fbabbfa0800000000000000
+      internalID: -5783840245918881922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_56
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 409
+        width: 409
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d061741a550151720800000000000000
+      internalID: 2816175101954168333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_57
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 373
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f54b59215888a0800000000000000
+      internalID: -6302698440438188339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_58
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 382
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce9a0ae380da6d0800000000000000
+      internalID: -2977714713545544451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_59
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 409
+        width: 409
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3236e5281119d2db0800000000000000
+      internalID: -4815032922201496797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_60
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 373
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a08833c8efef0e0800000000000000
+      internalID: -2234068487015757219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_61
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 382
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d701ad8f3a40a30800000000000000
+      internalID: 4180646643312393491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 196
+        width: 407
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248b998f4423e1d0800000000000000
+      internalID: -3322772176039607263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_63
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 235
+        width: 275
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ede54bd8d85f0350800000000000000
+      internalID: 5985100118213651940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_64
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 196
+        width: 407
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de3ad23d035cbf0800000000000000
+      internalID: -304783716215689861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_65
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 235
+        width: 275
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303230c6e194460e0800000000000000
+      internalID: -2277615116532636925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_66
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 55
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2345de347bf310800000000000000
+      internalID: 1439872319089748839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrionVulnerable_Tex_67
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 55
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff194179fc92fbe0800000000000000
+      internalID: -1444919935271100419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

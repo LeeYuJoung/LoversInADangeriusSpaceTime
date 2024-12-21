@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 0eda9d0eee1f1bc4aaeb0a00821af2f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2691710702485111447
+    second: Bomber_Tex_0
+  - first:
+      213: -9091457011219875979
+    second: Bomber_Tex_1
+  - first:
+      213: -7028288899448899200
+    second: Bomber_Tex_2
+  - first:
+      213: 8040342689144447621
+    second: Bomber_Tex_3
+  - first:
+      213: 6147819323340599547
+    second: Bomber_Tex_4
+  - first:
+      213: -2224321191275739304
+    second: Bomber_Tex_5
+  - first:
+      213: 7041489570990466377
+    second: Bomber_Tex_6
+  - first:
+      213: -2248923869901639941
+    second: Bomber_Tex_7
+  - first:
+      213: 9046106289311975912
+    second: Bomber_Tex_8
+  - first:
+      213: -1504084431565449020
+    second: Bomber_Tex_9
+  - first:
+      213: 5801426091513805287
+    second: Bomber_Tex_10
+  - first:
+      213: 1648677451568043757
+    second: Bomber_Tex_11
+  - first:
+      213: -7463627055345914027
+    second: Bomber_Tex_12
+  - first:
+      213: -3502780022571253550
+    second: Bomber_Tex_13
+  - first:
+      213: 7799434003729457258
+    second: Bomber_Tex_14
+  - first:
+      213: 1881840749550903354
+    second: Bomber_Tex_15
+  - first:
+      213: -8755438644995747502
+    second: Bomber_Tex_16
+  - first:
+      213: 3102813830098575158
+    second: Bomber_Tex_17
+  - first:
+      213: 2852358134358581185
+    second: Bomber_Tex_18
+  - first:
+      213: -7389315568699990646
+    second: Bomber_Tex_19
+  - first:
+      213: -9127884227317589871
+    second: Bomber_Tex_20
+  - first:
+      213: -1187952400580194869
+    second: Bomber_Tex_21
+  - first:
+      213: 5971908921618367540
+    second: Bomber_Tex_22
+  - first:
+      213: 8468681456542161157
+    second: Bomber_Tex_23
+  - first:
+      213: 1864302620240530736
+    second: Bomber_Tex_24
+  - first:
+      213: 4309084044118088491
+    second: Bomber_Tex_25
+  - first:
+      213: 7013994106630342418
+    second: Bomber_Tex_26
+  - first:
+      213: 7667229637836074796
+    second: Bomber_Tex_27
+  - first:
+      213: -7619816330306703678
+    second: Bomber_Tex_28
+  - first:
+      213: -731098613088322608
+    second: Bomber_Tex_29
+  - first:
+      213: -6492440584889464846
+    second: Bomber_Tex_30
+  - first:
+      213: -7463609148881614479
+    second: Bomber_Tex_31
+  - first:
+      213: -1912972280491006434
+    second: Bomber_Tex_32
+  - first:
+      213: 5725903732062925288
+    second: Bomber_Tex_33
+  - first:
+      213: -3129005390511765166
+    second: Bomber_Tex_34
+  - first:
+      213: 817361470440851746
+    second: Bomber_Tex_35
+  - first:
+      213: 6361421414777689645
+    second: Bomber_Tex_36
+  - first:
+      213: -6626011067010646688
+    second: Bomber_Tex_37
+  - first:
+      213: -5613088976866776843
+    second: Bomber_Tex_38
+  - first:
+      213: -6932125502569342873
+    second: Bomber_Tex_39
+  - first:
+      213: -8184524909610644922
+    second: Bomber_Tex_40
+  - first:
+      213: -5421514232891767870
+    second: Bomber_Tex_41
+  - first:
+      213: -8800878509101085955
+    second: Bomber_Tex_42
+  - first:
+      213: -9190477512734713446
+    second: Bomber_Tex_43
+  - first:
+      213: 7154428180876464546
+    second: Bomber_Tex_44
+  - first:
+      213: 6645145379588201097
+    second: Bomber_Tex_45
+  - first:
+      213: -181159023714935147
+    second: Bomber_Tex_46
+  - first:
+      213: 6394142486283514819
+    second: Bomber_Tex_47
+  - first:
+      213: 4606694349938966265
+    second: Bomber_Tex_48
+  - first:
+      213: -8342863199737815819
+    second: Bomber_Tex_49
+  - first:
+      213: 563880593765498351
+    second: Bomber_Tex_50
+  - first:
+      213: -9074307411314353882
+    second: Bomber_Tex_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomber_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 762
+        width: 266
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920eb36f90ea5520800000000000000
+      internalID: 2691710702485111447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 870
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57731835408a4d180800000000000000
+      internalID: -9091457011219875979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 762
+        width: 266
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f681cb70867e90800000000000000
+      internalID: -7028288899448899200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 870
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822dd28319059f60800000000000000
+      internalID: 8040342689144447621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 623
+        width: 317
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0bffe1a11715550800000000000000
+      internalID: 6147819323340599547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 722
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c2a759af9121e0800000000000000
+      internalID: -2224321191275739304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 623
+        width: 317
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452188157568b160800000000000000
+      internalID: 7041489570990466377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 722
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfead97d7a73ac0e0800000000000000
+      internalID: -2248923869901639941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e90ed6edb93a8d70800000000000000
+      internalID: 9046106289311975912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c89850bd2b602be0800000000000000
+      internalID: -1504084431565449020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 529
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9fc5ffa4ec28050800000000000000
+      internalID: 5801426091513805287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d8e9386741e610800000000000000
+      internalID: 1648677451568043757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fac16bcbedb6890800000000000000
+      internalID: -7463627055345914027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d04e44c020a36fc0800000000000000
+      internalID: -3502780022571253550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a56937e72d3c60800000000000000
+      internalID: 7799434003729457258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3026d8f034ad1a10800000000000000
+      internalID: 1881840749550903354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2511d40d0fe6e7680800000000000000
+      internalID: -8755438644995747502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 552
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd1333db86f0b20800000000000000
+      internalID: 3102813830098575158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 529
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf93aa5c9c959720800000000000000
+      internalID: 2852358134358581185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9f5af3a0e37990800000000000000
+      internalID: -7389315568699990646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19818d728ad335180800000000000000
+      internalID: -9127884227317589871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4851f59b838fe0800000000000000
+      internalID: -1187952400580194869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 563
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348c00168b70e250800000000000000
+      internalID: 5971908921618367540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509122d6aecc68570800000000000000
+      internalID: 8468681456542161157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_24
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 563
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d44490b555fd910800000000000000
+      internalID: 1864302620240530736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 552
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b56fc8b11fccb30800000000000000
+      internalID: 4309084044118088491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 250
+        width: 266
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217826e6a76b65160800000000000000
+      internalID: 7013994106630342418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 358
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fe09e9bb8776a60800000000000000
+      internalID: 7667229637836074796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 250
+        width: 266
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce295a4b69f04690800000000000000
+      internalID: -7619816330306703678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_29
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 358
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbf6175fad9ad5f0800000000000000
+      internalID: -731098613088322608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 317
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7855cbfa736e5a0800000000000000
+      internalID: -6492440584889464846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 210
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1794e82e50feb6890800000000000000
+      internalID: -7463609148881614479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 111
+        width: 317
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e162a24a8d1c375e0800000000000000
+      internalID: -1912972280491006434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 210
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b1bf6b1f767f40800000000000000
+      internalID: 5725903732062925288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259834eec2a8394d0800000000000000
+      internalID: -3129005390511765166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_35
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229c7b24de9d75b00800000000000000
+      internalID: 817361470440851746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26136e821f484850800000000000000
+      internalID: 6361421414777689645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df5096a0eab04a0800000000000000
+      internalID: -6626011067010646688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e131a05d4a12b0800000000000000
+      internalID: -5613088976866776843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689de855942ccf90800000000000000
+      internalID: -6932125502569342873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a425b45f9ba6e80800000000000000
+      internalID: -8184524909610644922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c303c39789e2c4b0800000000000000
+      internalID: -5421514232891767870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa09a100affcd580800000000000000
+      internalID: -8800878509101085955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 40
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995b39356dd47080800000000000000
+      internalID: -9190477512734713446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_44
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 17
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a19f245682a94360800000000000000
+      internalID: 7154428180876464546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_45
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ade27e38c483c50800000000000000
+      internalID: 6645145379588201097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_46
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e5d97e3d46c7df0800000000000000
+      internalID: -181159023714935147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_47
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c37922b6be8cb850800000000000000
+      internalID: 6394142486283514819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_48
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 51
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe39ec9a144eef30800000000000000
+      internalID: 4606694349938966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd2f94f12383c80800000000000000
+      internalID: -8342863199737815819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_50
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf027996e43d700800000000000000
+      internalID: 563880593765498351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_Tex_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 40
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d9e5bc75911280800000000000000
+      internalID: -9074307411314353882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
