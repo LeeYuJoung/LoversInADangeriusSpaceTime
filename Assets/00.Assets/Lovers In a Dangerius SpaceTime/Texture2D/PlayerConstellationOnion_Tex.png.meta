@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationOnion_Tex_0: 8834982275677852788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

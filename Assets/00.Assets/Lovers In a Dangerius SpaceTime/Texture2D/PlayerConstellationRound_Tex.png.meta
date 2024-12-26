@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationRound_Tex_0: 7486632424420926428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapBoulderCapsuleOutline_Tex_0: 3939472817083662161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

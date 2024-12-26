@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WarpTriggerRainbow_Tex_0: -1389695814796841299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

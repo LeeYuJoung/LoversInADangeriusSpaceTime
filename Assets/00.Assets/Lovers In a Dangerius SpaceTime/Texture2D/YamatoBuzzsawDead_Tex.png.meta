@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoBuzzsawDead_Tex_0: 3806387750342638106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

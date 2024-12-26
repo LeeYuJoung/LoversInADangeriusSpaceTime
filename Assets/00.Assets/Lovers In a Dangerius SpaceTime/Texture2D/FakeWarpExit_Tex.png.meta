@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FakeWarpExit_Tex_0: -7386643539671751064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

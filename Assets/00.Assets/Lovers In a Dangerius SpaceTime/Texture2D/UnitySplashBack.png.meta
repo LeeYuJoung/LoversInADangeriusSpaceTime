@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UnitySplashBack_0: 8389628544438052688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UrsaMajorConstellation_Tex_0: -2036778625698802415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

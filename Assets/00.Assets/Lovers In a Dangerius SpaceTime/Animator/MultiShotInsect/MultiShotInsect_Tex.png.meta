@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MultiShotInsect_Tex_0: -4245213148671294308
+      MultiShotInsect_Tex_1: 977088347077478124
+      MultiShotInsect_Tex_10: 2914799092661946648
+      MultiShotInsect_Tex_2: 8195074665961616078
+      MultiShotInsect_Tex_3: -7028311155379648452
+      MultiShotInsect_Tex_4: 8655052585457916331
+      MultiShotInsect_Tex_5: 2482815866133019104
+      MultiShotInsect_Tex_6: 540003458506840614
+      MultiShotInsect_Tex_7: 8854177952836643817
+      MultiShotInsect_Tex_8: 5136331724277877067
+      MultiShotInsect_Tex_9: -2042823977006422303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

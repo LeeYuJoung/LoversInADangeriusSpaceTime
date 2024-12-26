@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendFrog_Tex_0: -4777259623153580539
+      FriendFrog_Tex_1: 4281562430331704590
+      FriendFrog_Tex_2: 820272093633152845
+      FriendFrog_Tex_3: -6386431965235164801
+      FriendFrog_Tex_4: 6169814353655397434
+      FriendFrog_Tex_5: -4887949699563195030
+      FriendFrog_Tex_6: 2238089291396969550
+      FriendFrog_Tex_7: 690376388429949754
+      FriendFrog_Tex_8: -5785727918478984191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

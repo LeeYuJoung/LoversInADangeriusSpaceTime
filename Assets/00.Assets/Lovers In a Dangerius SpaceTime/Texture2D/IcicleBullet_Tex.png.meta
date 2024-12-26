@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IcicleBullet_Tex_0: 2266292672583319357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

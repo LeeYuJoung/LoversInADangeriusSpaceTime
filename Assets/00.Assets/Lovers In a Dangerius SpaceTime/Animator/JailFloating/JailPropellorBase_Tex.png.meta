@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JailPropellorBase_Tex_0: -1795094371526279935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

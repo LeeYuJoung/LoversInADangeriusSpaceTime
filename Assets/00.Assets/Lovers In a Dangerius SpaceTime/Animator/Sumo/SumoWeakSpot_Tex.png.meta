@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SumoWeakSpot_Tex_0: 1583195008769008383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

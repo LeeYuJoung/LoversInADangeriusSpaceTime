@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JailLockdownPlane_Tex_0: 5002246843405371385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

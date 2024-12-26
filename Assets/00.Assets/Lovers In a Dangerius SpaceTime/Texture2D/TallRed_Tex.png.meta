@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TallRed_Tex_0: -4071407076117168100
+      TallRed_Tex_1: 8838972327574441935
+      TallRed_Tex_10: 5975858629583371658
+      TallRed_Tex_11: -7753107374015765776
+      TallRed_Tex_2: 7691838114218844076
+      TallRed_Tex_3: 1964796180282648001
+      TallRed_Tex_4: -6961857212897124314
+      TallRed_Tex_5: -5172370129956372052
+      TallRed_Tex_6: -7523444967211727801
+      TallRed_Tex_7: -8164539431979131180
+      TallRed_Tex_8: 9090323709777892969
+      TallRed_Tex_9: -8414082492676675541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

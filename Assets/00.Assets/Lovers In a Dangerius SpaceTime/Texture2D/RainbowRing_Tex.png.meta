@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RainbowRing_Tex_0: -3675444344725616220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StargateFrame_Tex_0: -3544776010311917361
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

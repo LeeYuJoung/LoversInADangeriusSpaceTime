@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShieldMetalBeamExtenderField_Tex_0: -7995617820148470690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

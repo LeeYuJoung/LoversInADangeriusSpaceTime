@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendFox_Tex_0: -7355441947880577483
+      FriendFox_Tex_1: 5220778438079121797
+      FriendFox_Tex_2: -100506207000566509
+      FriendFox_Tex_3: 8737755760230433917
+      FriendFox_Tex_4: 9130709199686692143
+      FriendFox_Tex_5: -5702890030276052573
+      FriendFox_Tex_6: -5334381605956657535
+      FriendFox_Tex_7: 8739560299460760133
+      FriendFox_Tex_8: -6663561416758947000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

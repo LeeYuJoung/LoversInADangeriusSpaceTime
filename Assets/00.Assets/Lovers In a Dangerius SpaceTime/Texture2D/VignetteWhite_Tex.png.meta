@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VignetteWhite_Tex_0: 8024094378088278186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EndingFriendDoctor_Tex_0: -4595376063684948928
+      EndingFriendDoctor_Tex_1: -8127490971811968260
+      EndingFriendDoctor_Tex_2: -3057620508249212432
+      EndingFriendDoctor_Tex_3: 8318130909130144071
+      EndingFriendDoctor_Tex_4: -5857565682576299550
+      EndingFriendDoctor_Tex_5: -9178091048594844987
+      EndingFriendDoctor_Tex_6: -4516383700402323424
+      EndingFriendDoctor_Tex_7: -3898333776756480596
+      EndingFriendDoctor_Tex_8: 361334637432817898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShieldMetalBeam_Tex_0: 5856145064545555931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

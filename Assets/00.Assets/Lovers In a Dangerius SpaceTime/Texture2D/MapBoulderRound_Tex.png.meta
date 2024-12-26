@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapBoulderRound_Tex_0: 8106046905159913074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

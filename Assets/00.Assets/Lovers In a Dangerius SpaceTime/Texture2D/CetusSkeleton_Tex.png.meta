@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusSkeleton_Tex_0: -5885098318145778975
+      CetusSkeleton_Tex_1: -6183016461973115716
+      CetusSkeleton_Tex_10: 6213063464818444057
+      CetusSkeleton_Tex_11: -5287728520551299379
+      CetusSkeleton_Tex_12: 3976746866440619117
+      CetusSkeleton_Tex_13: 5433674319205714578
+      CetusSkeleton_Tex_14: 3999394213959513865
+      CetusSkeleton_Tex_15: -3646966656198663678
+      CetusSkeleton_Tex_16: -1959262900116085982
+      CetusSkeleton_Tex_17: 484635874158616397
+      CetusSkeleton_Tex_18: 4764161089004521878
+      CetusSkeleton_Tex_19: 619366935978912681
+      CetusSkeleton_Tex_2: 1315604307640537564
+      CetusSkeleton_Tex_20: 1139920904705145464
+      CetusSkeleton_Tex_21: -8585257512422169537
+      CetusSkeleton_Tex_22: 9007731312465882251
+      CetusSkeleton_Tex_23: 3258236019819864199
+      CetusSkeleton_Tex_3: -8920942438555151941
+      CetusSkeleton_Tex_4: 4310779563386244998
+      CetusSkeleton_Tex_5: -246646887232888995
+      CetusSkeleton_Tex_6: -4732254145586189902
+      CetusSkeleton_Tex_7: -1421486865159361168
+      CetusSkeleton_Tex_8: -3054062629436970194
+      CetusSkeleton_Tex_9: 5022409883960804858
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

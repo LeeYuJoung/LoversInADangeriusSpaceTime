@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StarParticle_Tex_0: 5536550589132086897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

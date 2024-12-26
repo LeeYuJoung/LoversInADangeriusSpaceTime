@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendBird_Tex_0: -3680335049147907548
+      FriendBird_Tex_1: 4070669343191311490
+      FriendBird_Tex_2: -3467860882530759036
+      FriendBird_Tex_3: 1498119277902310309
+      FriendBird_Tex_4: -4174114233094749863
+      FriendBird_Tex_5: 6645264747516034211
+      FriendBird_Tex_6: 4786582960637503990
+      FriendBird_Tex_7: -3107229481394270826
+      FriendBird_Tex_8: 141675628574796562
+      FriendBird_Tex_9: 238184257723378999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

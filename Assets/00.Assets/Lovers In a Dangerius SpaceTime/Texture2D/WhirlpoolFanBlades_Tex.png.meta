@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WhirlpoolFanBlades_Tex_0: -6036633978201582882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

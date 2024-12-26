@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroBunny_Tex_0: 133913379679832915
+      IntroBunny_Tex_1: -6711584736263467962
+      IntroBunny_Tex_2: 6518538527099363004
+      IntroBunny_Tex_3: 6076712728491447759
+      IntroBunny_Tex_4: 5560425849032006059
+      IntroBunny_Tex_5: 1188094359041574023
+      IntroBunny_Tex_6: -2624166610790091887
+      IntroBunny_Tex_7: 3268853060834258077
+      IntroBunny_Tex_8: 7732224667338014784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

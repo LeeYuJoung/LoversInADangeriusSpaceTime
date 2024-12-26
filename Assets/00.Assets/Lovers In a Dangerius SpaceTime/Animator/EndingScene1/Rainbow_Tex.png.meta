@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rainbow_Tex_0: -1499517244321352650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

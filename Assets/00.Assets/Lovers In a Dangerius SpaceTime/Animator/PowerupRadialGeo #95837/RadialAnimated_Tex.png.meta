@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RadialAnimated_Tex_0: 6893270370733227826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

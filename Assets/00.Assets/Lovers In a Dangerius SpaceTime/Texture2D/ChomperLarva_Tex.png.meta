@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChomperLarva_Tex_0: -8148944152772096747
+      ChomperLarva_Tex_1: -7391469383247683938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

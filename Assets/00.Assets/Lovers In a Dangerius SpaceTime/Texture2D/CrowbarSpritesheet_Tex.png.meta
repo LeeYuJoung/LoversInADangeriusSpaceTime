@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrowbarSpritesheet_Tex_0: 1138228379156118499
+      CrowbarSpritesheet_Tex_1: -4158469139426427449
+      CrowbarSpritesheet_Tex_2: 7318773526594532977
+      CrowbarSpritesheet_Tex_3: 343680854698819686
+      CrowbarSpritesheet_Tex_4: 1179250861891391503
+      CrowbarSpritesheet_Tex_5: 4528917657198459127
+      CrowbarSpritesheet_Tex_6: -7954841211036499049
+      CrowbarSpritesheet_Tex_7: 405217881996162126
+      CrowbarSpritesheet_Tex_8: -2711642052676396173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MissileWalker_Tex_0: 4344466707657254535
+      MissileWalker_Tex_1: 4532726363226634130
+      MissileWalker_Tex_10: -6206086637347686795
+      MissileWalker_Tex_11: 1164661649407648351
+      MissileWalker_Tex_12: 5677625379830501694
+      MissileWalker_Tex_13: 3924882068783294432
+      MissileWalker_Tex_14: 4112293514487100847
+      MissileWalker_Tex_15: -8877291723612611390
+      MissileWalker_Tex_16: -5912075063566518770
+      MissileWalker_Tex_17: 7869039291348850370
+      MissileWalker_Tex_18: -4245647885534737063
+      MissileWalker_Tex_19: 2194339953128628351
+      MissileWalker_Tex_2: 7346063156975580466
+      MissileWalker_Tex_20: 1232708056768778160
+      MissileWalker_Tex_21: 4578726605294480511
+      MissileWalker_Tex_22: -3250189463780682482
+      MissileWalker_Tex_23: 6194236943777045690
+      MissileWalker_Tex_24: 8211667251327259277
+      MissileWalker_Tex_25: -5340605417123295530
+      MissileWalker_Tex_26: 4436634672747075031
+      MissileWalker_Tex_27: 3534798847321533524
+      MissileWalker_Tex_28: 3900507952435747116
+      MissileWalker_Tex_29: 3391188587614733036
+      MissileWalker_Tex_3: -456087968237740136
+      MissileWalker_Tex_30: -4787625974141020066
+      MissileWalker_Tex_31: -3475622266541411760
+      MissileWalker_Tex_4: 4360332938966044252
+      MissileWalker_Tex_5: 3398398772741534596
+      MissileWalker_Tex_6: 6945238859454021984
+      MissileWalker_Tex_7: 3780780150830441214
+      MissileWalker_Tex_8: 6371486645035838481
+      MissileWalker_Tex_9: -2306454079793431866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

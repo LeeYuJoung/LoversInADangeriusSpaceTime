@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoxRed_Tex_0: 7455752123108083665
+      FoxRed_Tex_1: -7224255555514044714
+      FoxRed_Tex_2: 5365141004952342535
+      FoxRed_Tex_3: -914088828747331115
+      FoxRed_Tex_4: -4851032170492404773
+      FoxRed_Tex_5: 4256022767392181127
+      FoxRed_Tex_6: 6787107535897092908
+      FoxRed_Tex_7: 5365189135232855439
+      FoxRed_Tex_8: -643348817067948964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

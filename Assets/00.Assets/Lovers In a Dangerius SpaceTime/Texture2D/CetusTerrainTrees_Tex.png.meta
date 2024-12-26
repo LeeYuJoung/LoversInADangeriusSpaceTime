@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusTerrainTrees_Tex_0: -7896998834731986994
+      CetusTerrainTrees_Tex_1: 3442023609624499682
+      CetusTerrainTrees_Tex_2: 3435754591506420262
+      CetusTerrainTrees_Tex_3: -1308475932467446252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

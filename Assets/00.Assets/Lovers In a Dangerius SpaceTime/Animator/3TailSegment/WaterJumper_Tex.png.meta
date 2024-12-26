@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterJumper_Tex_0: -7171716064712756281
+      WaterJumper_Tex_1: -4244784297030996147
+      WaterJumper_Tex_10: 8642849835921884846
+      WaterJumper_Tex_11: -6141297488754485816
+      WaterJumper_Tex_12: 1602706199662803438
+      WaterJumper_Tex_13: 6177470419089940865
+      WaterJumper_Tex_14: 4017105156284044200
+      WaterJumper_Tex_15: 7334355589782027672
+      WaterJumper_Tex_16: -1416309834098917468
+      WaterJumper_Tex_17: -3098158489181625325
+      WaterJumper_Tex_18: 2268521106558140166
+      WaterJumper_Tex_19: 6253256211152309061
+      WaterJumper_Tex_2: 636296209701455418
+      WaterJumper_Tex_3: 9178771522116347514
+      WaterJumper_Tex_4: 5722958856365102684
+      WaterJumper_Tex_5: 3911518732687825984
+      WaterJumper_Tex_6: 7704461621781166994
+      WaterJumper_Tex_7: -2922879934617638172
+      WaterJumper_Tex_8: 2141423668024728055
+      WaterJumper_Tex_9: 7920425373849155476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

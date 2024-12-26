@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TallBlue_Tex_0: -8647200793032524345
+      TallBlue_Tex_1: 1583095389100070779
+      TallBlue_Tex_10: -6759360831748327309
+      TallBlue_Tex_11: -4709500650594760883
+      TallBlue_Tex_2: 4151779258365766482
+      TallBlue_Tex_3: 3407064036632228618
+      TallBlue_Tex_4: -2182495603489174845
+      TallBlue_Tex_5: -8557556770910692781
+      TallBlue_Tex_6: 737588867482489281
+      TallBlue_Tex_7: 5443097495094391577
+      TallBlue_Tex_8: 6006106582586313609
+      TallBlue_Tex_9: -6326884289747864575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

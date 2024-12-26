@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MenuLevelSelectCetusBG_Tex_0: -1870101547920966745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doodad3_Tex_0: 6775773556242239078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

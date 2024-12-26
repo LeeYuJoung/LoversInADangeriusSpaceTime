@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CampaignProgressIcons_Tex_0: -2297786132547878642
+      CampaignProgressIcons_Tex_1: 4572664968804995567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

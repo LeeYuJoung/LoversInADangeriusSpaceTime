@@ -1222,7 +1222,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InsectSergeant_Tex_0: -3722197786137960145
+      InsectSergeant_Tex_1: -4177077688463605186
+      InsectSergeant_Tex_10: 1036611667518737634
+      InsectSergeant_Tex_11: -3354634285902773035
+      InsectSergeant_Tex_12: 2126978027287535581
+      InsectSergeant_Tex_13: 5449317402916950508
+      InsectSergeant_Tex_14: -7007436138689794160
+      InsectSergeant_Tex_15: -5731450894368973861
+      InsectSergeant_Tex_16: -2300131786752826286
+      InsectSergeant_Tex_17: 1815558741715003299
+      InsectSergeant_Tex_18: -4120941727924620842
+      InsectSergeant_Tex_19: -3187152264897370057
+      InsectSergeant_Tex_2: 8204234280408300975
+      InsectSergeant_Tex_20: -6914469663921202909
+      InsectSergeant_Tex_21: 5227265694993151086
+      InsectSergeant_Tex_22: -850378915286034272
+      InsectSergeant_Tex_23: -6198769707367829470
+      InsectSergeant_Tex_24: -3437719746104009176
+      InsectSergeant_Tex_25: 8333129768344974452
+      InsectSergeant_Tex_26: 4950910198835858866
+      InsectSergeant_Tex_27: 3998866508057113860
+      InsectSergeant_Tex_28: -2650176968421199734
+      InsectSergeant_Tex_29: -6386081688845422142
+      InsectSergeant_Tex_3: -4752393113690483200
+      InsectSergeant_Tex_30: 5132590141937672736
+      InsectSergeant_Tex_31: -7348527794232238553
+      InsectSergeant_Tex_32: -5495813416445731288
+      InsectSergeant_Tex_33: 5339891261507384720
+      InsectSergeant_Tex_34: 1329399009617923222
+      InsectSergeant_Tex_35: -4098434926506625934
+      InsectSergeant_Tex_36: 4325717858993378162
+      InsectSergeant_Tex_37: -8130509010812901491
+      InsectSergeant_Tex_38: -4898239610798522204
+      InsectSergeant_Tex_39: 1864470162425908499
+      InsectSergeant_Tex_4: 2073520083832869530
+      InsectSergeant_Tex_40: 7099506127403192195
+      InsectSergeant_Tex_41: -7039176435054566553
+      InsectSergeant_Tex_42: 6643107954830382748
+      InsectSergeant_Tex_43: 4687838346972607729
+      InsectSergeant_Tex_5: -459286825403200305
+      InsectSergeant_Tex_6: 4940618394256337140
+      InsectSergeant_Tex_7: 32045600584876686
+      InsectSergeant_Tex_8: 4312557697323232319
+      InsectSergeant_Tex_9: 5947820862910775421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

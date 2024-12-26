@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MenuLevelSelectUrsaMajorBG_Tex_0: 5562716697876052893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationBird_Tex_0: 446408897151630001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

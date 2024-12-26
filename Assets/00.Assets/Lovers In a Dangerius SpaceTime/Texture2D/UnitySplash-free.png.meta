@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UnitySplash-free_0: 6223464840115250407
+      UnitySplash-free_1: 863663432992953493
+      UnitySplash-free_10: 4742539503174730840
+      UnitySplash-free_11: -8344519476961868026
+      UnitySplash-free_12: -5657360846378958076
+      UnitySplash-free_2: 780039775130288143
+      UnitySplash-free_3: -933312241761840088
+      UnitySplash-free_4: -1862465292663739063
+      UnitySplash-free_5: 4169558288139325309
+      UnitySplash-free_6: 7538776078075287809
+      UnitySplash-free_7: 7210822223245683647
+      UnitySplash-free_8: 5329477743712352993
+      UnitySplash-free_9: -9182717617770014216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

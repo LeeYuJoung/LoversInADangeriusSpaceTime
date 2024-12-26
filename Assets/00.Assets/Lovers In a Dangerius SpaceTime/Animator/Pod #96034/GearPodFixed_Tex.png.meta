@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GearPodFixed_Tex_0: -5220344007982067841
+      GearPodFixed_Tex_1: 2636855739012669356
+      GearPodFixed_Tex_2: -1176135549838315480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

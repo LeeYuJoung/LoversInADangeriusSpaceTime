@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SunHolder_Tex_0: 3458115120605492398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

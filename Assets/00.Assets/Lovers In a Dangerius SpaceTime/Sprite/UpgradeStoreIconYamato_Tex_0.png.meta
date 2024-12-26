@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UpgradeStoreIconYamato_Tex_0_0: -2047001371945501218
+      UpgradeStoreIconYamato_Tex_0_1: 252284553494433112
+      UpgradeStoreIconYamato_Tex_0_10: 3409638118255909307
+      UpgradeStoreIconYamato_Tex_0_11: -7842134130884259624
+      UpgradeStoreIconYamato_Tex_0_12: -3300251929426978936
+      UpgradeStoreIconYamato_Tex_0_13: 7906007340245259027
+      UpgradeStoreIconYamato_Tex_0_14: 9027653513661454089
+      UpgradeStoreIconYamato_Tex_0_15: -1786720815209110197
+      UpgradeStoreIconYamato_Tex_0_16: 5366783864417730579
+      UpgradeStoreIconYamato_Tex_0_17: 7424201708256069035
+      UpgradeStoreIconYamato_Tex_0_18: 2359174568090042516
+      UpgradeStoreIconYamato_Tex_0_19: -6662246283962017409
+      UpgradeStoreIconYamato_Tex_0_2: -2077533772949898327
+      UpgradeStoreIconYamato_Tex_0_20: -5310330857871722408
+      UpgradeStoreIconYamato_Tex_0_21: 483089762713674937
+      UpgradeStoreIconYamato_Tex_0_22: -2288755712327956431
+      UpgradeStoreIconYamato_Tex_0_3: -1989613434820076900
+      UpgradeStoreIconYamato_Tex_0_4: 1031976769517847893
+      UpgradeStoreIconYamato_Tex_0_5: 7163842231852955349
+      UpgradeStoreIconYamato_Tex_0_6: -6465521971181650477
+      UpgradeStoreIconYamato_Tex_0_7: 7683552824192451810
+      UpgradeStoreIconYamato_Tex_0_8: 641317664277082611
+      UpgradeStoreIconYamato_Tex_0_9: 1623954684892282620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

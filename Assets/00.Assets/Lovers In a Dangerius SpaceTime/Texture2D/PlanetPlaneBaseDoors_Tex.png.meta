@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneBaseDoors_Tex_0: 1698532717646459722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

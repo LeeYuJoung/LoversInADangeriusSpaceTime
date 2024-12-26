@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StargateOuterTerrain_Tex_0: -7765523211440355376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

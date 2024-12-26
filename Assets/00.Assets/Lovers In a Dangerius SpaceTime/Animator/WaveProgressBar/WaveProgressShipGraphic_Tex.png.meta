@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaveProgressShipGraphic_Tex_0: 2870469191509432092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CampaignProgressOrionConstellationIcon_Tex_0: 8284426505559040609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

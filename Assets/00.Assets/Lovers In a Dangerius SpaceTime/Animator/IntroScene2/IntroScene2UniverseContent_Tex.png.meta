@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroScene2UniverseContent_Tex_0: 1367596022632806251
+      IntroScene2UniverseContent_Tex_1: -2690062290807892636
+      IntroScene2UniverseContent_Tex_2: 6364735222581241599
+      IntroScene2UniverseContent_Tex_3: -1428883282632233777
+      IntroScene2UniverseContent_Tex_4: 4378266385022992200
+      IntroScene2UniverseContent_Tex_5: -3957121422481074957
+      IntroScene2UniverseContent_Tex_6: 148765191536165819
+      IntroScene2UniverseContent_Tex_7: 5996309950326579208
+      IntroScene2UniverseContent_Tex_8: -3967742275561278900
+      IntroScene2UniverseContent_Tex_9: -1221827394355033459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

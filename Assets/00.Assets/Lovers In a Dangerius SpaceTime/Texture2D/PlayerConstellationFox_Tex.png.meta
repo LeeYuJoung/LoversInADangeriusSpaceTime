@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationFox_Tex_0: 1465398915319335122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

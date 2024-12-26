@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UrsaBaseBuildings_Tex_0: -6798697893611414607
+      UrsaBaseBuildings_Tex_1: -8302303876083659548
+      UrsaBaseBuildings_Tex_2: 609421995938700737
+      UrsaBaseBuildings_Tex_3: 332847433315246171
+      UrsaBaseBuildings_Tex_4: -3769089589236418150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

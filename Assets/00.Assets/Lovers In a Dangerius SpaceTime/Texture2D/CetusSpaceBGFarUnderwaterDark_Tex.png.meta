@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusSpaceBGFarUnderwaterDark_Tex_0: -2691001808739271108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SpinnyShooter_Tex_0: -5497952392034764601
+      SpinnyShooter_Tex_1: 7915319741541374354
+      SpinnyShooter_Tex_10: -6508177530455107163
+      SpinnyShooter_Tex_11: 4444394298393139183
+      SpinnyShooter_Tex_12: 2297737448527895563
+      SpinnyShooter_Tex_13: 1876169738993054566
+      SpinnyShooter_Tex_14: 7995188177001819455
+      SpinnyShooter_Tex_15: 8329811881698699380
+      SpinnyShooter_Tex_16: 2725395039957464287
+      SpinnyShooter_Tex_17: 3807732000223232237
+      SpinnyShooter_Tex_18: -6208267054922429931
+      SpinnyShooter_Tex_19: 671145000115196529
+      SpinnyShooter_Tex_2: -116819485108060715
+      SpinnyShooter_Tex_20: 7287601117219179971
+      SpinnyShooter_Tex_21: 2929707980889232835
+      SpinnyShooter_Tex_22: 7440510541984161475
+      SpinnyShooter_Tex_23: 7977687184782505435
+      SpinnyShooter_Tex_3: 2683087611781477601
+      SpinnyShooter_Tex_4: -2682608157710744448
+      SpinnyShooter_Tex_5: -7764456702464549497
+      SpinnyShooter_Tex_6: 1294668147453723692
+      SpinnyShooter_Tex_7: 9168259514382732396
+      SpinnyShooter_Tex_8: -6973953794980584265
+      SpinnyShooter_Tex_9: -5610609937498629076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

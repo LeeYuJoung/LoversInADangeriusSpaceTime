@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrystalBeam_Tex_0: -1684517668690957603
+      CrystalBeam_Tex_1: 6913868572220194122
+      CrystalBeam_Tex_2: 6736508503114528181
+      CrystalBeam_Tex_3: -9021604110820728527
+      CrystalBeam_Tex_4: 8426382407483720079
+      CrystalBeam_Tex_5: -8712414353752962789
+      CrystalBeam_Tex_6: 97944222802317233
+      CrystalBeam_Tex_7: 4732714438283290149
+      CrystalBeam_Tex_8: -8014563209785907025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

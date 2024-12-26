@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doodad8_Tex_0: 8379694752496862280
+      Doodad8_Tex_1: 2266986285960594639
+      Doodad8_Tex_10: 234699780525389188
+      Doodad8_Tex_11: 7991042184819141020
+      Doodad8_Tex_12: 7844453429184475476
+      Doodad8_Tex_13: 1666676121802690251
+      Doodad8_Tex_2: 3799020963149908061
+      Doodad8_Tex_3: 915050414157354073
+      Doodad8_Tex_4: -1689239051675976306
+      Doodad8_Tex_5: 6804984918181927254
+      Doodad8_Tex_6: 8147096243406832583
+      Doodad8_Tex_7: 6314640487608027301
+      Doodad8_Tex_8: -7849878632637630641
+      Doodad8_Tex_9: 8929073533713439739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

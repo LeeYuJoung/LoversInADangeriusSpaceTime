@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParticleWhirlpool_Tex_0: -769394333404960504
+      ParticleWhirlpool_Tex_1: -9196732450343750810
+      ParticleWhirlpool_Tex_2: 7521835294191321661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

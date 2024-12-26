@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VisibleHack_Tex_0: 7549124796410748134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

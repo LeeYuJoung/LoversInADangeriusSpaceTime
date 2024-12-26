@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StargateLights_Tex_0: -7784319155703665620
+      StargateLights_Tex_1: -1847881962236066226
+      StargateLights_Tex_2: -6571806300341779791
+      StargateLights_Tex_3: -7146324462552800332
+      StargateLights_Tex_4: -473060224358332518
+      StargateLights_Tex_5: 3181277376761332136
+      StargateLights_Tex_6: -8189005897438360685
+      StargateLights_Tex_7: -3683859061905909197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

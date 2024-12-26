@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barfer_Tex_0: -8480189190265705952
+      Barfer_Tex_1: -5957247671013443631
+      Barfer_Tex_10: -4126936895366944043
+      Barfer_Tex_11: 6277038385133718463
+      Barfer_Tex_12: 438276193223739981
+      Barfer_Tex_13: -2181618239165744404
+      Barfer_Tex_14: -5797081890258355522
+      Barfer_Tex_15: -62532208931410206
+      Barfer_Tex_2: -62897934300704705
+      Barfer_Tex_3: 3487613160675213714
+      Barfer_Tex_4: -5786658290951587040
+      Barfer_Tex_5: 3958180751839036539
+      Barfer_Tex_6: -6784351078949344825
+      Barfer_Tex_7: 1619829840682725472
+      Barfer_Tex_8: -883596175919767569
+      Barfer_Tex_9: -5648010531560021457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

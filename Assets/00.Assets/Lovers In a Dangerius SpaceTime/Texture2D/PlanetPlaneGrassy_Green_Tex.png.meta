@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneGrassy_Green_Tex_0: -8744974497464773465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusConstellation_Tex_0: -1212989933079350986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CapsuleHealth_Tex_0: -8736545455160858859
+      CapsuleHealth_Tex_1: 9019868092344340298
+      CapsuleHealth_Tex_2: 2851180729198755800
+      CapsuleHealth_Tex_3: 6331505554614036650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

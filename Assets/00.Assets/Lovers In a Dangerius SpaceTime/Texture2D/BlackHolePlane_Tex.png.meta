@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlackHolePlane_Tex_0: -818342945500544901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KingCepheusSeaweed_Tex_0: -7671090608283727930
+      KingCepheusSeaweed_Tex_1: 5319567513016016893
+      KingCepheusSeaweed_Tex_2: 6751999173435900441
+      KingCepheusSeaweed_Tex_3: -6664621130205333450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

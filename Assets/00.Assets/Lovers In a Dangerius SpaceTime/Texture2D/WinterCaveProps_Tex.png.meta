@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WinterCaveProps_Tex_0: 6848167629383324965
+      WinterCaveProps_Tex_1: 4782063725316275531
+      WinterCaveProps_Tex_2: -8744637005034223999
+      WinterCaveProps_Tex_3: 5294004240229476247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -797,7 +797,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapUrsaMajor_Tex_0: -3371455750650968209
+      MapUrsaMajor_Tex_1: 5596776146247815912
+      MapUrsaMajor_Tex_10: 8573535974952973944
+      MapUrsaMajor_Tex_11: -649315762460980437
+      MapUrsaMajor_Tex_12: -6838462229253425868
+      MapUrsaMajor_Tex_13: 4813820924688337481
+      MapUrsaMajor_Tex_14: 9180821677435445313
+      MapUrsaMajor_Tex_15: -6438202592154975657
+      MapUrsaMajor_Tex_16: -8853557413024422058
+      MapUrsaMajor_Tex_17: 2594322929615253870
+      MapUrsaMajor_Tex_18: -4429885173536696117
+      MapUrsaMajor_Tex_19: 891754125830891958
+      MapUrsaMajor_Tex_2: 2199827460583134009
+      MapUrsaMajor_Tex_20: 7394230197912172312
+      MapUrsaMajor_Tex_21: 1569513898164278636
+      MapUrsaMajor_Tex_22: -225843161297013916
+      MapUrsaMajor_Tex_23: 2802801265546837846
+      MapUrsaMajor_Tex_24: -3755680394891492664
+      MapUrsaMajor_Tex_25: 8153323941310395998
+      MapUrsaMajor_Tex_26: -1967037770166641999
+      MapUrsaMajor_Tex_3: 8268711245040640499
+      MapUrsaMajor_Tex_4: 5765089912926087979
+      MapUrsaMajor_Tex_5: -2122940661106412370
+      MapUrsaMajor_Tex_6: -3738446140509816850
+      MapUrsaMajor_Tex_7: -4577350778791852756
+      MapUrsaMajor_Tex_8: 5193012756957421725
+      MapUrsaMajor_Tex_9: 2945569257088926134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

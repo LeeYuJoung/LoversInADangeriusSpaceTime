@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MissileBoater_Tex_0: 6803548247426303343
+      MissileBoater_Tex_1: 2053786604837784256
+      MissileBoater_Tex_10: -5913569919659456665
+      MissileBoater_Tex_11: -8578430736097244574
+      MissileBoater_Tex_2: 3149256187208289462
+      MissileBoater_Tex_3: 7377698690399081009
+      MissileBoater_Tex_4: -1293402545423661573
+      MissileBoater_Tex_5: -7657919594817329925
+      MissileBoater_Tex_6: 5244759597420911693
+      MissileBoater_Tex_7: -7327076299806349274
+      MissileBoater_Tex_8: 8064620870520356082
+      MissileBoater_Tex_9: 5974864883640698712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

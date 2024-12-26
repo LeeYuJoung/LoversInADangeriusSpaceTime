@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurretFourGuns_Tex_0: 9068026315296114239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

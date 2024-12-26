@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Preview_BunnyRed_Tex_0: -9100483717314212166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

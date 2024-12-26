@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UrsaTreesPurple_Tex_0: 4966113777914411078
+      UrsaTreesPurple_Tex_1: 8026226645808088418
+      UrsaTreesPurple_Tex_2: 5682065867285778419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

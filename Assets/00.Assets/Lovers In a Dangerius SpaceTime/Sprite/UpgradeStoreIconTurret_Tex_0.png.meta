@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UpgradeStoreIconTurret_Tex_0_0: -67866720166153139
+      UpgradeStoreIconTurret_Tex_0_1: -2210732953648284286
+      UpgradeStoreIconTurret_Tex_0_10: 3630954309669989142
+      UpgradeStoreIconTurret_Tex_0_11: -3269836369433443594
+      UpgradeStoreIconTurret_Tex_0_12: -5354427682672910974
+      UpgradeStoreIconTurret_Tex_0_13: -4285481048020600005
+      UpgradeStoreIconTurret_Tex_0_14: -1059731647735916511
+      UpgradeStoreIconTurret_Tex_0_15: -5252023139682239410
+      UpgradeStoreIconTurret_Tex_0_16: 2039271137140834725
+      UpgradeStoreIconTurret_Tex_0_17: 1233535059002645523
+      UpgradeStoreIconTurret_Tex_0_18: -8733690871259140681
+      UpgradeStoreIconTurret_Tex_0_19: -975962966764866027
+      UpgradeStoreIconTurret_Tex_0_2: 7057851233068171016
+      UpgradeStoreIconTurret_Tex_0_20: 812370052811823803
+      UpgradeStoreIconTurret_Tex_0_21: -8165062857109410475
+      UpgradeStoreIconTurret_Tex_0_22: -6631736508516421505
+      UpgradeStoreIconTurret_Tex_0_23: -4737679125482029277
+      UpgradeStoreIconTurret_Tex_0_3: -4772251390644924705
+      UpgradeStoreIconTurret_Tex_0_4: -3877676864629768128
+      UpgradeStoreIconTurret_Tex_0_5: -1248141906394062783
+      UpgradeStoreIconTurret_Tex_0_6: 5026562754171600448
+      UpgradeStoreIconTurret_Tex_0_7: 799618617584468437
+      UpgradeStoreIconTurret_Tex_0_8: -772606256121020043
+      UpgradeStoreIconTurret_Tex_0_9: -3458275987874543456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

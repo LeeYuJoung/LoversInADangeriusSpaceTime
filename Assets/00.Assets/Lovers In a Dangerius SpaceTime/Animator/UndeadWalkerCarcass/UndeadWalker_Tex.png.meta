@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UndeadWalker_Tex_0: -8806792700867305748
+      UndeadWalker_Tex_1: -8804896448355678128
+      UndeadWalker_Tex_10: -3491194745429611589
+      UndeadWalker_Tex_11: -4818686962651604555
+      UndeadWalker_Tex_12: -1902019428074135204
+      UndeadWalker_Tex_13: -4599074853774260697
+      UndeadWalker_Tex_14: 7456498044623105930
+      UndeadWalker_Tex_15: 1259550152347015247
+      UndeadWalker_Tex_16: 4501391099946101833
+      UndeadWalker_Tex_17: 7892552926578767472
+      UndeadWalker_Tex_18: -2557764949971838328
+      UndeadWalker_Tex_19: 1004276998427028093
+      UndeadWalker_Tex_2: 8287337691445638201
+      UndeadWalker_Tex_20: 4131189763425246866
+      UndeadWalker_Tex_21: -196781131098996814
+      UndeadWalker_Tex_22: 6662692765278337795
+      UndeadWalker_Tex_23: 2721431072728716682
+      UndeadWalker_Tex_3: -202630835999533149
+      UndeadWalker_Tex_4: -4151390155932347909
+      UndeadWalker_Tex_5: 4359758098191082009
+      UndeadWalker_Tex_6: -8960761979328967508
+      UndeadWalker_Tex_7: -6540497427833462826
+      UndeadWalker_Tex_8: -8447711678926633208
+      UndeadWalker_Tex_9: -8916591518704904342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

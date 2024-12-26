@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PetTargetCheckmark_Tex_0: -2979649962459082684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

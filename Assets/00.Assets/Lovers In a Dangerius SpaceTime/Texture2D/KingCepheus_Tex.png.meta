@@ -1622,7 +1622,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KingCepheus_Tex_0: -943599871190936626
+      KingCepheus_Tex_1: 6153880869816680767
+      KingCepheus_Tex_10: 4099546080346183085
+      KingCepheus_Tex_11: 4995108002705598944
+      KingCepheus_Tex_12: 3564942837872418366
+      KingCepheus_Tex_13: 448305308452108843
+      KingCepheus_Tex_14: -5997263439149785627
+      KingCepheus_Tex_15: -2601824501809262088
+      KingCepheus_Tex_16: -1808434663150653315
+      KingCepheus_Tex_17: 793642947000329272
+      KingCepheus_Tex_18: -8458135577437797685
+      KingCepheus_Tex_19: 7131456420448285890
+      KingCepheus_Tex_2: 6458435830515448428
+      KingCepheus_Tex_20: -1168238425703172573
+      KingCepheus_Tex_21: 8028500542828803353
+      KingCepheus_Tex_22: 8697820941602886747
+      KingCepheus_Tex_23: -7696967215521282338
+      KingCepheus_Tex_24: 8302757610063021561
+      KingCepheus_Tex_25: -5216760264234451307
+      KingCepheus_Tex_26: 3863500825942559637
+      KingCepheus_Tex_27: 6551287036242521930
+      KingCepheus_Tex_28: -5013359853404260544
+      KingCepheus_Tex_29: 2431480209724664642
+      KingCepheus_Tex_3: 6581030263389084672
+      KingCepheus_Tex_30: -3748263758737523962
+      KingCepheus_Tex_31: 8213426268782583087
+      KingCepheus_Tex_32: 2137429963773390196
+      KingCepheus_Tex_33: 8503386967041256465
+      KingCepheus_Tex_34: -6028551581983892302
+      KingCepheus_Tex_35: -8110237761292112882
+      KingCepheus_Tex_36: -6114477539635360346
+      KingCepheus_Tex_37: -4762498235778450847
+      KingCepheus_Tex_38: 8592920164187094850
+      KingCepheus_Tex_39: -3671774052030518830
+      KingCepheus_Tex_4: 7658093832718254211
+      KingCepheus_Tex_40: -5278144338285123796
+      KingCepheus_Tex_41: -5525712664868667810
+      KingCepheus_Tex_42: 7465472699692076804
+      KingCepheus_Tex_43: 597774804764914292
+      KingCepheus_Tex_44: -952650603341502165
+      KingCepheus_Tex_45: 7511120177639924180
+      KingCepheus_Tex_46: 4286219894050300857
+      KingCepheus_Tex_47: 8359262618250999421
+      KingCepheus_Tex_48: 618628359714491059
+      KingCepheus_Tex_49: -3706962610559016081
+      KingCepheus_Tex_5: -6285889396510549645
+      KingCepheus_Tex_50: 1183109552580576548
+      KingCepheus_Tex_51: 8781261573814505425
+      KingCepheus_Tex_52: -3754071222924700749
+      KingCepheus_Tex_53: 1759056460937081368
+      KingCepheus_Tex_54: 4031099146487026404
+      KingCepheus_Tex_55: 3429802091151873047
+      KingCepheus_Tex_56: 1937863385605818373
+      KingCepheus_Tex_57: 4016311628535700938
+      KingCepheus_Tex_58: -4244271481849057096
+      KingCepheus_Tex_59: -3425934796699435755
+      KingCepheus_Tex_6: -4861982885677966433
+      KingCepheus_Tex_7: 4528076575361043598
+      KingCepheus_Tex_8: 8859914899465310668
+      KingCepheus_Tex_9: -7134266317269834998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
