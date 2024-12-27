@@ -1,7 +1,7 @@
 namespace EnumTypes
 {
     // 플레이어 상태
-    public enum PLAYER_STATE
+    public enum PlayerState
     {
         Idle,      // 기본
         Move,      // 이동
