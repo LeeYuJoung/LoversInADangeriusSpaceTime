@@ -142,7 +142,7 @@ namespace yjlee.Player
 
         private void OnTriggerEnter2D(Collider2D coll)
         {
-            //if(coll.CompareTag("AI") || coll.CompareTag("Player"))
+            //if(coll.CompareTag("Pet") || coll.CompareTag("Player"))
             //{
             //    // 충돌 애니메이션 실행
             //    playerState = PLAYER_STATE.Crash;
