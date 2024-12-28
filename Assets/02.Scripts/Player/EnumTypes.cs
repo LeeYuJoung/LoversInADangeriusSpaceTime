@@ -10,4 +10,31 @@ namespace EnumTypes
         Climb,     // 사다리
         Operation  // 기계 조작
     }
+
+    //우주선 현재 동작 상태
+    public enum ShipState
+    {
+        None,
+        WestTurret,
+        EastTurret,
+        SouthTurret,
+        NorthTurret,
+        YamatoCannon,
+        Engine,
+        Shield
+    }
+
+    //탄환 종류
+    public enum BulletType
+    {
+        TurretBullet,
+        YamatoMissile
+    }
+
+    // 오브젝트 구분을 위한 타입
+    public enum EPoolObjectType
+    {
+        TurretBulletGroup,
+        YamatoMissileGroup
+    }
 }
