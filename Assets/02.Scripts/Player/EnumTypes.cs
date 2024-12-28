@@ -8,6 +8,7 @@ namespace EnumTypes
         Jump,      // 점프
         Crash,     // 충돌
         Climb,     // 사다리
-        Operation  // 기계 조작
+        Operation, // 기계 조작
+        Command    // AI 명령
     }
 }
