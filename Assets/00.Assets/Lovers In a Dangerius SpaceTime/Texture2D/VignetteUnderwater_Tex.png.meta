@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VignetteUnderwater_Tex_0: 7420205380811644972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

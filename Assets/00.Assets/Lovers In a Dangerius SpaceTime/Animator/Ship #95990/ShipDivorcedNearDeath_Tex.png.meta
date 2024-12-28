@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShipDivorcedNearDeath_Tex_0: -9173655601839459152
+      ShipDivorcedNearDeath_Tex_1: -3410941082573827875
+      ShipDivorcedNearDeath_Tex_2: -7408055639169245646
+      ShipDivorcedNearDeath_Tex_3: -5011087587439817798
+      ShipDivorcedNearDeath_Tex_4: 1807885807078987027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

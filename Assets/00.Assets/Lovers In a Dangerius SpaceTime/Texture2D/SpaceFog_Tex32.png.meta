@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SpaceFog_Tex32_0: 1087786985917849033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

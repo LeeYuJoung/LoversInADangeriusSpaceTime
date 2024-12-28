@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walker_Tex_0: -2851859678299586727
+      Walker_Tex_1: -2955391983109696294
+      Walker_Tex_10: -6672814222575704656
+      Walker_Tex_11: -2594792967477437290
+      Walker_Tex_12: 3752864172874862874
+      Walker_Tex_13: -3886313630359652898
+      Walker_Tex_14: -322271006964073629
+      Walker_Tex_15: -744183205612359275
+      Walker_Tex_16: -8578003523563205673
+      Walker_Tex_17: -8218771444827851428
+      Walker_Tex_18: 7750468245019548263
+      Walker_Tex_19: 2732399195589935413
+      Walker_Tex_2: 7618701381979395659
+      Walker_Tex_20: 1910248148217613282
+      Walker_Tex_21: 7190693627561200543
+      Walker_Tex_22: 2703645953102923943
+      Walker_Tex_23: -3078082961006958597
+      Walker_Tex_3: -3760107616628635127
+      Walker_Tex_4: -5372275471596187643
+      Walker_Tex_5: 4561066134434307559
+      Walker_Tex_6: 7573179428770666916
+      Walker_Tex_7: 2940143583606949299
+      Walker_Tex_8: -2273897586918612109
+      Walker_Tex_9: -6439178770769613773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ButtonShine_Tex_0: -4567154353165888336
+      ButtonShine_Tex_1: -1486596257977566055
+      ButtonShine_Tex_2: 596924220899259348
+      ButtonShine_Tex_3: 6478267047985676852
+      ButtonShine_Tex_4: 1180514949369305886
+      ButtonShine_Tex_5: 3137562153916240242
+      ButtonShine_Tex_6: -6617685956929276702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

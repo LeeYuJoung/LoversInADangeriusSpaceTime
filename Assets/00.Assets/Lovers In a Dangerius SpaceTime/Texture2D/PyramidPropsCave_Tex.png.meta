@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PyramidPropsCave_Tex_0: 79367290256484668
+      PyramidPropsCave_Tex_1: -7417763294289920496
+      PyramidPropsCave_Tex_2: -7186340864375225719
+      PyramidPropsCave_Tex_3: -4927791749116391379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParticleStarglow_Tex_0: 4129378834136238942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ConstellationSkyBlocker_Tex_0: 243576590209925478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

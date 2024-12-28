@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireInsectSmall_Tex_0: -7637594446769672224
+      FireInsectSmall_Tex_1: -5337738501400250600
+      FireInsectSmall_Tex_10: -2699220995890207540
+      FireInsectSmall_Tex_11: -3930085361001021104
+      FireInsectSmall_Tex_12: -5465469683994421647
+      FireInsectSmall_Tex_13: 5342602446881216488
+      FireInsectSmall_Tex_14: 1471289242602478209
+      FireInsectSmall_Tex_15: 5528723214584357420
+      FireInsectSmall_Tex_16: -3541238111580402425
+      FireInsectSmall_Tex_17: -368774637374937922
+      FireInsectSmall_Tex_18: -8662136345003739425
+      FireInsectSmall_Tex_19: 6154425248267052045
+      FireInsectSmall_Tex_2: -7027324963488409172
+      FireInsectSmall_Tex_20: -6082658861227910544
+      FireInsectSmall_Tex_21: 5885800469922472260
+      FireInsectSmall_Tex_22: 6033321824965975378
+      FireInsectSmall_Tex_23: 7128880463226043445
+      FireInsectSmall_Tex_24: 5324434892806585329
+      FireInsectSmall_Tex_25: -335188527195620746
+      FireInsectSmall_Tex_26: -6602629331468251600
+      FireInsectSmall_Tex_27: -831283277588070663
+      FireInsectSmall_Tex_3: 8335950179744948364
+      FireInsectSmall_Tex_4: -2880863447950418365
+      FireInsectSmall_Tex_5: 853198058045523597
+      FireInsectSmall_Tex_6: 7911146832141361534
+      FireInsectSmall_Tex_7: -4996257368753503751
+      FireInsectSmall_Tex_8: 4278317020783281675
+      FireInsectSmall_Tex_9: 6586303257942185814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

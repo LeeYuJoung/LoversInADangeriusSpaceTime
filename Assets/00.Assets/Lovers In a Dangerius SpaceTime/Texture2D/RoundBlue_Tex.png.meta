@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RoundBlue_Tex_0: 5258623822519175469
+      RoundBlue_Tex_1: 3278598531714007115
+      RoundBlue_Tex_2: -7851199348750134846
+      RoundBlue_Tex_3: -3442697039577338796
+      RoundBlue_Tex_4: -610012005968401149
+      RoundBlue_Tex_5: -3360877221879964921
+      RoundBlue_Tex_6: -8462411419923201486
+      RoundBlue_Tex_7: 8165687611447059723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

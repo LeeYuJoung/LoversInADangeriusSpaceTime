@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneBaseBars_Tex_0: 5168006825459213271
+      PlanetPlaneBaseBars_Tex_1: -9105279157932084140
+      PlanetPlaneBaseBars_Tex_2: 92442892548409301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

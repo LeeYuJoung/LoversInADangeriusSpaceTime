@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PresentOmni_Tex_0: 2796719929621699906
+      PresentOmni_Tex_1: 6409591874519297520
+      PresentOmni_Tex_2: -2309693432378773893
+      PresentOmni_Tex_3: 1085650618271961970
+      PresentOmni_Tex_4: 6492256291547706135
+      PresentOmni_Tex_5: -7434624505185675903
+      PresentOmni_Tex_6: -4197946649533673769
+      PresentOmni_Tex_7: -6439615225812885143
+      PresentOmni_Tex_8: 452137233523416063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

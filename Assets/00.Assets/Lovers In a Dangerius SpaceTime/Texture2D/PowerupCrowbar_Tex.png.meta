@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerupCrowbar_Tex_0: 7004654823861160618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

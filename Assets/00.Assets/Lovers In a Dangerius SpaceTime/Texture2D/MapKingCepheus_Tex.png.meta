@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapKingCepheus_Tex_0: -9004184618706079218
+      MapKingCepheus_Tex_1: 106414692824836580
+      MapKingCepheus_Tex_10: 6626260779228305819
+      MapKingCepheus_Tex_11: -3942848527198899785
+      MapKingCepheus_Tex_12: 232170387466696698
+      MapKingCepheus_Tex_13: 5641739017817260330
+      MapKingCepheus_Tex_14: 2640558153340569022
+      MapKingCepheus_Tex_15: 1562565728103239700
+      MapKingCepheus_Tex_16: -4150735613343322442
+      MapKingCepheus_Tex_17: 8972927792307065595
+      MapKingCepheus_Tex_2: -3400737256189874036
+      MapKingCepheus_Tex_3: -419011554792707618
+      MapKingCepheus_Tex_4: -6345566480466644138
+      MapKingCepheus_Tex_5: 1062580250711779194
+      MapKingCepheus_Tex_6: 6281639160093604931
+      MapKingCepheus_Tex_7: -401055983204655146
+      MapKingCepheus_Tex_8: 4580815222216304266
+      MapKingCepheus_Tex_9: -3489104763114617577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

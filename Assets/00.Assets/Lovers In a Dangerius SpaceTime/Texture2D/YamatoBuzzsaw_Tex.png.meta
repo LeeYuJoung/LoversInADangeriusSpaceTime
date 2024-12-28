@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoBuzzsaw_Tex_0: 8588454452876884779
+      YamatoBuzzsaw_Tex_1: 2335862421093431585
+      YamatoBuzzsaw_Tex_2: -6887639695326914778
+      YamatoBuzzsaw_Tex_3: 4438300645939453401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EngineBeamLarge_Tex_0: 5889953287677345871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

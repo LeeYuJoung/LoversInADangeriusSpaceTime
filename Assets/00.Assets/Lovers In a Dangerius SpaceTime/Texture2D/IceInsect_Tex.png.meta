@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceInsect_Tex_0: -454786320500124896
+      IceInsect_Tex_1: -5232417541835756426
+      IceInsect_Tex_10: 537805325140376145
+      IceInsect_Tex_11: -4397585221974450796
+      IceInsect_Tex_2: -428454480905100877
+      IceInsect_Tex_3: 2352798923374515883
+      IceInsect_Tex_4: 5797292041118715103
+      IceInsect_Tex_5: -1079001134605670867
+      IceInsect_Tex_6: -7367872690850422542
+      IceInsect_Tex_7: 6106121023370221198
+      IceInsect_Tex_8: -7925706871059421270
+      IceInsect_Tex_9: -7915693933498108572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

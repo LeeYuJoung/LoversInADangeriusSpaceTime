@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationRaccoon_Tex_0: -2772645328121153286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

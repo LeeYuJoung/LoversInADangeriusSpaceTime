@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthCircleOutline_Tex_0: 9124675048632301483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

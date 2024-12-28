@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapMarkerCapsuleRadar_Tex_0: 8632375590231782103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

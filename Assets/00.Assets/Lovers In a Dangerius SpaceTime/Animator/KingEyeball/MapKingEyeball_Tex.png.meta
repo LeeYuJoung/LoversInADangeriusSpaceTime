@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapKingEyeball_Tex_0: 4389963304498997479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

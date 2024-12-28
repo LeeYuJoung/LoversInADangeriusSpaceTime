@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMachineGunDead_Tex_0: 4300107278580296750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

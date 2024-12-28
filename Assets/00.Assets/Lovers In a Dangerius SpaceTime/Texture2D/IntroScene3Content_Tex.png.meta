@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroScene3Content_Tex_0: 6945065071135769086
+      IntroScene3Content_Tex_1: 493800817625797288
+      IntroScene3Content_Tex_10: 9009792952835994490
+      IntroScene3Content_Tex_11: 5346949471567345087
+      IntroScene3Content_Tex_12: 3253487416494147782
+      IntroScene3Content_Tex_13: 2485074073729448570
+      IntroScene3Content_Tex_14: 2674195303123920657
+      IntroScene3Content_Tex_15: -4545598396430835987
+      IntroScene3Content_Tex_16: -4796096199195870801
+      IntroScene3Content_Tex_17: -1912716488218942918
+      IntroScene3Content_Tex_18: 2911490989629170879
+      IntroScene3Content_Tex_19: -59463271050148654
+      IntroScene3Content_Tex_2: 4132337644565325359
+      IntroScene3Content_Tex_20: -8439712270105199396
+      IntroScene3Content_Tex_21: 308687693393662084
+      IntroScene3Content_Tex_22: 7285329928152037412
+      IntroScene3Content_Tex_3: -7311811396726106563
+      IntroScene3Content_Tex_4: 562123543517282222
+      IntroScene3Content_Tex_5: -5145140345564837137
+      IntroScene3Content_Tex_6: -4995104620801860646
+      IntroScene3Content_Tex_7: 4207350965286406935
+      IntroScene3Content_Tex_8: -6267454293832236585
+      IntroScene3Content_Tex_9: -8954375069626945531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

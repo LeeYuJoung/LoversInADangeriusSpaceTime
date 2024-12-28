@@ -1722,7 +1722,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OrionArmoured_Tex_0: -9213683893726656765
+      OrionArmoured_Tex_1: -5806556073466690446
+      OrionArmoured_Tex_10: -3420117359180299304
+      OrionArmoured_Tex_11: -3465969284077856915
+      OrionArmoured_Tex_12: 3251409293618547757
+      OrionArmoured_Tex_13: -6747568448339069547
+      OrionArmoured_Tex_14: -5192846178871421192
+      OrionArmoured_Tex_15: 4912652461342573210
+      OrionArmoured_Tex_16: 7114541870412707977
+      OrionArmoured_Tex_17: 4112198294482516371
+      OrionArmoured_Tex_18: 8626327548481950196
+      OrionArmoured_Tex_19: -2204170211165164304
+      OrionArmoured_Tex_2: 9115166672858433213
+      OrionArmoured_Tex_20: -1220184595614640014
+      OrionArmoured_Tex_21: 4077638847909399958
+      OrionArmoured_Tex_22: -1173887000185014678
+      OrionArmoured_Tex_23: -5706016514005975899
+      OrionArmoured_Tex_24: 2674756025375696034
+      OrionArmoured_Tex_25: 3936305232613910917
+      OrionArmoured_Tex_26: 6719952685066439056
+      OrionArmoured_Tex_27: 9042875795594078336
+      OrionArmoured_Tex_28: 6721057982099737388
+      OrionArmoured_Tex_29: -1081140741772770377
+      OrionArmoured_Tex_3: 1100676117850498055
+      OrionArmoured_Tex_30: -8283378257699116977
+      OrionArmoured_Tex_31: -3429309665776922734
+      OrionArmoured_Tex_32: -6191542283886877638
+      OrionArmoured_Tex_33: 7485731170857164861
+      OrionArmoured_Tex_34: 4006942094941359331
+      OrionArmoured_Tex_35: -8356750355899908053
+      OrionArmoured_Tex_36: 6928623810678044165
+      OrionArmoured_Tex_37: 8740437402357725595
+      OrionArmoured_Tex_38: 860253756594497149
+      OrionArmoured_Tex_39: -3890356446925793619
+      OrionArmoured_Tex_4: -8173926762847987098
+      OrionArmoured_Tex_40: -4174538034141980088
+      OrionArmoured_Tex_41: -7269848197824222572
+      OrionArmoured_Tex_42: -4749782055962869977
+      OrionArmoured_Tex_43: 1501889268413597735
+      OrionArmoured_Tex_44: 1093926496049445547
+      OrionArmoured_Tex_45: 5063498690837344255
+      OrionArmoured_Tex_46: -686523999007821385
+      OrionArmoured_Tex_47: -876844509926772203
+      OrionArmoured_Tex_48: -848444594413522887
+      OrionArmoured_Tex_49: 593689855602408667
+      OrionArmoured_Tex_5: 8263602570136952022
+      OrionArmoured_Tex_50: 7414691228945173053
+      OrionArmoured_Tex_51: -6985670777526483110
+      OrionArmoured_Tex_52: 2875345084803729840
+      OrionArmoured_Tex_53: -4115116993591244199
+      OrionArmoured_Tex_54: 7801963892514746183
+      OrionArmoured_Tex_55: -1130508893238807008
+      OrionArmoured_Tex_56: -2723534566472109564
+      OrionArmoured_Tex_57: -5300998644541810637
+      OrionArmoured_Tex_58: -5930656293431583639
+      OrionArmoured_Tex_59: 2639459025899129920
+      OrionArmoured_Tex_6: -1621514405576062851
+      OrionArmoured_Tex_60: -6396751649028659379
+      OrionArmoured_Tex_61: -6318506960571502298
+      OrionArmoured_Tex_62: -5925803455124250360
+      OrionArmoured_Tex_63: -7269010756156641138
+      OrionArmoured_Tex_7: 5803184729772607356
+      OrionArmoured_Tex_8: -2287508799510713742
+      OrionArmoured_Tex_9: 3445044329529475133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

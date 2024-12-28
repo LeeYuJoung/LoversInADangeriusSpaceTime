@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurretSpikeballDisarmed_Tex_0: -2863156397745832843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HubCrystals_Tex_0: -4426085517210043875
+      HubCrystals_Tex_1: 5916942213260018035
+      HubCrystals_Tex_2: 5879120582528195234
+      HubCrystals_Tex_3: -2181328841281724035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UrsaSpaceBGFarAsteroidy2048_Tex_0: 3644648599436324270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JailFloatingBottom_Tex_0: 3988916087519099074
+      JailFloatingBottom_Tex_1: 6421746883189422655
+      JailFloatingBottom_Tex_2: 7578588580735960851
+      JailFloatingBottom_Tex_3: 5941466816537458326
+      JailFloatingBottom_Tex_4: -2572293581565845266
+      JailFloatingBottom_Tex_5: 4813698434823609766
+      JailFloatingBottom_Tex_6: -695875007915415645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

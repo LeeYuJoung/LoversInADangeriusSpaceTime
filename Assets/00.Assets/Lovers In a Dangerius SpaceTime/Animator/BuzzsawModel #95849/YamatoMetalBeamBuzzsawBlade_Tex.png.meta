@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMetalBeamBuzzsawBlade_Tex_0: -5566229599591443298
+      YamatoMetalBeamBuzzsawBlade_Tex_1: 2089734749808038907
+      YamatoMetalBeamBuzzsawBlade_Tex_2: 860900135917767643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

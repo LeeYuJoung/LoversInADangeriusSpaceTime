@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClawMissile_Tex_0: 3635195189785740647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

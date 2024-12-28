@@ -1222,7 +1222,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceSergeant_Tex_0: 4892176775187294737
+      IceSergeant_Tex_1: -7402364651389253012
+      IceSergeant_Tex_10: -7997704107970678948
+      IceSergeant_Tex_11: 6462917256724316893
+      IceSergeant_Tex_12: 1581865919045536740
+      IceSergeant_Tex_13: -7442568120687783299
+      IceSergeant_Tex_14: -801686395626730346
+      IceSergeant_Tex_15: 4692059450587625536
+      IceSergeant_Tex_16: -1612708182725602203
+      IceSergeant_Tex_17: -352459518370768830
+      IceSergeant_Tex_18: -1403976554983341275
+      IceSergeant_Tex_19: 4365022525362490391
+      IceSergeant_Tex_2: 1429689396873932058
+      IceSergeant_Tex_20: 6599048316720036526
+      IceSergeant_Tex_21: 8746873636844458206
+      IceSergeant_Tex_22: 429233407775494137
+      IceSergeant_Tex_23: -6668653364497762685
+      IceSergeant_Tex_24: -3748868928861800915
+      IceSergeant_Tex_25: -217149266377358205
+      IceSergeant_Tex_26: -8226501780321508116
+      IceSergeant_Tex_27: -6056649316418325844
+      IceSergeant_Tex_28: -4458880561237609138
+      IceSergeant_Tex_29: -8810018233335497742
+      IceSergeant_Tex_3: 7202476225079446348
+      IceSergeant_Tex_30: -3520619713284867731
+      IceSergeant_Tex_31: -6596885576401517930
+      IceSergeant_Tex_32: 3334198719245818007
+      IceSergeant_Tex_33: -8045734724536165691
+      IceSergeant_Tex_34: 4849681969832480802
+      IceSergeant_Tex_35: -7920380661441760796
+      IceSergeant_Tex_36: 7085580351734816264
+      IceSergeant_Tex_37: 1787448044042517329
+      IceSergeant_Tex_38: -2852625810181279751
+      IceSergeant_Tex_39: 6675724713948175608
+      IceSergeant_Tex_4: -4119922977845180844
+      IceSergeant_Tex_40: -7231924210983178076
+      IceSergeant_Tex_41: 7576785789197228670
+      IceSergeant_Tex_42: -3866881500701960635
+      IceSergeant_Tex_43: -3970972638635512481
+      IceSergeant_Tex_5: 4773325278987426389
+      IceSergeant_Tex_6: 5466437654291175254
+      IceSergeant_Tex_7: 6588343852212196752
+      IceSergeant_Tex_8: 7339231075197849746
+      IceSergeant_Tex_9: 1858980679374119378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

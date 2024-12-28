@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurretMetalCannon_Tex_0: 6393902857410784655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

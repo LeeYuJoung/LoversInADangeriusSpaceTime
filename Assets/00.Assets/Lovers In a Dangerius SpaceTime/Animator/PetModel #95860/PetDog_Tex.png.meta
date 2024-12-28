@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PetDog_Tex_0: 4272520233172960723
+      PetDog_Tex_1: 7925337565659114062
+      PetDog_Tex_2: -6030377849905176121
+      PetDog_Tex_3: 1171717134401389311
+      PetDog_Tex_4: -7703606815180978844
+      PetDog_Tex_5: -1639930864706399956
+      PetDog_Tex_6: 4139004290204862481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

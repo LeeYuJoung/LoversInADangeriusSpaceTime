@@ -1447,7 +1447,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShipDamageCracks_Tex_0: 2153025018900697799
+      ShipDamageCracks_Tex_1: 7409470486741396236
+      ShipDamageCracks_Tex_10: 792790505375018369
+      ShipDamageCracks_Tex_11: 194164001947072895
+      ShipDamageCracks_Tex_12: -8361008585776859378
+      ShipDamageCracks_Tex_13: 1044742338984118287
+      ShipDamageCracks_Tex_14: 6513817834710750338
+      ShipDamageCracks_Tex_15: 7901930791639851331
+      ShipDamageCracks_Tex_16: 2617703113823230792
+      ShipDamageCracks_Tex_17: -1988327434758106383
+      ShipDamageCracks_Tex_18: 2715252692967982571
+      ShipDamageCracks_Tex_19: 5830217163748281752
+      ShipDamageCracks_Tex_2: -1980334435144413250
+      ShipDamageCracks_Tex_20: 2833264585193271594
+      ShipDamageCracks_Tex_21: -5456791256417693920
+      ShipDamageCracks_Tex_22: 1777378785518773383
+      ShipDamageCracks_Tex_23: 6613288774308035405
+      ShipDamageCracks_Tex_24: 5815577272737318013
+      ShipDamageCracks_Tex_25: 3067962885038581814
+      ShipDamageCracks_Tex_26: -5191137530061422096
+      ShipDamageCracks_Tex_27: 5141919728341415503
+      ShipDamageCracks_Tex_28: -7972510038441178007
+      ShipDamageCracks_Tex_29: -5660719568709413261
+      ShipDamageCracks_Tex_3: -7489119909803722915
+      ShipDamageCracks_Tex_30: 8482827375965042497
+      ShipDamageCracks_Tex_31: 9115893518104857871
+      ShipDamageCracks_Tex_32: 813029814036003090
+      ShipDamageCracks_Tex_33: 1894308033384415162
+      ShipDamageCracks_Tex_34: 7063807418057777127
+      ShipDamageCracks_Tex_35: 8921159504548999104
+      ShipDamageCracks_Tex_36: 640909055336210574
+      ShipDamageCracks_Tex_37: -1868976254085618037
+      ShipDamageCracks_Tex_38: 5960747766581389248
+      ShipDamageCracks_Tex_39: 5052153876720939368
+      ShipDamageCracks_Tex_4: -1985120525746414658
+      ShipDamageCracks_Tex_40: 53334835336836008
+      ShipDamageCracks_Tex_41: -5430909584790235955
+      ShipDamageCracks_Tex_42: 5948668913854074635
+      ShipDamageCracks_Tex_43: -7820919856659264089
+      ShipDamageCracks_Tex_44: 8753393073760011410
+      ShipDamageCracks_Tex_45: -798562937412745777
+      ShipDamageCracks_Tex_46: 6129160807755205604
+      ShipDamageCracks_Tex_47: -4027065879217305372
+      ShipDamageCracks_Tex_48: 8096967555419612819
+      ShipDamageCracks_Tex_49: 2024404121939491648
+      ShipDamageCracks_Tex_5: 4311821454868535304
+      ShipDamageCracks_Tex_50: -8726486409214912762
+      ShipDamageCracks_Tex_51: -6204665698237987210
+      ShipDamageCracks_Tex_52: -6836113558866216891
+      ShipDamageCracks_Tex_6: -4542753369979510773
+      ShipDamageCracks_Tex_7: -7837239078331278566
+      ShipDamageCracks_Tex_8: -9162675674924221126
+      ShipDamageCracks_Tex_9: -7179785797583816478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

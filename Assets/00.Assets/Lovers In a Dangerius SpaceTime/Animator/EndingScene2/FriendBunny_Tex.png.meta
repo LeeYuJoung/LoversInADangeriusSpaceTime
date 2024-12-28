@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendBunny_Tex_0: 9160625877706608864
+      FriendBunny_Tex_1: 6938130855268723455
+      FriendBunny_Tex_2: 8924801992861729137
+      FriendBunny_Tex_3: 956984272815426530
+      FriendBunny_Tex_4: -8648109520205835561
+      FriendBunny_Tex_5: 7479230621990757590
+      FriendBunny_Tex_6: 8905157750092654474
+      FriendBunny_Tex_7: 6878507885097052539
+      FriendBunny_Tex_8: -2227573389683358275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShortGreen_Tex_0: 6551167127024101332
+      ShortGreen_Tex_1: 5492434383479514022
+      ShortGreen_Tex_10: -3862633695604200257
+      ShortGreen_Tex_11: -8703765564345687751
+      ShortGreen_Tex_2: -5117028174693470516
+      ShortGreen_Tex_3: 3380583454354806757
+      ShortGreen_Tex_4: -2316473722682331076
+      ShortGreen_Tex_5: -5107147539257489858
+      ShortGreen_Tex_6: 2396514375781358563
+      ShortGreen_Tex_7: 2794351317649313754
+      ShortGreen_Tex_8: -415652009331321748
+      ShortGreen_Tex_9: 5124561387584664245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

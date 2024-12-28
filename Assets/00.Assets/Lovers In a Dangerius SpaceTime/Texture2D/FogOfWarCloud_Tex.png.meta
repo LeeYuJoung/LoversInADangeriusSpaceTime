@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FogOfWarCloud_Tex_0: -841980699816508101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

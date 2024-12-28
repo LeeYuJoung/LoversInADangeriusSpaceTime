@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Preview_OnionGreen_Tex_0: -8738842858918533303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

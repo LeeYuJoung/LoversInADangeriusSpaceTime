@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InsectBarrager_Tex_0: -8309712477029544099
+      InsectBarrager_Tex_1: -8329599226604508704
+      InsectBarrager_Tex_10: -9039365213681554539
+      InsectBarrager_Tex_11: 1354067934002156011
+      InsectBarrager_Tex_12: -930989528995552798
+      InsectBarrager_Tex_13: -8947592938143609227
+      InsectBarrager_Tex_14: 2587039949665622368
+      InsectBarrager_Tex_15: -3711485701998164324
+      InsectBarrager_Tex_16: -260043306113412071
+      InsectBarrager_Tex_17: -3545848232459243724
+      InsectBarrager_Tex_18: 8276390270754414726
+      InsectBarrager_Tex_19: -3875493221140207704
+      InsectBarrager_Tex_2: -7815397328180730271
+      InsectBarrager_Tex_20: 5336939618341818
+      InsectBarrager_Tex_21: -2462825907037205393
+      InsectBarrager_Tex_22: -772602543657379103
+      InsectBarrager_Tex_23: 1785363292572949059
+      InsectBarrager_Tex_24: -1146539776459958273
+      InsectBarrager_Tex_25: 7054176232711727011
+      InsectBarrager_Tex_26: 7521494104217531068
+      InsectBarrager_Tex_27: 7238838602647995612
+      InsectBarrager_Tex_28: 1707521904100597800
+      InsectBarrager_Tex_29: -3390110030216976478
+      InsectBarrager_Tex_3: -8491147922677352489
+      InsectBarrager_Tex_30: -5215779090298277069
+      InsectBarrager_Tex_31: 1078359301720038975
+      InsectBarrager_Tex_32: 3212163295687301607
+      InsectBarrager_Tex_33: 3702795578725244893
+      InsectBarrager_Tex_34: 1455293229832846781
+      InsectBarrager_Tex_35: -2973010864632239891
+      InsectBarrager_Tex_36: -3730354502128871303
+      InsectBarrager_Tex_37: 7275603578064013465
+      InsectBarrager_Tex_38: 7340032957258956883
+      InsectBarrager_Tex_39: 5623052856578481574
+      InsectBarrager_Tex_4: -2776610537282926197
+      InsectBarrager_Tex_40: -3448140578602802606
+      InsectBarrager_Tex_41: 4902987881683070954
+      InsectBarrager_Tex_42: 1142144775888469020
+      InsectBarrager_Tex_43: 2042639239772416164
+      InsectBarrager_Tex_44: -184976981884146140
+      InsectBarrager_Tex_45: 1866564228354218870
+      InsectBarrager_Tex_46: 667529820060255293
+      InsectBarrager_Tex_47: -4937609514806169336
+      InsectBarrager_Tex_48: -726998513651694262
+      InsectBarrager_Tex_49: 5093154640974490571
+      InsectBarrager_Tex_5: 459214481280470167
+      InsectBarrager_Tex_50: 1248217219145402949
+      InsectBarrager_Tex_51: 4761221839851431449
+      InsectBarrager_Tex_52: -6890017391512261682
+      InsectBarrager_Tex_53: 1284870700595137716
+      InsectBarrager_Tex_54: -3729934233816707936
+      InsectBarrager_Tex_55: 6617727736892645025
+      InsectBarrager_Tex_6: 1699900896294515937
+      InsectBarrager_Tex_7: -483161164393363740
+      InsectBarrager_Tex_8: -4583863910187040651
+      InsectBarrager_Tex_9: -7912026441706520794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

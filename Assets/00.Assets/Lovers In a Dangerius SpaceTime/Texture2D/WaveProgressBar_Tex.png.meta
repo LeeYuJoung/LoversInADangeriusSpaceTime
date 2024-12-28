@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaveProgressBar_Tex_0: 3448813507720415213
+      WaveProgressBar_Tex_1: 2651292142420214357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

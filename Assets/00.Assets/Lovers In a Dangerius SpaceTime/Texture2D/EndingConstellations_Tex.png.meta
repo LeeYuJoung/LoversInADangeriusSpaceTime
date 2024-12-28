@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EndingConstellations_Tex_0: -7882832337962201801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ControlsYamato_Tex_0: -3352223203266916413
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

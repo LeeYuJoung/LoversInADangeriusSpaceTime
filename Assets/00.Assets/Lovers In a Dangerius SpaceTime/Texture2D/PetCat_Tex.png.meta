@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PetCat_Tex_0: -3541841546818108475
+      PetCat_Tex_1: -2541520705537188924
+      PetCat_Tex_2: -1526165873560814482
+      PetCat_Tex_3: 6376682963679957890
+      PetCat_Tex_4: -4942014982519564952
+      PetCat_Tex_5: -8140558340053820358
+      PetCat_Tex_6: -394861245125737655
+      PetCat_Tex_7: -303602477647894752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BouldersCetusLarge_Tex_0: -745980126822469755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

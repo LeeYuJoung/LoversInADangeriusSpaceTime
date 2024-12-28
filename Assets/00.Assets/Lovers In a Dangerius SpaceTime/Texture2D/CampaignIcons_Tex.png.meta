@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CampaignIcons_Tex_0: -1026436310510754867
+      CampaignIcons_Tex_1: -6134461904290521119
+      CampaignIcons_Tex_2: -7548264731902014909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

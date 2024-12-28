@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GasTank_Tex_0: -5469906611972300255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

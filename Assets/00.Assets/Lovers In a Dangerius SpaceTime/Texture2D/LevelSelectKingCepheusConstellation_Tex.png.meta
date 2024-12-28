@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LevelSelectKingCepheusConstellation_Tex_0: -5055345260138781350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

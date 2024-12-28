@@ -1822,7 +1822,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OrionVulnerable_Tex_0: 6582536892019692869
+      OrionVulnerable_Tex_1: -6493846350205248284
+      OrionVulnerable_Tex_10: -1945692443851269824
+      OrionVulnerable_Tex_11: 7176746920760778518
+      OrionVulnerable_Tex_12: -6469043784867854266
+      OrionVulnerable_Tex_13: -1078095400899396097
+      OrionVulnerable_Tex_14: -5136834774365716877
+      OrionVulnerable_Tex_15: -3660513463739060238
+      OrionVulnerable_Tex_16: 7334487370506128447
+      OrionVulnerable_Tex_17: 5032151003464683578
+      OrionVulnerable_Tex_18: -264775991802714595
+      OrionVulnerable_Tex_19: 1722512082902974470
+      OrionVulnerable_Tex_2: -233538375205436197
+      OrionVulnerable_Tex_20: -6523714558923921516
+      OrionVulnerable_Tex_21: -525829019424578936
+      OrionVulnerable_Tex_22: 1732056360163786646
+      OrionVulnerable_Tex_23: 9000175553283121184
+      OrionVulnerable_Tex_24: -140658316778178522
+      OrionVulnerable_Tex_25: -4779521025899706568
+      OrionVulnerable_Tex_26: -7074034044238055600
+      OrionVulnerable_Tex_27: -2690309181302004679
+      OrionVulnerable_Tex_28: -6913536396834807541
+      OrionVulnerable_Tex_29: -7410971758236263211
+      OrionVulnerable_Tex_3: 3200578410854228394
+      OrionVulnerable_Tex_30: 3366636807020855574
+      OrionVulnerable_Tex_31: 2622840221432837919
+      OrionVulnerable_Tex_32: 4541955299376722569
+      OrionVulnerable_Tex_33: -4884732686861383352
+      OrionVulnerable_Tex_34: 6461679414904384380
+      OrionVulnerable_Tex_35: -35263169344978988
+      OrionVulnerable_Tex_36: -8174107850720692540
+      OrionVulnerable_Tex_37: -1878573289782352350
+      OrionVulnerable_Tex_38: -8378727397080635958
+      OrionVulnerable_Tex_39: -3417003503362553071
+      OrionVulnerable_Tex_4: -5551104939087561790
+      OrionVulnerable_Tex_40: 5898289414971518100
+      OrionVulnerable_Tex_41: -7292532176649578013
+      OrionVulnerable_Tex_42: -1211450297895897856
+      OrionVulnerable_Tex_43: 5017728441518095813
+      OrionVulnerable_Tex_44: -4612161719954873013
+      OrionVulnerable_Tex_45: 3353721506337580774
+      OrionVulnerable_Tex_46: -1456654998387471619
+      OrionVulnerable_Tex_47: 7448173737396306801
+      OrionVulnerable_Tex_48: -2733429993051333306
+      OrionVulnerable_Tex_49: 9034536745670800008
+      OrionVulnerable_Tex_5: -880938274089479198
+      OrionVulnerable_Tex_50: 221726395277837455
+      OrionVulnerable_Tex_51: -7394189999038487278
+      OrionVulnerable_Tex_52: -7256275988266785946
+      OrionVulnerable_Tex_53: -8837283758461285573
+      OrionVulnerable_Tex_54: 6450512928829482815
+      OrionVulnerable_Tex_55: -5783840245918881922
+      OrionVulnerable_Tex_56: 2816175101954168333
+      OrionVulnerable_Tex_57: -6302698440438188339
+      OrionVulnerable_Tex_58: -2977714713545544451
+      OrionVulnerable_Tex_59: -4815032922201496797
+      OrionVulnerable_Tex_6: 8504415452651874180
+      OrionVulnerable_Tex_60: -2234068487015757219
+      OrionVulnerable_Tex_61: 4180646643312393491
+      OrionVulnerable_Tex_62: -3322772176039607263
+      OrionVulnerable_Tex_63: 5985100118213651940
+      OrionVulnerable_Tex_64: -304783716215689861
+      OrionVulnerable_Tex_65: -2277615116532636925
+      OrionVulnerable_Tex_66: 1439872319089748839
+      OrionVulnerable_Tex_67: -1444919935271100419
+      OrionVulnerable_Tex_7: 5924978597493824939
+      OrionVulnerable_Tex_8: -1777192029771495142
+      OrionVulnerable_Tex_9: -6822379156487110966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

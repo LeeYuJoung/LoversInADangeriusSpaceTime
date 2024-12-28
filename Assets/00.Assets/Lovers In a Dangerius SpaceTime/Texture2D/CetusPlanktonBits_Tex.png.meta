@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusPlanktonBits_Tex_0: 2244436873179469345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

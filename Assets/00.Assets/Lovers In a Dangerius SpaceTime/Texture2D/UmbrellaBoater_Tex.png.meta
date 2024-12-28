@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UmbrellaBoater_Tex_0: 9088421753171560790
+      UmbrellaBoater_Tex_1: 8904933675932814550
+      UmbrellaBoater_Tex_10: 6466002634523648477
+      UmbrellaBoater_Tex_11: -7255170484421693025
+      UmbrellaBoater_Tex_2: 7159765557933705689
+      UmbrellaBoater_Tex_3: 3941137243737832407
+      UmbrellaBoater_Tex_4: 9126929151729491930
+      UmbrellaBoater_Tex_5: -9016596318045974717
+      UmbrellaBoater_Tex_6: 1023956652737896000
+      UmbrellaBoater_Tex_7: 1011258297982827817
+      UmbrellaBoater_Tex_8: 1465051876014780687
+      UmbrellaBoater_Tex_9: -8040215214139610496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

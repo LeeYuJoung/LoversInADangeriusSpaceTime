@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CapsuleCrowbar_Tex_0: -5100981691431600527
+      CapsuleCrowbar_Tex_1: -1413247248531662839
+      CapsuleCrowbar_Tex_2: 4218180299442309860
+      CapsuleCrowbar_Tex_3: -6501551121116288564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

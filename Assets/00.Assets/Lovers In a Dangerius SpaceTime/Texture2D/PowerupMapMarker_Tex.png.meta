@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerupMapMarker_Tex_0: -5785013401227799997
+      PowerupMapMarker_Tex_1: 7247055094283067438
+      PowerupMapMarker_Tex_2: 11054455255084451
+      PowerupMapMarker_Tex_3: 1542750500419268298
+      PowerupMapMarker_Tex_4: 6655553307021231112
+      PowerupMapMarker_Tex_5: -8366111209899792859
+      PowerupMapMarker_Tex_6: -464757195228734589
+      PowerupMapMarker_Tex_7: -2201217722968240603
+      PowerupMapMarker_Tex_8: 225688691158112195
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

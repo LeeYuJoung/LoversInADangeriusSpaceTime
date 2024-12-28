@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroHopsyDiagram_Tex_0: 869636419311461526
+      IntroHopsyDiagram_Tex_1: -858747076701992118
+      IntroHopsyDiagram_Tex_2: -4933736769099419954
+      IntroHopsyDiagram_Tex_3: 3298361494274256140
+      IntroHopsyDiagram_Tex_4: 8178714304915701331
+      IntroHopsyDiagram_Tex_5: -4600428211455738057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

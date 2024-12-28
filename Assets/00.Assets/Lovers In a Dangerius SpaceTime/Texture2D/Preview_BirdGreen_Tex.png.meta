@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Preview_BirdGreen_Tex_0: -6900945583542553876
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

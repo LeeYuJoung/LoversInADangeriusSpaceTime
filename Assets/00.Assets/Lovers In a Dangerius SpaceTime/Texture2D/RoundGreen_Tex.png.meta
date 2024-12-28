@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RoundGreen_Tex_0: 8716362033933215550
+      RoundGreen_Tex_1: 5710656120385903130
+      RoundGreen_Tex_2: 1897360167307088788
+      RoundGreen_Tex_3: 2444407887312428243
+      RoundGreen_Tex_4: 6660281363102446065
+      RoundGreen_Tex_5: -5214030168081579600
+      RoundGreen_Tex_6: -7189744108155903213
+      RoundGreen_Tex_7: 6623367349216987821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

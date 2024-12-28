@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RoundYellow_Tex_0: -1599984726605469839
+      RoundYellow_Tex_1: 3697050986383733442
+      RoundYellow_Tex_2: 4002227018954904366
+      RoundYellow_Tex_3: 303395383374296519
+      RoundYellow_Tex_4: -4433027545416455347
+      RoundYellow_Tex_5: 186295480242070723
+      RoundYellow_Tex_6: 1806668945827413260
+      RoundYellow_Tex_7: -1116047189591565755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

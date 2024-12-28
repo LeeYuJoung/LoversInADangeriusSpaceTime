@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMultibeam_Tex_0: 1526075815224636469
+      YamatoMultibeam_Tex_1: 940895178420993877
+      YamatoMultibeam_Tex_2: -3376428869023707852
+      YamatoMultibeam_Tex_3: 2910023027094538530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

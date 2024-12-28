@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChainSpearTip_Tex_0: -8547354113300498487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

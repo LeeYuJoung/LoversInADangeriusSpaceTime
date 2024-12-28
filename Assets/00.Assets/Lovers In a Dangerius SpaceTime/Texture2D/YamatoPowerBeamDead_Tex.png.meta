@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoPowerBeamDead_Tex_0: 1502352321174841281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

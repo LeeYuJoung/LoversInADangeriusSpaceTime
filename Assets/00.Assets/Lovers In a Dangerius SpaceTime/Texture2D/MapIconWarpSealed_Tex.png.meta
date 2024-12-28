@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapIconWarpSealed_Tex_0: 1748743930816597504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusSeaweed_Tex_0: 7504016040702314205
+      CetusSeaweed_Tex_1: -1771998345924182371
+      CetusSeaweed_Tex_2: 950273790835949097
+      CetusSeaweed_Tex_3: 5977376514021412085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

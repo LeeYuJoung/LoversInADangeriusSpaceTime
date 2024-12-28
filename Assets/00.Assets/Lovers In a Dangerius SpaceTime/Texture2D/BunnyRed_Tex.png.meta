@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BunnyRed_Tex_0: -5980935426940180753
+      BunnyRed_Tex_1: 4413053551864341573
+      BunnyRed_Tex_2: 5675710887445541186
+      BunnyRed_Tex_3: -1281108244059064147
+      BunnyRed_Tex_4: -5583208947369930864
+      BunnyRed_Tex_5: 3456366661094275703
+      BunnyRed_Tex_6: 474679594871710887
+      BunnyRed_Tex_7: -1551362844021460962
+      BunnyRed_Tex_8: -1598963907359469014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

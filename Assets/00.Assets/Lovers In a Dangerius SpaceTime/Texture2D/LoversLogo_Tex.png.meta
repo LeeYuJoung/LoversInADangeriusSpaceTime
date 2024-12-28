@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LoversLogo_Tex_0: -2301735265247181374
+      LoversLogo_Tex_1: -4581282787646590948
+      LoversLogo_Tex_2: 9209588708918792969
+      LoversLogo_Tex_3: -515814348170733762
+      LoversLogo_Tex_4: -30681628206906004
+      LoversLogo_Tex_5: 1874782009895850731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

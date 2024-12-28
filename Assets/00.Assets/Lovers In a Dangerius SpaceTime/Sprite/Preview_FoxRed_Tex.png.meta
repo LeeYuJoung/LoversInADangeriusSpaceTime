@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Preview_FoxRed_Tex_0: 4570089359362967673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

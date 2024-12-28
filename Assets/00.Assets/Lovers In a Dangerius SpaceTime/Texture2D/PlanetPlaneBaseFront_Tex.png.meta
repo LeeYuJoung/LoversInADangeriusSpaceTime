@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneBaseFront_Tex_0: 6802278678349889303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

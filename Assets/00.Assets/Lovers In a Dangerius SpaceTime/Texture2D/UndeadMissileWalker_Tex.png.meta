@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UndeadMissileWalker_Tex_0: -4929910797762775816
+      UndeadMissileWalker_Tex_1: 3725716437972848099
+      UndeadMissileWalker_Tex_10: -1979585870401945827
+      UndeadMissileWalker_Tex_11: 7576463661412416246
+      UndeadMissileWalker_Tex_12: -2366000410857935427
+      UndeadMissileWalker_Tex_13: 3954922327697471899
+      UndeadMissileWalker_Tex_14: -3644863443010896825
+      UndeadMissileWalker_Tex_15: 4904690602844627718
+      UndeadMissileWalker_Tex_16: -5094848019429580064
+      UndeadMissileWalker_Tex_17: 6455238721377536826
+      UndeadMissileWalker_Tex_18: 5978916680384700798
+      UndeadMissileWalker_Tex_19: 4329394931887097081
+      UndeadMissileWalker_Tex_2: 4032345757259454153
+      UndeadMissileWalker_Tex_3: -2251519457338193371
+      UndeadMissileWalker_Tex_4: 7470624521822085104
+      UndeadMissileWalker_Tex_5: 2743571760848923130
+      UndeadMissileWalker_Tex_6: -4867005112429161422
+      UndeadMissileWalker_Tex_7: -8895722481753165851
+      UndeadMissileWalker_Tex_8: -1305715438506257022
+      UndeadMissileWalker_Tex_9: 2330140102976850441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

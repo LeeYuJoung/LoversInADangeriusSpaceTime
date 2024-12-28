@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BoulderCapsule_NormalMap_0: 4618036994871177101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

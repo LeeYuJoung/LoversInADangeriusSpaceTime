@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LevelSelectOrionConstellation_Tex_0: -5301713623044665409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

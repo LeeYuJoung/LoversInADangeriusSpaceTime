@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FragBomber_Tex_0: 2254879363664719669
+      FragBomber_Tex_1: -1010879008516756875
+      FragBomber_Tex_10: 7263942004001440641
+      FragBomber_Tex_11: 8455633369885480394
+      FragBomber_Tex_12: 2876604802818029239
+      FragBomber_Tex_13: 5283607505851847771
+      FragBomber_Tex_14: 7482643162530174662
+      FragBomber_Tex_15: -1032732149993253591
+      FragBomber_Tex_16: -151484457859098883
+      FragBomber_Tex_17: 8110237074722462098
+      FragBomber_Tex_18: -2489246086604769606
+      FragBomber_Tex_19: 2136787829026016432
+      FragBomber_Tex_2: 8807895559363608603
+      FragBomber_Tex_20: 5083240321899910840
+      FragBomber_Tex_21: 1564577565231192783
+      FragBomber_Tex_22: -1157880468752819474
+      FragBomber_Tex_23: 2417677131855794763
+      FragBomber_Tex_24: 1891144389817080354
+      FragBomber_Tex_25: -6901701079110996099
+      FragBomber_Tex_26: 8752020669267481582
+      FragBomber_Tex_27: -547264539972066487
+      FragBomber_Tex_28: -8864776051446083184
+      FragBomber_Tex_29: -7026622690899009313
+      FragBomber_Tex_3: -3342974314527180342
+      FragBomber_Tex_30: -1472834656869123480
+      FragBomber_Tex_31: 1901809322954702710
+      FragBomber_Tex_4: 343265327640256300
+      FragBomber_Tex_5: -448502874930796312
+      FragBomber_Tex_6: -8459644783905786213
+      FragBomber_Tex_7: 4198932222348179222
+      FragBomber_Tex_8: -5219577026743737770
+      FragBomber_Tex_9: -2818829624409049101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

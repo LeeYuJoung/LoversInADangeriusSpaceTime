@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KamikazeBomb_Tex_0: -5548385250376613979
+      KamikazeBomb_Tex_1: 7913348816636276249
+      KamikazeBomb_Tex_2: 3169516259977169829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

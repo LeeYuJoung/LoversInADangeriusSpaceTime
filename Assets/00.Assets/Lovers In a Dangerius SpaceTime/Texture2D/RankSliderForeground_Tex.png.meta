@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RankSliderForeground_Tex_0: 5998313710414298846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

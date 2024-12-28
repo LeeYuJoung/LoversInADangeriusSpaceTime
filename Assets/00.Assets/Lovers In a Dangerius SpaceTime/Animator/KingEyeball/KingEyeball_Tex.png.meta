@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KingEyeball_Tex_0: -3011892008028509766
+      KingEyeball_Tex_1: -5629490278481697642
+      KingEyeball_Tex_2: -4530209390254821961
+      KingEyeball_Tex_3: -5668745384952651786
+      KingEyeball_Tex_4: 5388628760666762790
+      KingEyeball_Tex_5: -7921024176196974168
+      KingEyeball_Tex_6: 3925312636518526645
+      KingEyeball_Tex_7: -8979806025154878444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

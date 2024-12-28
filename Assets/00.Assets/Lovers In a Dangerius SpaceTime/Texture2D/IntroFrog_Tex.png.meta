@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroFrog_Tex_0: -2122272724017269803
+      IntroFrog_Tex_1: -4674186879636022593
+      IntroFrog_Tex_2: -2007340398001135203
+      IntroFrog_Tex_3: -4993023160437851590
+      IntroFrog_Tex_4: -1628571455435887706
+      IntroFrog_Tex_5: 6475862376634150995
+      IntroFrog_Tex_6: -174542904126305328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

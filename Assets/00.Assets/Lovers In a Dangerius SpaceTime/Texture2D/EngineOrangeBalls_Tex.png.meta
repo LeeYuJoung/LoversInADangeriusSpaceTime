@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EngineOrangeBalls_Tex_0: -6904079571379479632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KingCepheusSpaceBGFar_Tex_0: -6312752192173336606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

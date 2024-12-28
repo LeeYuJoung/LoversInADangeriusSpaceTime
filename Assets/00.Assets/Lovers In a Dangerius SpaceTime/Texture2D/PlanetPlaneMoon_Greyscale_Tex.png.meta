@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneMoon_Greyscale_Tex_0: 1226242744081970881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

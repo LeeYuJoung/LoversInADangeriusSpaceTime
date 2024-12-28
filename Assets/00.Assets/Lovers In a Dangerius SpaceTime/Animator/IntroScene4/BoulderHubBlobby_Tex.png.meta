@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BoulderHubBlobby_Tex_0: -3802456674795258258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

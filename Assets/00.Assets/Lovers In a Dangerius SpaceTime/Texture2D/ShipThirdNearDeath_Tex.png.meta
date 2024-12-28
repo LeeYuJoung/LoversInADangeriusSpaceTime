@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShipThirdNearDeath_Tex_0: 7611838121552045210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
