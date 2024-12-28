@@ -14,11 +14,11 @@ public enum State
     Shield
 }
 
-
 public class SpaceShip : MonoBehaviour
 {
     [SerializeField] private List<GameObject> turret;
     [SerializeField] private GameObject yamatoCannon;
+    [SerializeField] private GameObject yamatoMissile;
     [SerializeField] private GameObject shield;
     [SerializeField] private GameObject bullet;
     [SerializeField] private GameObject engine;
@@ -27,6 +27,7 @@ public class SpaceShip : MonoBehaviour
     [SerializeField] private float engineRotateSpeed = 5f;
     [SerializeField] private State state = State.None;
 
+    private bool isShoot = false;
     private void FixedUpdate() 
     {
         RotateObj(yamatoCannon, cannonRotateSpeed * Time.fixedDeltaTime);
@@ -106,11 +107,16 @@ public class SpaceShip : MonoBehaviour
     /// </summary>
     private void OnYamatoCannon()
     {
-        Vector2 direction = yamatoCannon.transform.position - transform.position;
-        direction.Normalize();
+        if(!isShoot)
+        {
+            Vector2 direction = yamatoCannon.transform.GetChild(0).position - transform.position;
+            direction.Normalize();
 
-        
-        
+            Debug.Log(yamatoCannon.transform.position);
+            Debug.Log(transform.position);
+            yamatoMissile.GetComponent<Rigidbody2D>().linearVelocity = direction;
+            isShoot = true;
+        }
     }
 
     /// <summary>

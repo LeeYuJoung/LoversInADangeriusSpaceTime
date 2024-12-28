@@ -2182,6 +2182,7 @@ GameObject:
   - component: {fileID: 1297735568}
   - component: {fileID: 1297735570}
   - component: {fileID: 1297735569}
+  - component: {fileID: 1297735571}
   m_Layer: 0
   m_Name: YamatoMissile
   m_TagString: Untagged
@@ -2197,12 +2198,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1297735567}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7800001, y: 0.7800001, z: 0.78}
+  m_LocalRotation: {x: -0, y: -0, z: 0.33652002, w: 0.9416764}
+  m_LocalPosition: {x: -0.605111, y: 3.6811817, z: 0.043567766}
+  m_LocalScale: {x: 0.39000005, y: 0.39000005, z: 0.39}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1667355801}
+  m_Father: {fileID: 1482676319}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1297735569
 Rigidbody2D:
@@ -2286,6 +2287,42 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1297735571
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297735567}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.000000074505806, y: -0.00000047683716}
+  m_Radius: 0.6399999
 --- !u!1 &1349053589
 GameObject:
   m_ObjectHideFlags: 0
@@ -2786,6 +2823,38 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1482676318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1482676319}
+  m_Layer: 0
+  m_Name: MissileGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1482676319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1482676318}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.81225455, y: -1.9986019, z: -0.043567766}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1297735568}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1502430888
 GameObject:
   m_ObjectHideFlags: 0
@@ -3141,8 +3210,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 4.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1297735568}
+  m_Children: []
   m_Father: {fileID: 1355353362}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.78}
 --- !u!212 &1667355802
@@ -3856,13 +3924,14 @@ MonoBehaviour:
   - {fileID: 1066333629}
   - {fileID: 560651912}
   yamatoCannon: {fileID: 1355353361}
+  yamatoMissile: {fileID: 1297735567}
   shield: {fileID: 0}
   bullet: {fileID: 0}
   engine: {fileID: 598033053}
   cannonRotateSpeed: -20
   turretRotateSpeed: -50
   engineRotateSpeed: -100
-  state: 6
+  state: 5
 --- !u!4 &2139515990
 Transform:
   m_ObjectHideFlags: 0
@@ -3902,3 +3971,4 @@ SceneRoots:
   - {fileID: 784158576}
   - {fileID: 806418423}
   - {fileID: 2139515990}
+  - {fileID: 1482676319}
