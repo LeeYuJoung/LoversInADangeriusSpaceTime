@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ladder
   - Pet
+  - Machine
   layers:
   - Default
   - TransparentFX
@@ -14,11 +15,11 @@ TagManager:
   - Water
   - UI
   - Plane
+  - MiddlePlane
+  - Wall
   - Ladder
-  - 
-  - 
-  - 
-  - 
+  - Machine
+  - Pet
   - 
   - 
   - 
