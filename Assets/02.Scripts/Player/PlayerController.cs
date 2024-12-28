@@ -6,7 +6,8 @@ namespace yjlee.Player
     public class PlayerController : MonoBehaviour
     {
         private Rigidbody2D playerRigidbody;
-        private Animator playerAnimator;
+
+        [SerializeField]
         private PlayerState playerState;
 
         [SerializeField]
@@ -26,40 +27,44 @@ namespace yjlee.Player
 
         private void Update()
         {
-            Move();
             Climb();
             Jump();
             Action();
+            AICommand();
+        }
+
+        private void FixedUpdate()
+        {
+            Move();
         }
 
         // 이동 동작 실행
         public void Move()
         {
-            if (playerState == PlayerState.Climb)
+            if (playerState != PlayerState.Climb)
             {
-                return;
-            }
+                if (Input.GetKey(KeyCode.RightArrow))
+                {
+                    playerState = PlayerState.Move;
+                    transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
-            if (Input.GetKey(KeyCode.RightArrow))
-            {
-                playerState = PlayerState.Move;
-                transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+                    playerRigidbody.AddForce(Vector2.right * moveSpeed, ForceMode2D.Impulse);
+                    playerRigidbody.linearVelocity = new Vector2(Mathf.Max(-playerRigidbody.linearVelocityX, maxSpeed), playerRigidbody.linearVelocityY);
+                }
+                else if (Input.GetKey(KeyCode.LeftArrow))
+                {
+                    playerState = PlayerState.Move;
+                    transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
 
-                playerRigidbody.AddForce(Vector2.right * moveSpeed, ForceMode2D.Impulse);
-                playerRigidbody.linearVelocity = new Vector2(Mathf.Max(-playerRigidbody.linearVelocityX, maxSpeed), playerRigidbody.linearVelocityY);
+                    playerRigidbody.AddForce(Vector2.left * moveSpeed, ForceMode2D.Impulse);
+                    playerRigidbody.linearVelocity = new Vector2(Mathf.Max(playerRigidbody.linearVelocityX, -maxSpeed), playerRigidbody.linearVelocityY);
+                }
+                else if (Input.GetKeyUp(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.LeftArrow))
+                {
+                    playerState = PlayerState.Idle;
+                    playerRigidbody.linearVelocity = new Vector3(playerRigidbody.linearVelocity.normalized.x, playerRigidbody.linearVelocity.y);
+                }
             }
-            else if(Input.GetKey(KeyCode.LeftArrow))
-            {
-                playerState = PlayerState.Move;
-                transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-
-                playerRigidbody.AddForce(Vector2.left * moveSpeed, ForceMode2D.Impulse);
-                playerRigidbody.linearVelocity = new Vector2(Mathf.Max(playerRigidbody.linearVelocityX, -maxSpeed), playerRigidbody.linearVelocityY);
-            }
-            else if(Input.GetKeyUp(KeyCode.RightArrow) || Input.GetKeyUp(KeyCode.LeftArrow))
-            {
-                playerRigidbody.linearVelocity = new Vector3(playerRigidbody.linearVelocity.normalized.x, playerRigidbody.linearVelocity.y);
-            } 
         }
 
         // 사다리에서 이동 동작 실행
@@ -91,31 +96,35 @@ namespace yjlee.Player
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                // 플레이어가 바닥에 닿아 있거나 사다리에 있을 경우 점프 가능
                 if (IsGrounded() || IsLadder())
                 {
                     playerState = PlayerState.Jump;
-
                     playerRigidbody.gravityScale = 1.0f;
                     playerRigidbody.AddForce(Vector2.up * jumpSpeed, ForceMode2D.Impulse);
                 }
             }
         }
 
+        // 오브젝트와 상호 작용 실행
         public void Action()
         {
             if (Input.GetKeyDown(KeyCode.M))
             {
-                // 우주선의 기기와 상호작용 버튼
-
+                playerState = PlayerState.Operation;
             }
-            else if (Input.GetKeyDown(KeyCode.N))
+        }
+
+        // AI 봇에 명령 실행
+        public void AICommand()
+        {
+            if (Input.GetKeyDown(KeyCode.N))
             {
-                // AI 봇에 명령 버튼
 
             }
         }
 
-        // 플레이어가 땅을 밟고 있는지 확인
+        // 플레이어가 바닥을 밟고 있는지 확인
         private bool IsGrounded()
         {
             var _ray = Physics2D.Raycast(transform.position, Vector2.down, 0.5f, 1 << LayerMask.NameToLayer("Plane"));
@@ -140,13 +149,40 @@ namespace yjlee.Player
             return _ray.collider != null;
         }
 
+        private void OnCollisionEnter2D(Collision2D coll)
+        {
+            if (coll.gameObject.layer == LayerMask.NameToLayer("Plane") || coll.gameObject.layer == LayerMask.NameToLayer("MiddlePlane"))
+            {
+                if (playerState != PlayerState.Climb)
+                {
+                    playerState = PlayerState.Idle;
+                }
+            }
+        }
+
+        private void OnCollisionStay2D(Collision2D coll)
+        {
+            if (coll.gameObject.layer == LayerMask.NameToLayer("MiddlePlane") && playerState == PlayerState.Climb)
+            {
+                coll.gameObject.GetComponent<PlatformEffector2D>().surfaceArc = 0.0f;
+            }
+        }
+
+        private void OnCollisionExit2D(Collision2D coll)
+        {
+            if (coll.gameObject.layer == LayerMask.NameToLayer("MiddlePlane"))
+            {
+                coll.gameObject.GetComponent<PlatformEffector2D>().surfaceArc = 180.0f;
+            }
+        }
+
         private void OnTriggerEnter2D(Collider2D coll)
         {
-            //if(coll.CompareTag("Pet") || coll.CompareTag("Player"))
-            //{
-            //    // 충돌 애니메이션 실행
-            //    playerState = PLAYER_STATE.Crash;
-            //}
+            if (coll.CompareTag("Pet") || coll.CompareTag("Player"))
+            {
+                // 충돌 애니메이션 실행
+                playerState = PlayerState.Crash;
+            }
         }
     }
 }
