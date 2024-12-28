@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapOrion_Tex_0: -5975426880794977557
+      MapOrion_Tex_1: -7445496807728963944
+      MapOrion_Tex_10: 4867707668191819311
+      MapOrion_Tex_11: 3030973277480554797
+      MapOrion_Tex_12: -7007985067443103261
+      MapOrion_Tex_13: -1898604422067945240
+      MapOrion_Tex_14: 357099421987912635
+      MapOrion_Tex_15: 968213700975524461
+      MapOrion_Tex_2: -4381663715130795479
+      MapOrion_Tex_3: -8221313823777869503
+      MapOrion_Tex_4: 617154219308449719
+      MapOrion_Tex_5: 7057496835975947435
+      MapOrion_Tex_6: -4669174002478637769
+      MapOrion_Tex_7: 5486273137586430840
+      MapOrion_Tex_8: 2394536725296287865
+      MapOrion_Tex_9: 7382525496622378701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

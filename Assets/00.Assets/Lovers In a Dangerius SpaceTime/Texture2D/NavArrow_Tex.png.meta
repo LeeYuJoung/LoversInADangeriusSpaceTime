@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NavArrow_Tex_0: 5573434484845345743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

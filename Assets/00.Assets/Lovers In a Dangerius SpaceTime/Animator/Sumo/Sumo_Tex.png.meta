@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sumo_Tex_0: 2569813147433100595
+      Sumo_Tex_1: 2417982801798955091
+      Sumo_Tex_10: -7239502709947881020
+      Sumo_Tex_11: -3425578825031908830
+      Sumo_Tex_2: -1649888015959737524
+      Sumo_Tex_3: 4076799554918561132
+      Sumo_Tex_4: -3196157352883364290
+      Sumo_Tex_5: 6135593150332080505
+      Sumo_Tex_6: -7503218942060518582
+      Sumo_Tex_7: -6529342457431442324
+      Sumo_Tex_8: 5272043973478609679
+      Sumo_Tex_9: -9189176661582082985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JailDark_Tex_0: -1865060259903796075
+      JailDark_Tex_1: -8170820281235919051
+      JailDark_Tex_10: 8310958004977911729
+      JailDark_Tex_11: 9036156421758740156
+      JailDark_Tex_12: -1526368266633892031
+      JailDark_Tex_13: -2929995984310505500
+      JailDark_Tex_14: -1515966227338916698
+      JailDark_Tex_15: -7580612244788723600
+      JailDark_Tex_2: 5135321649359216947
+      JailDark_Tex_3: -7657743731529813627
+      JailDark_Tex_4: 5994532841977812003
+      JailDark_Tex_5: -8947949720342309714
+      JailDark_Tex_6: -2470870619154509352
+      JailDark_Tex_7: 6016106242463336517
+      JailDark_Tex_8: 382254121781000972
+      JailDark_Tex_9: -9036698738105898610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

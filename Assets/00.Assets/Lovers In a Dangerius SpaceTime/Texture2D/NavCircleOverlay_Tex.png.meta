@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NavCircleOverlay_Tex_0: 4593568932868718416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

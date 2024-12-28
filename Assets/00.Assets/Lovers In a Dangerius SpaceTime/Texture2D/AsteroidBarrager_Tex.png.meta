@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AsteroidBarrager_Tex_0: 275328887423089769
+      AsteroidBarrager_Tex_1: 6998397870165113703
+      AsteroidBarrager_Tex_10: 789518391874416018
+      AsteroidBarrager_Tex_11: 1357785676600963979
+      AsteroidBarrager_Tex_12: 1269903181899141137
+      AsteroidBarrager_Tex_13: 3373896460152831766
+      AsteroidBarrager_Tex_14: 1708449638727848062
+      AsteroidBarrager_Tex_15: -2878526632459349814
+      AsteroidBarrager_Tex_16: 2435390120815264253
+      AsteroidBarrager_Tex_17: 2717436196353632639
+      AsteroidBarrager_Tex_18: -520430391635622004
+      AsteroidBarrager_Tex_19: 7048691245250112317
+      AsteroidBarrager_Tex_2: 7678535199534136230
+      AsteroidBarrager_Tex_20: 302848776025031778
+      AsteroidBarrager_Tex_21: 3123175238732634441
+      AsteroidBarrager_Tex_22: -7053868910535685038
+      AsteroidBarrager_Tex_23: -8490481690382580704
+      AsteroidBarrager_Tex_24: -5929497004807338397
+      AsteroidBarrager_Tex_25: 4517628267645706449
+      AsteroidBarrager_Tex_26: 4536246525601112822
+      AsteroidBarrager_Tex_27: -8488088750963378965
+      AsteroidBarrager_Tex_28: 7260723197417540583
+      AsteroidBarrager_Tex_29: -9119349618838284794
+      AsteroidBarrager_Tex_3: 4738058609554979124
+      AsteroidBarrager_Tex_30: -2689518053756936727
+      AsteroidBarrager_Tex_31: -5458359050336345931
+      AsteroidBarrager_Tex_32: -2627693596903016702
+      AsteroidBarrager_Tex_33: -1970408203634606324
+      AsteroidBarrager_Tex_34: -5083892730203473329
+      AsteroidBarrager_Tex_35: 3055175810184392502
+      AsteroidBarrager_Tex_36: 5198434886076182389
+      AsteroidBarrager_Tex_37: 2050403524023553973
+      AsteroidBarrager_Tex_38: 6236990974931811166
+      AsteroidBarrager_Tex_39: -1723935312683791099
+      AsteroidBarrager_Tex_4: -4332643837093762502
+      AsteroidBarrager_Tex_40: -8298795993841718396
+      AsteroidBarrager_Tex_41: -789774622423150795
+      AsteroidBarrager_Tex_42: 8230739987497546567
+      AsteroidBarrager_Tex_43: -6462983452571834804
+      AsteroidBarrager_Tex_44: -5140943992752689712
+      AsteroidBarrager_Tex_45: 3557988763008111439
+      AsteroidBarrager_Tex_46: -5948115716692671911
+      AsteroidBarrager_Tex_47: -8479290840036115992
+      AsteroidBarrager_Tex_48: -435879903556489210
+      AsteroidBarrager_Tex_49: 3455865999124821988
+      AsteroidBarrager_Tex_5: 8414891615274885450
+      AsteroidBarrager_Tex_50: 6844128335316711366
+      AsteroidBarrager_Tex_51: 6761990224499050342
+      AsteroidBarrager_Tex_52: 3572290845792298814
+      AsteroidBarrager_Tex_53: 6456489202287140744
+      AsteroidBarrager_Tex_54: -869929064112380631
+      AsteroidBarrager_Tex_55: 7469990498363330991
+      AsteroidBarrager_Tex_6: 8314380843549851751
+      AsteroidBarrager_Tex_7: -7738015008140755946
+      AsteroidBarrager_Tex_8: 1799045284254359034
+      AsteroidBarrager_Tex_9: -1166879026943976579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

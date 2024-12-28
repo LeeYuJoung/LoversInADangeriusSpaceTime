@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapCetus_Tex_0: -129660831026429986
+      MapCetus_Tex_1: -5613070923856073279
+      MapCetus_Tex_2: -6951692196222625143
+      MapCetus_Tex_3: -7210875287787701028
+      MapCetus_Tex_4: -4170720517052157815
+      MapCetus_Tex_5: 5183336293779864841
+      MapCetus_Tex_6: 6432315114420083768
+      MapCetus_Tex_7: -2964029952784609006
+      MapCetus_Tex_8: -1171139711347362496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterWave_Tex_0: -3308575076338465137
+      WaterWave_Tex_1: 1014988937273562748
+      WaterWave_Tex_2: -834526553193155311
+      WaterWave_Tex_3: -7854373600337668426
+      WaterWave_Tex_4: -3139229294190187238
+      WaterWave_Tex_5: 1818114205398221288
+      WaterWave_Tex_6: -9106277356766332199
+      WaterWave_Tex_7: 3299483088569737728
+      WaterWave_Tex_8: -3324035235818937405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

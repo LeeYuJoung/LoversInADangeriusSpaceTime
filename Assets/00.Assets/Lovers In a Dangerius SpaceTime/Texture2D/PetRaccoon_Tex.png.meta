@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PetRaccoon_Tex_0: 9041644547644693748
+      PetRaccoon_Tex_1: -6825999938363305092
+      PetRaccoon_Tex_2: -4438300786441736410
+      PetRaccoon_Tex_3: 9152201360785491520
+      PetRaccoon_Tex_4: 8850033460895276246
+      PetRaccoon_Tex_5: -1683743909995252168
+      PetRaccoon_Tex_6: 6031625466279263848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

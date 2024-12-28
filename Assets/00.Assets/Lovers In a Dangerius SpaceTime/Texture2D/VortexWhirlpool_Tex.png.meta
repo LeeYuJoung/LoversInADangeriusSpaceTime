@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VortexWhirlpool_Tex_0: -4667085771179998308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

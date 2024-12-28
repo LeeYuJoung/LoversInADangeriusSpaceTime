@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationShort_Tex_0: 1249887168956053815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

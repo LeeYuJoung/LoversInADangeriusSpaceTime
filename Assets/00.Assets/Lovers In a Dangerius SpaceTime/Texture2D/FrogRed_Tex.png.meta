@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrogRed_Tex_0: -5684372197189394643
+      FrogRed_Tex_1: 4281223182646314391
+      FrogRed_Tex_2: 6491048148892355555
+      FrogRed_Tex_3: -609761377309792456
+      FrogRed_Tex_4: -5666610196392737483
+      FrogRed_Tex_5: -7947373729136533399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

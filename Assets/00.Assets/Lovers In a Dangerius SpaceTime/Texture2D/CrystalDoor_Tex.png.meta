@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrystalDoor_Tex_0: 204746688975478818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

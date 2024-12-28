@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EngineVulnerableNearDeath_Tex_0: 2140444789005936726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

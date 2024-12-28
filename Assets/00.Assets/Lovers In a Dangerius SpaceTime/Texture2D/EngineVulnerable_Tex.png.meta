@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EngineVulnerable_Tex_0: 7613597386485573913
+      EngineVulnerable_Tex_1: 6297339194104972641
+      EngineVulnerable_Tex_2: 7971762279025454200
+      EngineVulnerable_Tex_3: 5163854366787514028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElectroNet_Tex_0: 6688181246219101096
+      ElectroNet_Tex_1: 1178114103783335972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

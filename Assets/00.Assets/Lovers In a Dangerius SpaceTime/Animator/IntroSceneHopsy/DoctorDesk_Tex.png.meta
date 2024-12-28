@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DoctorDesk_Tex_0: -7421491854818274578
+      DoctorDesk_Tex_1: -2100941080955231562
+      DoctorDesk_Tex_2: -5228243504730511466
+      DoctorDesk_Tex_3: 6711597217251597494
+      DoctorDesk_Tex_4: 1162448293068963498
+      DoctorDesk_Tex_5: -6813366322870846613
+      DoctorDesk_Tex_6: -3525937316300648689
+      DoctorDesk_Tex_7: 3945864394455534064
+      DoctorDesk_Tex_8: 8285670153064351266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

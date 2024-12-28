@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OrionConstellation_Tex_0: -3418145392494559976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

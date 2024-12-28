@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurtleWalker_Tex_0: 4923217516603313112
+      TurtleWalker_Tex_1: -3077914797149751547
+      TurtleWalker_Tex_10: -5775216709907806972
+      TurtleWalker_Tex_11: 2354393554337022358
+      TurtleWalker_Tex_12: -6556188388529248572
+      TurtleWalker_Tex_13: 1912798600025191018
+      TurtleWalker_Tex_14: 6328866484493440088
+      TurtleWalker_Tex_15: -5294745359115190893
+      TurtleWalker_Tex_16: 4918203803640627027
+      TurtleWalker_Tex_17: -3742794802189148377
+      TurtleWalker_Tex_18: 3441629426749898143
+      TurtleWalker_Tex_19: -4412204875524238479
+      TurtleWalker_Tex_2: -2730179647072135431
+      TurtleWalker_Tex_20: -7265512643989904772
+      TurtleWalker_Tex_21: -6428610301740688001
+      TurtleWalker_Tex_22: 8178101254741377933
+      TurtleWalker_Tex_23: -2395702353601387358
+      TurtleWalker_Tex_24: -4594293606415937799
+      TurtleWalker_Tex_25: 4265207013621831941
+      TurtleWalker_Tex_26: 655580473605064791
+      TurtleWalker_Tex_27: -212151602725623790
+      TurtleWalker_Tex_28: 903984679998422611
+      TurtleWalker_Tex_29: -5892260327066530537
+      TurtleWalker_Tex_3: -2258864700976319244
+      TurtleWalker_Tex_30: -3580110160437681066
+      TurtleWalker_Tex_31: 214795577634506234
+      TurtleWalker_Tex_4: 8650993392961491675
+      TurtleWalker_Tex_5: 138494136368619758
+      TurtleWalker_Tex_6: 7012333072441768496
+      TurtleWalker_Tex_7: -5571481732503729491
+      TurtleWalker_Tex_8: -5916979745761066480
+      TurtleWalker_Tex_9: 2242482994725059543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UrsaBaseTreesDestroyed_Tex_0: -3187929785930848124
+      UrsaBaseTreesDestroyed_Tex_1: 8229467301997967584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

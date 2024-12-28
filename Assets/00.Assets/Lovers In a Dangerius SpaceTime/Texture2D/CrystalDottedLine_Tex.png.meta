@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrystalDottedLine_Tex_0: -3105612380177461162
+      CrystalDottedLine_Tex_1: -4988362086621002920
+      CrystalDottedLine_Tex_2: -5619455495685628688
+      CrystalDottedLine_Tex_3: -5459010293237443317
+      CrystalDottedLine_Tex_4: 1568369553930544484
+      CrystalDottedLine_Tex_5: -4367101752038724848
+      CrystalDottedLine_Tex_6: -2296064859161672979
+      CrystalDottedLine_Tex_7: -2778864091203137246
+      CrystalDottedLine_Tex_8: 2884534703012764842
+      CrystalDottedLine_Tex_9: -1484999269934854276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

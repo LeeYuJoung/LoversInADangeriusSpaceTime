@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerMetalShieldSpike_Tex_0: 4993317360777873436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

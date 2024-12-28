@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ArmouredQueenVulnerable_Tex_0: 7175152763596373869
+      ArmouredQueenVulnerable_Tex_1: -516203447522223626
+      ArmouredQueenVulnerable_Tex_10: -7725093415213433814
+      ArmouredQueenVulnerable_Tex_11: -7198130096234587144
+      ArmouredQueenVulnerable_Tex_12: -6767451294131116877
+      ArmouredQueenVulnerable_Tex_13: -2151377600999582439
+      ArmouredQueenVulnerable_Tex_14: 9132097817097188426
+      ArmouredQueenVulnerable_Tex_15: 2318502741077932561
+      ArmouredQueenVulnerable_Tex_16: -4002841761970031138
+      ArmouredQueenVulnerable_Tex_17: -2302568427138083967
+      ArmouredQueenVulnerable_Tex_18: 6244415120831637167
+      ArmouredQueenVulnerable_Tex_19: -4240629872294325680
+      ArmouredQueenVulnerable_Tex_2: 6412681569350667059
+      ArmouredQueenVulnerable_Tex_20: -1730187289973032151
+      ArmouredQueenVulnerable_Tex_21: -5046445875564882187
+      ArmouredQueenVulnerable_Tex_22: -8812412811762644400
+      ArmouredQueenVulnerable_Tex_23: 6262541886249636603
+      ArmouredQueenVulnerable_Tex_24: 8037968457354603154
+      ArmouredQueenVulnerable_Tex_25: 7043502920970173416
+      ArmouredQueenVulnerable_Tex_26: -6545149869997080850
+      ArmouredQueenVulnerable_Tex_27: 7075009021092203622
+      ArmouredQueenVulnerable_Tex_28: -4930257875888885953
+      ArmouredQueenVulnerable_Tex_29: 4205051594665660401
+      ArmouredQueenVulnerable_Tex_3: -2106188107902535551
+      ArmouredQueenVulnerable_Tex_30: -6049569810595588288
+      ArmouredQueenVulnerable_Tex_31: -4190515310027454898
+      ArmouredQueenVulnerable_Tex_32: 2045157279522598211
+      ArmouredQueenVulnerable_Tex_33: 358820374104244137
+      ArmouredQueenVulnerable_Tex_34: -7812303330723557692
+      ArmouredQueenVulnerable_Tex_35: -6841165976111128633
+      ArmouredQueenVulnerable_Tex_36: -289330267123557135
+      ArmouredQueenVulnerable_Tex_37: 1704614479068291036
+      ArmouredQueenVulnerable_Tex_38: 1198518906143708385
+      ArmouredQueenVulnerable_Tex_39: -2186493997527083981
+      ArmouredQueenVulnerable_Tex_4: 3342372206199223669
+      ArmouredQueenVulnerable_Tex_40: 571895238018993210
+      ArmouredQueenVulnerable_Tex_41: 7017855294539691190
+      ArmouredQueenVulnerable_Tex_42: 3361343171113729803
+      ArmouredQueenVulnerable_Tex_43: 3018280860161946859
+      ArmouredQueenVulnerable_Tex_44: 611359315739711647
+      ArmouredQueenVulnerable_Tex_45: 3218182913516600060
+      ArmouredQueenVulnerable_Tex_46: 2503273714533587783
+      ArmouredQueenVulnerable_Tex_47: 1101643231884702647
+      ArmouredQueenVulnerable_Tex_48: 2975552633139460030
+      ArmouredQueenVulnerable_Tex_49: 2470284073519337847
+      ArmouredQueenVulnerable_Tex_5: -4201830709847921036
+      ArmouredQueenVulnerable_Tex_50: -2364256080494583014
+      ArmouredQueenVulnerable_Tex_51: -351694541167875158
+      ArmouredQueenVulnerable_Tex_52: 3283166838566898799
+      ArmouredQueenVulnerable_Tex_53: -8034606788097571032
+      ArmouredQueenVulnerable_Tex_54: -4665267603065687973
+      ArmouredQueenVulnerable_Tex_55: 824056235747520761
+      ArmouredQueenVulnerable_Tex_6: 815233789242941121
+      ArmouredQueenVulnerable_Tex_7: 5942489492627137907
+      ArmouredQueenVulnerable_Tex_8: 7336839367259864937
+      ArmouredQueenVulnerable_Tex_9: -802568011231219897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

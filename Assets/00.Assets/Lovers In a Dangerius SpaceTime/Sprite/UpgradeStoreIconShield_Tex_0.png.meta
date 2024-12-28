@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UpgradeStoreIconShield_Tex_0_0: 4339341671056333621
+      UpgradeStoreIconShield_Tex_0_1: 3303872946010240771
+      UpgradeStoreIconShield_Tex_0_10: -4337184202119955082
+      UpgradeStoreIconShield_Tex_0_11: 8544851154792720759
+      UpgradeStoreIconShield_Tex_0_12: 3346934168265455107
+      UpgradeStoreIconShield_Tex_0_13: 836570591115623060
+      UpgradeStoreIconShield_Tex_0_14: 4223866887967813049
+      UpgradeStoreIconShield_Tex_0_15: -5148960867042775968
+      UpgradeStoreIconShield_Tex_0_16: -1999189204080776112
+      UpgradeStoreIconShield_Tex_0_17: 1544757414087562483
+      UpgradeStoreIconShield_Tex_0_18: 8391418266674770933
+      UpgradeStoreIconShield_Tex_0_19: -6871689678988194944
+      UpgradeStoreIconShield_Tex_0_2: 8241678691427491658
+      UpgradeStoreIconShield_Tex_0_20: 9171428551938258139
+      UpgradeStoreIconShield_Tex_0_21: -605527190411107067
+      UpgradeStoreIconShield_Tex_0_22: 6021891136380013346
+      UpgradeStoreIconShield_Tex_0_23: -956913850440321763
+      UpgradeStoreIconShield_Tex_0_3: -7163416416216893455
+      UpgradeStoreIconShield_Tex_0_4: 6973831772685005199
+      UpgradeStoreIconShield_Tex_0_5: -1305557543387360874
+      UpgradeStoreIconShield_Tex_0_6: -8798061931951491086
+      UpgradeStoreIconShield_Tex_0_7: 1098745575172089734
+      UpgradeStoreIconShield_Tex_0_8: 7554420831956940101
+      UpgradeStoreIconShield_Tex_0_9: -4855132116467655603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

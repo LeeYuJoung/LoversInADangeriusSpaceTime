@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cetus_Tex_0: -2430354351685994310
+      Cetus_Tex_1: 5942618581705846015
+      Cetus_Tex_10: 1530372045964965285
+      Cetus_Tex_11: -7166928443192446852
+      Cetus_Tex_12: 6216926208131612401
+      Cetus_Tex_13: 1426695400720615080
+      Cetus_Tex_14: 8552537644749574825
+      Cetus_Tex_15: -5252041074973442763
+      Cetus_Tex_16: 8716527490425992305
+      Cetus_Tex_17: -6286307900130220138
+      Cetus_Tex_18: 8271973730119730901
+      Cetus_Tex_19: 1911936085357795644
+      Cetus_Tex_2: -3452035259506171317
+      Cetus_Tex_20: 9015377640006160206
+      Cetus_Tex_21: -205644694949335260
+      Cetus_Tex_22: 1444703308559857038
+      Cetus_Tex_23: 2880987031782071828
+      Cetus_Tex_24: -971533105651100517
+      Cetus_Tex_25: -1878989731391698355
+      Cetus_Tex_26: -360001637040025718
+      Cetus_Tex_27: -1476006565319211720
+      Cetus_Tex_28: -8497036424866761263
+      Cetus_Tex_29: 1632124063572538353
+      Cetus_Tex_3: 3901091275852726912
+      Cetus_Tex_30: -1528001902909234534
+      Cetus_Tex_31: 1764614143792390570
+      Cetus_Tex_4: 7527897259887607606
+      Cetus_Tex_5: 4475208485962197789
+      Cetus_Tex_6: 5375163850803669417
+      Cetus_Tex_7: -8341248997730693420
+      Cetus_Tex_8: -214556916886667608
+      Cetus_Tex_9: -4016467959637353972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMissileSmokeTrail_Tex_0: 6415879800617539964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

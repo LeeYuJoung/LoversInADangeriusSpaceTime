@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BoulderUrsaBlobby_Tex_0: 5802715745698579616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

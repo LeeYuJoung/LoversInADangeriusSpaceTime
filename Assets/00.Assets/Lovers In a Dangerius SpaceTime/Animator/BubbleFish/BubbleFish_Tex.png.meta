@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BubbleFish_Tex_0: -5059036716603135796
+      BubbleFish_Tex_1: 2607072031889162804
+      BubbleFish_Tex_10: -569635482252361859
+      BubbleFish_Tex_11: -8802588610354082443
+      BubbleFish_Tex_12: 3704594400063729815
+      BubbleFish_Tex_13: 8919808761035925251
+      BubbleFish_Tex_14: 4130635898091119182
+      BubbleFish_Tex_15: -7160322533857021962
+      BubbleFish_Tex_2: 1301493964992033858
+      BubbleFish_Tex_3: -1116876675598010795
+      BubbleFish_Tex_4: 7958307504917201484
+      BubbleFish_Tex_5: -1071927481574639237
+      BubbleFish_Tex_6: 5971837843303810257
+      BubbleFish_Tex_7: 1665981556003123400
+      BubbleFish_Tex_8: 4011038800281283709
+      BubbleFish_Tex_9: 6761926750085235294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

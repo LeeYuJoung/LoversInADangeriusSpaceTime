@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerMetalMissile_Tex_0: 299073344098271961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

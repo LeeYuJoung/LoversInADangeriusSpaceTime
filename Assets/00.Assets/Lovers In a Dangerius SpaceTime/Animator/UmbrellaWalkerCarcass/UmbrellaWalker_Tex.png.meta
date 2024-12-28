@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UmbrellaWalker_Tex_0: -4397164573383484548
+      UmbrellaWalker_Tex_1: -3998802941489720347
+      UmbrellaWalker_Tex_10: 9197849885595858905
+      UmbrellaWalker_Tex_11: -6992860734097870549
+      UmbrellaWalker_Tex_12: -5987478944129722792
+      UmbrellaWalker_Tex_13: -6322928878087825783
+      UmbrellaWalker_Tex_14: 3231592767944701716
+      UmbrellaWalker_Tex_15: 4595841568548976969
+      UmbrellaWalker_Tex_16: 226981551378079431
+      UmbrellaWalker_Tex_17: 8159997537241395792
+      UmbrellaWalker_Tex_18: 3600958339700964053
+      UmbrellaWalker_Tex_19: -8806147514716861563
+      UmbrellaWalker_Tex_2: -6617283675644120080
+      UmbrellaWalker_Tex_20: -3585874276550179637
+      UmbrellaWalker_Tex_21: -8909911813193382606
+      UmbrellaWalker_Tex_22: 2413918065267707298
+      UmbrellaWalker_Tex_23: 1616700668735604655
+      UmbrellaWalker_Tex_24: 4412573218910500742
+      UmbrellaWalker_Tex_25: -3485120059643198771
+      UmbrellaWalker_Tex_26: -2243444090225061811
+      UmbrellaWalker_Tex_27: 3877036050131134834
+      UmbrellaWalker_Tex_3: -9193354260973546654
+      UmbrellaWalker_Tex_4: 204940304467561509
+      UmbrellaWalker_Tex_5: -2632817542647193385
+      UmbrellaWalker_Tex_6: 8778273361550921604
+      UmbrellaWalker_Tex_7: -5482785797675799843
+      UmbrellaWalker_Tex_8: -4257169192105937474
+      UmbrellaWalker_Tex_9: -5405515838442019750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

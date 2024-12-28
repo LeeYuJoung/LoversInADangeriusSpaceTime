@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusBarf_Tex_0: -5767412309972734835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

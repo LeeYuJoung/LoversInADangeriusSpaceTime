@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IntroReactorSilhouette_Tex_0: -4960010683103160157
+      IntroReactorSilhouette_Tex_1: 5792184162595580931
+      IntroReactorSilhouette_Tex_2: -8620143659395414785
+      IntroReactorSilhouette_Tex_3: -8745875257478001144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

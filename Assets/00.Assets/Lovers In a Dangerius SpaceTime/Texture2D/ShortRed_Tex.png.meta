@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShortRed_Tex_0: 2345791498683439384
+      ShortRed_Tex_1: -2496634670640404117
+      ShortRed_Tex_10: 6367220257560467130
+      ShortRed_Tex_11: 1982168017666332819
+      ShortRed_Tex_2: 5227683276804387962
+      ShortRed_Tex_3: -1884703180463952551
+      ShortRed_Tex_4: 1814116081956912472
+      ShortRed_Tex_5: 2502931337346822781
+      ShortRed_Tex_6: 7283768408995132034
+      ShortRed_Tex_7: -4982031458780192539
+      ShortRed_Tex_8: 1358414251969379383
+      ShortRed_Tex_9: 3982287114185673550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

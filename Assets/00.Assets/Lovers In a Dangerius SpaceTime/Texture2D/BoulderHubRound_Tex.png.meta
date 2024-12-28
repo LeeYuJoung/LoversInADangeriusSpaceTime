@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BoulderHubRound_Tex_0: -5942738133578685687
+      BoulderHubRound_Tex_1: -6157890948378742533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

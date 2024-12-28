@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUDEngineVulnerableHealthBarHealth_Tex_0: -2429326681934811108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

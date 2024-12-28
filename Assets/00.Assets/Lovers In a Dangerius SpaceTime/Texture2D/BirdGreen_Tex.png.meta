@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BirdGreen_Tex_0: 5947865803121638674
+      BirdGreen_Tex_1: -6937153786896861886
+      BirdGreen_Tex_2: 231713262805333224
+      BirdGreen_Tex_3: -2313901024493661803
+      BirdGreen_Tex_4: 2906755642542663121
+      BirdGreen_Tex_5: 2916175221292952379
+      BirdGreen_Tex_6: 3965475839535423556
+      BirdGreen_Tex_7: -8004975764197912501
+      BirdGreen_Tex_8: 9013525861034244651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

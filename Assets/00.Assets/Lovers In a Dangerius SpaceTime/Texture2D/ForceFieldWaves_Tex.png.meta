@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ForceFieldWaves_Tex_0: -2015374902759442079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

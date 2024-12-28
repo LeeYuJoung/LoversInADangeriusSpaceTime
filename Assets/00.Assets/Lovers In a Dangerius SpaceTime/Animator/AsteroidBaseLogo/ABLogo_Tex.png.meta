@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ABLogo_Tex_0: -6827597443311958934
+      ABLogo_Tex_1: 9030197525376725954
+      ABLogo_Tex_10: 1431721369871803786
+      ABLogo_Tex_11: -1974796900113082885
+      ABLogo_Tex_2: 8579799326138523041
+      ABLogo_Tex_3: -6247170542338983331
+      ABLogo_Tex_4: -987591540665117895
+      ABLogo_Tex_5: 1582656674029229863
+      ABLogo_Tex_6: -5540344770376840843
+      ABLogo_Tex_7: -2531962300385648958
+      ABLogo_Tex_8: -3989335412192931895
+      ABLogo_Tex_9: 6385867447455375406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

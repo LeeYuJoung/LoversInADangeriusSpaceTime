@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OrionReferenceDiagram_Tex_0: -3986073642274549305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

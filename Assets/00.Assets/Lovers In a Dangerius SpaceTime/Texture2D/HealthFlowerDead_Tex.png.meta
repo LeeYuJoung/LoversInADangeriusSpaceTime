@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthFlowerDead_Tex_0: -6586304830775372375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

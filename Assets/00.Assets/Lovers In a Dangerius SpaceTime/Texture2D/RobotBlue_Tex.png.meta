@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RobotBlue_Tex_0: -683043115308020835
+      RobotBlue_Tex_1: -9196050451496783954
+      RobotBlue_Tex_10: 6344138490491649897
+      RobotBlue_Tex_2: -4145127836854450766
+      RobotBlue_Tex_3: -8435168614735749412
+      RobotBlue_Tex_4: 2224096938773592764
+      RobotBlue_Tex_5: -8943331190399212445
+      RobotBlue_Tex_6: -5081869576440218554
+      RobotBlue_Tex_7: -3404894624181501368
+      RobotBlue_Tex_8: -879717388614364973
+      RobotBlue_Tex_9: 210582376494282733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

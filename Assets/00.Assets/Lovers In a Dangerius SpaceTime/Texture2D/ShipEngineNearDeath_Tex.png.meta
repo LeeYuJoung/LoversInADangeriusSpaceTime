@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShipEngineNearDeath_Tex_0: 3061828002878229409
+      ShipEngineNearDeath_Tex_1: 4260432982334013872
+      ShipEngineNearDeath_Tex_2: -8540785859292962372
+      ShipEngineNearDeath_Tex_3: -6061193915669175029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

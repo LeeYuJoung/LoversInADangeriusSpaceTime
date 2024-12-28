@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CampaignProgressKingCepheusConstellationIcon_Tex_0: 5659975059177201502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

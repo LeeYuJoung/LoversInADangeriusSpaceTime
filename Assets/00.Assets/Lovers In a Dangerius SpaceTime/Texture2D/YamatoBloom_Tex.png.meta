@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoBloom_Tex_0: 4351963685046657418
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

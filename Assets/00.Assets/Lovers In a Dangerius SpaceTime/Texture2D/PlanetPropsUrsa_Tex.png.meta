@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPropsUrsa_Tex_0: 3743674105156238051
+      PlanetPropsUrsa_Tex_1: 1306425201742562018
+      PlanetPropsUrsa_Tex_2: -4260038551962586000
+      PlanetPropsUrsa_Tex_3: 4358946640101101269
+      PlanetPropsUrsa_Tex_4: 6999851749025178437
+      PlanetPropsUrsa_Tex_5: 2529248798047539762
+      PlanetPropsUrsa_Tex_6: 7729119390437203208
+      PlanetPropsUrsa_Tex_7: 7147812184240907402
+      PlanetPropsUrsa_Tex_8: 6907945198490273752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

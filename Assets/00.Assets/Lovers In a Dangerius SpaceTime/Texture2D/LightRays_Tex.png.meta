@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LightRays_Tex_0: 3833505776364559982
+      LightRays_Tex_1: 236666071276652284
+      LightRays_Tex_2: 5342014800871997906
+      LightRays_Tex_3: 6642955528030267448
+      LightRays_Tex_4: -8637258097224826273
+      LightRays_Tex_5: -6217483994624745513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

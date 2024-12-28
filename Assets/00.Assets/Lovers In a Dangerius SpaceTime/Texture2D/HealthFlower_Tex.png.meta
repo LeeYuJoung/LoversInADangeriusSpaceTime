@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthFlower_Tex_0: 3407155034938986439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoxYellow_Tex_0: 122415404467334990
+      FoxYellow_Tex_1: -7297417184605863003
+      FoxYellow_Tex_2: -772750648929954671
+      FoxYellow_Tex_3: 2421027406972980793
+      FoxYellow_Tex_4: 7723250373378278663
+      FoxYellow_Tex_5: -3649535735787600125
+      FoxYellow_Tex_6: 2447219214268666715
+      FoxYellow_Tex_7: -1776503280848239320
+      FoxYellow_Tex_8: -6729003588267008494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InsectSergeantMissile_Tex_0: 9014843847438767900
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

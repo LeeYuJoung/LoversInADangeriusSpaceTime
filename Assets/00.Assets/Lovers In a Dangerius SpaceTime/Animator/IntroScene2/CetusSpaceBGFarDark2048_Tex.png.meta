@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CetusSpaceBGFarDark2048_Tex_0: 9171309469365488220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

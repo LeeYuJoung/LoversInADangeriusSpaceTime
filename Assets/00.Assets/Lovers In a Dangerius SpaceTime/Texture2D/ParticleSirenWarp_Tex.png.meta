@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParticleSirenWarp_Tex_0: 8975339229672568969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

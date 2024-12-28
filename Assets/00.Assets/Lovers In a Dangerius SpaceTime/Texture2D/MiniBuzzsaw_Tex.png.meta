@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiniBuzzsaw_Tex_0: -6936616731444248113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

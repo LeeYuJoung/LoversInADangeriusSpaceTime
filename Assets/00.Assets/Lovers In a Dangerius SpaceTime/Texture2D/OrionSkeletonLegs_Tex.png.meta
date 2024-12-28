@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OrionSkeletonLegs_Tex_0: -3943798846428561911
+      OrionSkeletonLegs_Tex_1: 3790334187708289077
+      OrionSkeletonLegs_Tex_2: 4580896374210121646
+      OrionSkeletonLegs_Tex_3: -2201349608921287982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

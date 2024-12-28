@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendSpriteIcon_Tex_0: 8466819648230944588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

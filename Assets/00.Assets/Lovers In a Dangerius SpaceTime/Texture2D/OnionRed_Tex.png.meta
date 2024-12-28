@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OnionRed_Tex_0: 4818626010780944839
+      OnionRed_Tex_1: -5870591947423431725
+      OnionRed_Tex_2: -5664550560069707195
+      OnionRed_Tex_3: 6215387645540241489
+      OnionRed_Tex_4: 7395204435274804221
+      OnionRed_Tex_5: 8615895294554552201
+      OnionRed_Tex_6: 3767573199906029689
+      OnionRed_Tex_7: -90658076662453494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

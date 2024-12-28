@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EnginePulseVertical_Tex_0: 8873706419562720609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

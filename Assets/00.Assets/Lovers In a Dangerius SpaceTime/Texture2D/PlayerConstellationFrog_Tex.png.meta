@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationFrog_Tex_0: 7184359532284903550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

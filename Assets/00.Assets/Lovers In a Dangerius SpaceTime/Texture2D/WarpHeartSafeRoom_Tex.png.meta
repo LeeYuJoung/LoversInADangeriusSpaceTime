@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WarpHeartSafeRoom_Tex_0: 1165885051584990163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

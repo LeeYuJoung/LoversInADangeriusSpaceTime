@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUDFriendsBarBG_Tex_0: -3683457690619706870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

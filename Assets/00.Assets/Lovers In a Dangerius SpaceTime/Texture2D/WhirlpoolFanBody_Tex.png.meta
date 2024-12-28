@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WhirlpoolFanBody_Tex_0: -2605207436424776717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

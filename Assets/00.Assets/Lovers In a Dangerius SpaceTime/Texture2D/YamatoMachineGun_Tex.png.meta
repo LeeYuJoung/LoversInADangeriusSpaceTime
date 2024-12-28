@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMachineGun_Tex_0: 8685142751766232438
+      YamatoMachineGun_Tex_1: -2687679702810257124
+      YamatoMachineGun_Tex_2: -6024868620015230346
+      YamatoMachineGun_Tex_3: -7833184256447330127
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

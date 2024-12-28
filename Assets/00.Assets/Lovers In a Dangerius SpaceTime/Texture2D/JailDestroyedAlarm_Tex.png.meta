@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JailDestroyedAlarm_Tex_0: -7768595693379945548
+      JailDestroyedAlarm_Tex_1: -8462269991795518486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

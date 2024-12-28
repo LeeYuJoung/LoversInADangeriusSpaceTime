@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      InsectBarragerMissile_Tex_0: -6079730332528086995
+      InsectBarragerMissile_Tex_1: -4667030059143148789
+      InsectBarragerMissile_Tex_2: -1988860828545291522
+      InsectBarragerMissile_Tex_3: 894985863160657154
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

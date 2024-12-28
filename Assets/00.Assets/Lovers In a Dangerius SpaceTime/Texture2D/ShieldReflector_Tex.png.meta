@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShieldReflector_Tex_0: 1437873527240673647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

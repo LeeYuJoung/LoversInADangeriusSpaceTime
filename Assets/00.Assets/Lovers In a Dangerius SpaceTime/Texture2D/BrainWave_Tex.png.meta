@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrainWave_Tex_0: 468689144319012843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

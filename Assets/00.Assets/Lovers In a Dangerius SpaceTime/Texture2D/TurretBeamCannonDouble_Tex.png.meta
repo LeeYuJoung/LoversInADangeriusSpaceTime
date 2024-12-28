@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurretBeamCannonDouble_Tex_0: -8345507066052772236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Caltrop3D_Tex_0: 77279855165001913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

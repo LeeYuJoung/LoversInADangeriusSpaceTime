@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BomberShard2_Tex_0: -7078417645094283396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

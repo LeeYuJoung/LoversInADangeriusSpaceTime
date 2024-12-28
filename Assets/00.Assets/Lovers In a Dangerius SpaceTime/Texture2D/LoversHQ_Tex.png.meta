@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LoversHQ_Tex_0: 1767420774707458734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

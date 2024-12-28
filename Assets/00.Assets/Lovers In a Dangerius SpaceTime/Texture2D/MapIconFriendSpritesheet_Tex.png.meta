@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MapIconFriendSpritesheet_Tex_0: 4363100438797895922
+      MapIconFriendSpritesheet_Tex_1: 3998041597838804046
+      MapIconFriendSpritesheet_Tex_10: -4284496027112853281
+      MapIconFriendSpritesheet_Tex_11: -1504119193659586584
+      MapIconFriendSpritesheet_Tex_12: 883532162239093523
+      MapIconFriendSpritesheet_Tex_13: -2855786498299647872
+      MapIconFriendSpritesheet_Tex_2: -125385612816592360
+      MapIconFriendSpritesheet_Tex_3: 8222545878473755420
+      MapIconFriendSpritesheet_Tex_4: -2102277142460385871
+      MapIconFriendSpritesheet_Tex_5: 8483373872944638577
+      MapIconFriendSpritesheet_Tex_6: -328890739665446484
+      MapIconFriendSpritesheet_Tex_7: 6246811985254952982
+      MapIconFriendSpritesheet_Tex_8: -8478731382864689143
+      MapIconFriendSpritesheet_Tex_9: 7733619573530781283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

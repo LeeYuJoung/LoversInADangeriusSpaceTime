@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetPlaneGasGiant_Purple_Tex_0: -1355218532867045400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

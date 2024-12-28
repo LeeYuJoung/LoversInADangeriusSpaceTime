@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FragBomb_Tex_0: -5731607632856848065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

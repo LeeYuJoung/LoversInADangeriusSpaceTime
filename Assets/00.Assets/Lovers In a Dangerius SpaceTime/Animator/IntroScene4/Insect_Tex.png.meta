@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Insect_Tex_0: 465161841434343644
+      Insect_Tex_1: -9184129098034761532
+      Insect_Tex_10: 5692030140637431562
+      Insect_Tex_11: 6533284696699733100
+      Insect_Tex_2: -3836958089856075028
+      Insect_Tex_3: 8575400027625036445
+      Insect_Tex_4: -6138029987037253355
+      Insect_Tex_5: -5055561960358761804
+      Insect_Tex_6: 8698877670800418467
+      Insect_Tex_7: -1550941281868255943
+      Insect_Tex_8: 8627373263344499312
+      Insect_Tex_9: -8886002134673565334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UnidirectionalShooter_Tex_0: 6359269782518906752
+      UnidirectionalShooter_Tex_1: -8589975370865108444
+      UnidirectionalShooter_Tex_10: -2746625981777867185
+      UnidirectionalShooter_Tex_11: 6138917385041030350
+      UnidirectionalShooter_Tex_12: 2122907149170581765
+      UnidirectionalShooter_Tex_13: -2992560944130634843
+      UnidirectionalShooter_Tex_14: 237397557264820679
+      UnidirectionalShooter_Tex_15: -5281581415993659456
+      UnidirectionalShooter_Tex_16: -3965696699111509662
+      UnidirectionalShooter_Tex_17: 1071074412394289029
+      UnidirectionalShooter_Tex_18: -5910339116691812588
+      UnidirectionalShooter_Tex_19: -5466025556607341876
+      UnidirectionalShooter_Tex_2: -4001004594194561790
+      UnidirectionalShooter_Tex_20: 5375797078505586741
+      UnidirectionalShooter_Tex_21: 8276995295125531071
+      UnidirectionalShooter_Tex_22: 8888202283916988834
+      UnidirectionalShooter_Tex_23: 968131115047356737
+      UnidirectionalShooter_Tex_3: 684759454124591427
+      UnidirectionalShooter_Tex_4: 5343152015002609775
+      UnidirectionalShooter_Tex_5: -3232272381306235832
+      UnidirectionalShooter_Tex_6: 6610652123350956284
+      UnidirectionalShooter_Tex_7: -6396008137533434359
+      UnidirectionalShooter_Tex_8: -4977292971201765271
+      UnidirectionalShooter_Tex_9: -159022615754840623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

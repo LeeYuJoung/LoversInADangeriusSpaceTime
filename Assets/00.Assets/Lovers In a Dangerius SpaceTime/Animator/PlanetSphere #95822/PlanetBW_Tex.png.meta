@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanetBW_Tex_0: -5632334483830082289
+      PlanetBW_Tex_1: -9197902442186089337
+      PlanetBW_Tex_2: 8971951579758155886
+      PlanetBW_Tex_3: -6696440872397864014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

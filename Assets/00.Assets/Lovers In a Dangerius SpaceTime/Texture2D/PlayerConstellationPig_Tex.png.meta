@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayerConstellationPig_Tex_0: 2934324752481755504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShipDivorcedLocked_Tex_0: -8652170573459964859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

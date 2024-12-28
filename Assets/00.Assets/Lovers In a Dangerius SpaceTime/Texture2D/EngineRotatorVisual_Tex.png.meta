@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EngineRotatorVisual_Tex_0: 5471633502711514371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

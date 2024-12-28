@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShortYelow_Tex_0: -7501793254799176533
+      ShortYelow_Tex_1: 160792929616234067
+      ShortYelow_Tex_10: 1497216517750797507
+      ShortYelow_Tex_11: 3799518056329370872
+      ShortYelow_Tex_2: -6924135119508218899
+      ShortYelow_Tex_3: -6909101996482239475
+      ShortYelow_Tex_4: -7208361337780622968
+      ShortYelow_Tex_5: 6873648957009299778
+      ShortYelow_Tex_6: -4748649081844955430
+      ShortYelow_Tex_7: -5699686693008055646
+      ShortYelow_Tex_8: 4392875931327607674
+      ShortYelow_Tex_9: 4039279439491844516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParticlePulseOutline2_Tex_0: -5088453267731570783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

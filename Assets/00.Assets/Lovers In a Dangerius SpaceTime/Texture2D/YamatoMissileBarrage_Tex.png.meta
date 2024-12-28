@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YamatoMissileBarrage_Tex_0: -4373945739304596729
+      YamatoMissileBarrage_Tex_1: 4374588156853068484
+      YamatoMissileBarrage_Tex_2: -7900875850563358175
+      YamatoMissileBarrage_Tex_3: 6793335580329776326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SprintCounterBackBlue_Tex_0: -1910768868598395725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

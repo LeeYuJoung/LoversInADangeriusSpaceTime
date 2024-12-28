@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ArmouredInsect_Tex_0: 3015285861530384212
+      ArmouredInsect_Tex_1: 151624794637182534
+      ArmouredInsect_Tex_10: 7140067220893941464
+      ArmouredInsect_Tex_11: 8683183254634260194
+      ArmouredInsect_Tex_12: 859343511721852945
+      ArmouredInsect_Tex_13: 5330653430410076305
+      ArmouredInsect_Tex_14: -6752285106793301398
+      ArmouredInsect_Tex_15: -6481681542637924894
+      ArmouredInsect_Tex_16: -2434848476382919917
+      ArmouredInsect_Tex_17: 7239125138252444698
+      ArmouredInsect_Tex_18: 7281584425452413268
+      ArmouredInsect_Tex_19: 9071106496165828031
+      ArmouredInsect_Tex_2: -5442457599737809898
+      ArmouredInsect_Tex_20: 6140650920052592615
+      ArmouredInsect_Tex_21: -2173739451817642822
+      ArmouredInsect_Tex_22: 6389030697745269905
+      ArmouredInsect_Tex_23: 4740768673898723321
+      ArmouredInsect_Tex_24: -5399687785981894025
+      ArmouredInsect_Tex_25: 4751130744811533118
+      ArmouredInsect_Tex_26: -2394571787334344566
+      ArmouredInsect_Tex_27: 8029942812713682318
+      ArmouredInsect_Tex_28: 4263677374604631897
+      ArmouredInsect_Tex_29: -539205594755315667
+      ArmouredInsect_Tex_3: -4975973781326125825
+      ArmouredInsect_Tex_30: 1146477864629769464
+      ArmouredInsect_Tex_31: 4438306013744343133
+      ArmouredInsect_Tex_32: 2700039212593774149
+      ArmouredInsect_Tex_33: 626030860418757135
+      ArmouredInsect_Tex_34: -2766542110808309176
+      ArmouredInsect_Tex_35: -4704034478908322610
+      ArmouredInsect_Tex_36: 6217641192250116796
+      ArmouredInsect_Tex_37: -3357990323462025459
+      ArmouredInsect_Tex_38: 2250610341363225108
+      ArmouredInsect_Tex_39: 5642081401405096418
+      ArmouredInsect_Tex_4: 3896698670306144345
+      ArmouredInsect_Tex_40: -2948219558674181539
+      ArmouredInsect_Tex_41: -2978602199046218612
+      ArmouredInsect_Tex_42: 1017097731564088967
+      ArmouredInsect_Tex_43: 2461586045600991135
+      ArmouredInsect_Tex_44: 6103739166989515359
+      ArmouredInsect_Tex_45: -8343911422416174896
+      ArmouredInsect_Tex_46: -3706467682996049973
+      ArmouredInsect_Tex_47: 1381014303389574627
+      ArmouredInsect_Tex_48: -5015930181323660832
+      ArmouredInsect_Tex_49: 5310397788612887433
+      ArmouredInsect_Tex_5: 9010284603772975497
+      ArmouredInsect_Tex_50: 2339150903190748842
+      ArmouredInsect_Tex_51: -1279520583893752911
+      ArmouredInsect_Tex_52: 1958539666099348704
+      ArmouredInsect_Tex_53: 1765912542107506357
+      ArmouredInsect_Tex_54: 7437877571141054449
+      ArmouredInsect_Tex_55: -5530824928718012332
+      ArmouredInsect_Tex_6: -4009222573095352694
+      ArmouredInsect_Tex_7: -5186318773092814916
+      ArmouredInsect_Tex_8: 2020431547699508331
+      ArmouredInsect_Tex_9: -2287843800277649050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

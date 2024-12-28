@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CampaignProgressUrsaMajorConstellationIcon_Tex_0: -8475744166348586401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
