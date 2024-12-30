@@ -17,7 +17,7 @@ namespace yjlee.Player
         [SerializeField]
         private float climbSpeed = 0.5f;
         [SerializeField]
-        private float jumpSpeed = 0.4f;
+        private float jumpSpeed = 0.2f;
 
         private void Start()
         {
@@ -30,7 +30,7 @@ namespace yjlee.Player
             Climb();
             Jump();
             Action();
-            AICommand();
+            Command();
         }
 
         private void FixedUpdate()
@@ -82,6 +82,14 @@ namespace yjlee.Player
                 }
                 else if (Input.GetKey(KeyCode.DownArrow))
                 {
+                    if (IsGrounded())
+                    {
+                        playerState = PlayerState.Idle;
+                        playerRigidbody.gravityScale = 1.0f;
+
+                        return;
+                    }
+
                     playerState = PlayerState.Climb;
 
                     playerRigidbody.gravityScale = 0;
@@ -94,7 +102,7 @@ namespace yjlee.Player
         // 점프 동작 실행
         public void Jump()
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.LeftControl))
             {
                 // 플레이어가 바닥에 닿아 있거나 사다리에 있을 경우 점프 가능
                 if (IsGrounded() || IsLadder())
@@ -116,11 +124,11 @@ namespace yjlee.Player
         }
 
         // AI 봇에 명령 실행
-        public void AICommand()
+        public void Command()
         {
             if (Input.GetKeyDown(KeyCode.N))
             {
-
+                playerState = PlayerState.Command;
             }
         }
 
@@ -128,18 +136,7 @@ namespace yjlee.Player
         private bool IsGrounded()
         {
             var _ray = Physics2D.Raycast(transform.position, Vector2.down, 0.5f, 1 << LayerMask.NameToLayer("Plane"));
-
-            if(_ray.collider != null)
-            {
-                playerState = PlayerState.Idle;
-                playerRigidbody.gravityScale = 1.0f;
-
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return _ray.collider != null;
         }
 
         // 플레이어가 사다리를 올라갈 수 있는지 확인
@@ -151,11 +148,12 @@ namespace yjlee.Player
 
         private void OnCollisionEnter2D(Collision2D coll)
         {
-            if (coll.gameObject.layer == LayerMask.NameToLayer("Plane") || coll.gameObject.layer == LayerMask.NameToLayer("MiddlePlane"))
+            if (coll.gameObject.layer == LayerMask.NameToLayer("MiddlePlane"))
             {
                 if (playerState != PlayerState.Climb)
                 {
                     playerState = PlayerState.Idle;
+                    playerRigidbody.gravityScale = 1.0f;
                 }
             }
         }
