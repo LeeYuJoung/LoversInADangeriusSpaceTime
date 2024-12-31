@@ -70,32 +70,35 @@ namespace yjlee.Player
         // 사다리에서 이동 동작 실행
         public void Climb()
         {
-            if (IsLadder())
+            if (!IsLadder())
             {
-                if (Input.GetKey(KeyCode.UpArrow))
+                playerState = PlayerState.Idle;
+                playerRigidbody.gravityScale = 1.0f;
+                return;
+            }
+
+            if (Input.GetKey(KeyCode.UpArrow))
+            {
+                playerState = PlayerState.Climb;
+
+                playerRigidbody.gravityScale = 0;
+                playerRigidbody.linearVelocity = Vector3.zero;
+                transform.Translate(0.0f, climbSpeed * Time.deltaTime, 0.0f);
+            }
+            else if (Input.GetKey(KeyCode.DownArrow))
+            {
+                if (IsGrounded())
                 {
-                    playerState = PlayerState.Climb;
-
-                    playerRigidbody.gravityScale = 0;
-                    playerRigidbody.linearVelocity = Vector3.zero;
-                    transform.Translate(0.0f, climbSpeed * Time.deltaTime, 0.0f);
+                    playerState = PlayerState.Idle;
+                    playerRigidbody.gravityScale = 1.0f;
+                    return;
                 }
-                else if (Input.GetKey(KeyCode.DownArrow))
-                {
-                    if (IsGrounded())
-                    {
-                        playerState = PlayerState.Idle;
-                        playerRigidbody.gravityScale = 1.0f;
 
-                        return;
-                    }
+                playerState = PlayerState.Climb;
 
-                    playerState = PlayerState.Climb;
-
-                    playerRigidbody.gravityScale = 0;
-                    playerRigidbody.linearVelocity = Vector3.zero;
-                    transform.Translate(0.0f, -climbSpeed * Time.deltaTime, 0.0f);
-                }
+                playerRigidbody.gravityScale = 0;
+                playerRigidbody.linearVelocity = Vector3.zero;
+                transform.Translate(0.0f, -climbSpeed * Time.deltaTime, 0.0f);
             }
         }
 
