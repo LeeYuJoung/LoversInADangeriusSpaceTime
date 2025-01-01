@@ -4,8 +4,8 @@ using UnityEngine;
 
 namespace yjlee.AI
 {
-    // AI 봇의 이동 가능 여부 및 노드의 위치를 변수로 할당
     // Grid 안에 들어갈 Node
+    // AI 봇의 이동 가능 여부 및 노드의 위치를 변수로 할당
     public class Node
     {
         public Vector2 worldPosition;
