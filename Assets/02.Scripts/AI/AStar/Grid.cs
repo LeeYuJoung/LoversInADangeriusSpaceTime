@@ -9,11 +9,11 @@ namespace yjlee.AI
     public class Grid : MonoBehaviour
     {
         public Transform pet;
-        public LayerMask unwalkableMask;  // 걸을 수 없는 레이어 
-        public Vector2 gridWorldSize;     // 화면의 크기
+        public LayerMask unwalkableMask; // 걸을 수 없는 레이어 
+        public Vector2 gridSize;         // 화면의 크기
 
         private Node[,] grid;
-        public float nodeRadius;     // 반지름
+        public float nodeRadius;     // 반지.름
         private float nodeDiameter;  // 격자의 지름 
         private int gridSizeX;
         private int gridSizeY;
@@ -26,8 +26,8 @@ namespace yjlee.AI
         private void Awake()
         {
             nodeDiameter = nodeRadius * 2;  // 설정한 반지름으로 지름 구함
-            gridSizeX = Mathf.RoundToInt(gridWorldSize.x / nodeDiameter);   // 그리드의 가로 크기
-            gridSizeY = Mathf.RoundToInt(gridWorldSize.y / nodeDiameter);   // 그리드의 세로 크기
+            gridSizeX = Mathf.RoundToInt(gridSize.x / nodeDiameter);   // 그리드의 가로 크기
+            gridSizeY = Mathf.RoundToInt(gridSize.y / nodeDiameter);   // 그리드의 세로 크기
 
             CreateGrid();
         }
@@ -39,7 +39,7 @@ namespace yjlee.AI
 
             // 격자 생성은 좌측 최하단부터 시작 (transform은 월드 중앙에 위치)
             // 이에 x와 y좌표를 반반 씩 왼쪽, 아래쪽으로 옮김
-            Vector2 worldBottomLeft = (Vector2)transform.position - Vector2.right * gridWorldSize.x / 2 - Vector2.up * gridWorldSize.y / 2;
+            Vector2 worldBottomLeft = (Vector2)transform.position - Vector2.right * gridSize.x / 2 - Vector2.up * gridSize.y / 2;
             
             for(int x = 0; x < gridSizeX; x++)
             {
@@ -88,8 +88,8 @@ namespace yjlee.AI
         // 입력으로 들어온 월드좌표를 node 좌표계로 변환하는 함수
         public Node NodeFromWorldPoint(Vector2 worldPosition)
         {
-            float percentX = (worldPosition.x + gridWorldSize.x / 2) / gridWorldSize.x;
-            float percentY = (worldPosition.y + gridWorldSize.y / 2) / gridWorldSize.y;
+            float percentX = (worldPosition.x + gridSize.x / 2) / gridSize.x;
+            float percentY = (worldPosition.y + gridSize.y / 2) / gridSize.y;
 
             percentX = Mathf.Clamp01(percentX);
             percentY = Mathf.Clamp01(percentY);
@@ -103,7 +103,7 @@ namespace yjlee.AI
         // Scene View 출력용 Gizmos
         private void OnDrawGizmos()
         {
-            Gizmos.DrawWireCube(transform.position, new Vector2(gridWorldSize.x, gridWorldSize.y));
+            Gizmos.DrawWireCube(transform.position, new Vector2(gridSize.x, gridSize.y));
 
             if(grid != null)
             {
