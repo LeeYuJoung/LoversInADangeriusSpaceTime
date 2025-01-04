@@ -24,7 +24,7 @@ namespace yjlee.AI
             get { return gCost + hCost; }
         }
 
-        public Node(bool _walkable, Vector3 _WorldPos, int _x, int _y)
+        public Node(bool _walkable, Vector2 _WorldPos, int _x, int _y)
         {
             isWalkable = _walkable;     // 지나갈 수 있는 노드인지
             worldPosition = _WorldPos;  // 노드의 게임 내 위치값

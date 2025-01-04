@@ -25,7 +25,6 @@ namespace yjlee.AI
         // 남은거리를 넣을 Queue 생성
         public Queue<Vector2> wayQueue = new Queue<Vector2>();
 
-        [Header("Player Ctrl")]
         // 상호작용 시 walkable를 false 상태로 변환
         public static bool walkable = true;
 
@@ -40,7 +39,7 @@ namespace yjlee.AI
         private void Awake()
         {
             // 격자 생성
-            grid = GameObject.Find("AStar").GetComponent<Grid>();
+            grid = GameObject.Find("SpaceShip").GetComponent<Grid>();
             walkable = true;
         }
 
