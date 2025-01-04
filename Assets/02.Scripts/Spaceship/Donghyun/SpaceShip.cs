@@ -18,7 +18,16 @@ namespace donghyun.SpaceShip
         [SerializeField] private float cannonRotateSpeed = 5f;
         [SerializeField] private float turretRotateSpeed = 5f;
         [SerializeField] private float engineRotateSpeed = 5f;
+        [SerializeField] private float engineSpeed = 5f;
+        [SerializeField] private float engineMaxSpeed = 3f;
         [SerializeField] private ShipState state = ShipState.None;
+
+        private Rigidbody2D rb2d;
+
+        private void Awake()
+        {
+            rb2d = GetComponent<Rigidbody2D>();
+        }
 
         private void FixedUpdate()
         {
@@ -97,7 +106,7 @@ namespace donghyun.SpaceShip
 
         private IEnumerator YamatoConnonRoutine()
         {
-            for (int i = 0; i < 15; i++)
+            for (int i = 0; i < 10; i++)
             {
                 OnYamatoCannon();
                 yield return new WaitForSeconds(0.6f);
@@ -131,6 +140,16 @@ namespace donghyun.SpaceShip
             else if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.LeftArrow))
             {
                 RotateObj(engine, -engineRotateSpeed * Time.fixedDeltaTime);
+            }
+            else if (Input.GetKey(KeyCode.M))
+            {
+                Vector2 direction = transform.position - engine.transform.GetChild(0).position;
+                direction.Normalize();
+
+                if(rb2d.linearVelocity.magnitude < engineMaxSpeed)
+                {
+                    rb2d.linearVelocity += direction * engineSpeed;
+                }
             }
         }
 
